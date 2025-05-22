@@ -1,0 +1,26 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.dev1.xilac.net/cc/workflow?orgId=2550",
+  "Params": null,
+  "Body": {
+    "orgId": "2550",
+    "name": "workflow4sdwdE",
+    "description": "created by apple",
+    "actions": [
+      {
+        "actionType": "Reboot"
+      }
+    ],
+    "groups": [
+      "043a6f48-ac9d-440d-a31d-38bb9b3d7e64"
+    ],
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "CPE Event",
+        "cpeEvent": "CC EVENT - On Boot"
+      }
+    },
+    "bPriorNewAndFailed": true,
+    "fullGroupExecute": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Method": "POST",
+  "URL": "http://gcs-stg.calix.com:8081/cc/workflow?orgId=50",
+  "Params": null,
+  "Body": {
+    "orgId": "2550",
+    "name": "workflowiMYhGs",
+    "description": "created by apple",
+    "actions": [
+      {
+        "actionType": "Reboot"
+      }
+    ],
+    "groups": [
+      "72cbea6e-e10a-4f34-9765-b54a8c4a6b05"
+    ],
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "CPE Event",
+        "cpeEvent": "CC EVENT - On Boot"
+      }
+    },
+    "bPriorNewAndFailed": true,
+    "fullGroupExecute": false
+  }
+}
