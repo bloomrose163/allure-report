@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://gcs-stg.calix.com:8081/cc/device/count?orgId=50&udpConnectionRequestAddr=64.136.96.5%3A64083",
+  "Params": {
+    "udpConnectionRequestAddr": "64.136.96.5:64083"
+  },
+  "Body": null
+}

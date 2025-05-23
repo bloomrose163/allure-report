@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://gcs-stg.calix.com:8081/cc/device?orgId=50&additionalHardwareVersion=",
+  "Params": {
+    "additionalHardwareVersion": ""
+  },
+  "Body": null
+}

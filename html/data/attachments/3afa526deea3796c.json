@@ -1,0 +1,8 @@
+{
+  "Method": "DELETE",
+  "URL": "http://gcs-stg.calix.com:8081/cc/group/200acd20-00ca-4ac5-bdf6-af2be5dec51c?orgId=50&forceDelete=True",
+  "Params": {
+    "forceDelete": true
+  },
+  "Body": null
+}
