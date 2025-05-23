@@ -1,6 +1,0 @@
-{
-  "Status Code": 400,
-  "Body": {
-    "error": "Field \"type\" is incorrect. It is expected to be:[dynamic, static]"
-  }
-}
