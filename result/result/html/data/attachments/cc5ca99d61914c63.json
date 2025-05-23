@@ -1,0 +1,117 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "deviceId": "CXNK00349757",
+      "enableRgOnBattery": false,
+      "modelName": "844GE-2",
+      "opMode": "Managed ONT",
+      "orgId": "2550",
+      "subscriberId": "30539db0-4821-4770-9f83-bd420de54040",
+      "voice": {
+        "id": "a11f90f0-5ce4-4438-89e1-7cd3eee13710",
+        "FaxT38": {
+          "Enable": false
+        },
+        "Line": {
+          "1": {
+            "id": "135b78e7-d940-4d24-9cb1-b7de860ba9f8",
+            "Enable": "Enabled",
+            "VoiceProcessing": {
+              "ReceiveGain": -90,
+              "TransmitGain": -30
+            },
+            "CallingFeatures": {
+              "CallerIDEnable": true,
+              "X_000631_DirectConnectEnable": false,
+              "CallWaitingEnable": true,
+              "X_000631_ThreewayCallingEnable": true,
+              "X_000631_DirectConnectTimer": 0,
+              "MWIEnable": true
+            },
+            "SIP": {
+              "AuthUserName": "2012031101",
+              "AuthPassword": "2012031101",
+              "URI": "2012031101"
+            }
+          },
+          "2": {
+            "id": "096d55f3-7835-4457-b456-b60afe98f329",
+            "Enable": "Disabled"
+          }
+        },
+        "ServiceType": "SIP",
+        "X_CALIX_SXACC_RG_WAN": {
+          "ServiceConnectionType": "DHCP"
+        }
+      },
+      "currentDate": "2025-05-22T03:04:42.508Z",
+      "_id": "00ee65af-3b4e-43d1-9653-a6965e97055a",
+      "services": [
+        {
+          "id": "c43974c2-f5f2-47ee-b451-55753e56d29d",
+          "category": "Voice Service",
+          "Enable": true,
+          "ProfileId": "bca6a754-15c0-44b3-ae49-9f4d98798c89"
+        },
+        {
+          "id": "f53747da-c701-4e8a-8e2d-69e9db236ce6",
+          "category": "Data Service",
+          "pppoe": {
+            "Password": "test",
+            "Username": "test"
+          },
+          "Enable": true,
+          "ProfileId": "d662a5f6-0a24-4146-a74f-acb1b799deea"
+        },
+        {
+          "id": "006c0452-a185-42b7-b079-94d2eae2d8b2",
+          "category": "Video Service",
+          "Enable": true,
+          "ProfileId": "6785468a-5a7e-40b7-996c-7574d9f203ae"
+        }
+      ]
+    },
+    {
+      "data": {
+        "id": "9ecbcf23-3a64-4989-a33b-f9444a272ce3",
+        "pppoe": {
+          "Password": "John123!",
+          "Username": "john.doe"
+        },
+        "Enable": true
+      },
+      "deviceId": "provisioning-recordJYPKv1",
+      "modelName": "GS4227",
+      "opMode": "RG",
+      "orgId": "2550",
+      "video": {
+        "id": "466ff752-f995-42c3-ab86-7ed39dc597bc",
+        "Enable": true
+      },
+      "voice": {
+        "id": "a0475077-6b4e-4e93-8889-3ba83ebcf1ab",
+        "Line": {
+          "1": {
+            "id": "f6330bac-420e-4b7e-8321-56171ce418be",
+            "Enable": "Enabled",
+            "VoiceProcessing": {
+              "ReceiveGain": -90,
+              "TransmitGain": -30
+            },
+            "X_000631_H248": {
+              "TerminationId": "12345"
+            }
+          },
+          "2": {
+            "id": "76800a22-bece-4048-ac56-820d1ca9a709",
+            "Enable": "Disabled"
+          }
+        },
+        "ServiceType": "H.248"
+      },
+      "currentDate": "2025-05-16T06:39:08.643Z",
+      "_id": "07094750-e9d1-4717-a15d-636c5516a2cb"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "Method": "POST",
+  "URL": "http://gcs-stg.calix.com:8081/cc/group?orgId=50",
+  "Params": null,
+  "Body": {
+    "name": "group3vCNXX",
+    "description": "system group description",
+    "type": "dynamic",
+    "allowInheritance": true,
+    "cpeFilter": {
+      "manufacturer": "Calix",
+      "modelName": {
+        "$in": [
+          "GM1028",
+          "GS4237",
+          "GS2128G"
+        ]
+      },
+      "softwareVersion": {
+        "$ne": "24.2.500.259"
+      },
+      "hardwareVersion": {
+        "$ne": "3000287810"
+      },
+      "serialNumber": {
+        "$regex": "^CXNK0151C334$"
+      },
+      "registrationId": {
+        "$regex": "^.*?$"
+      },
+      "$or": [
+        {
+          "normalizedIpAddress": {
+            "$gte": "192.168.003.000",
+            "$lte": "192.168.003.255"
+          }
+        },
+        {
+          "normalizedIpAddress": {
+            "$gte": "192.168.004.000",
+            "$lte": "192.168.004.255"
+          }
+        }
+      ],
+      "opMode": "RG",
+      "wanAccessType": "GPON"
+    }
+  }
+}

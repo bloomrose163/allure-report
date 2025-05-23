@@ -1,0 +1,37 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "_id": "d6b0b567-ee96-408a-bd13-970fe715f6db",
+      "data": {
+        "Enable": true
+      },
+      "wifi": {},
+      "orgId": "50",
+      "video": {
+        "Enable": false
+      },
+      "voice": {
+        "Line": {
+          "1": {
+            "Enable": "Disabled"
+          },
+          "2": {
+            "Enable": "Disabled"
+          }
+        },
+        "FaxT38": {
+          "Enable": false
+        },
+        "ServiceType": "SIP",
+        "X_CALIX_SXACC_RG_WAN": {
+          "ServiceConnectionType": "DHCP"
+        }
+      },
+      "opMode": "Managed ONT",
+      "deviceId": "CXNK00AFB83B",
+      "modelName": "GS4227",
+      "subscriberId": ""
+    }
+  ]
+}

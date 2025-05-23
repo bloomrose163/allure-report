@@ -1,0 +1,56 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "additionalHardwareVersion": "UnitSerialNumber=422105086761",
+    "connectionRequestPassword": "admin",
+    "connectionRequestUrl": "http://10.245.222.132:60002/tDjd4mvM",
+    "connectionRequestUsername": "admin",
+    "createTime": "2025-05-16T01:58:13.035Z",
+    "dataModelName": "tr098",
+    "defaultGateway": "10.245.222.1",
+    "hardwareVersion": "3000291510",
+    "ipAddress": "10.245.222.132",
+    "lastBootTime": "2025-05-15T06:16:35.179Z",
+    "lastDiscoverTime": "2025-05-16T03:10:07.929Z",
+    "macAddress": "60:db:98:6f:27:dd",
+    "manufacturer": "Calix",
+    "manufacturerOUI": "60db98",
+    "modelName": "GS4227",
+    "normalizedIpAddress": "010.245.222.132",
+    "opMode": "RG",
+    "opRole": "Controller",
+    "orgId": "2550",
+    "periodicInformEnable": false,
+    "periodicInformInterval": 86400,
+    "productClass": "GigaSpire",
+    "registrationId": "aereg123",
+    "serialNumber": "CXNK00AFB83B",
+    "softwareVersion": "25.1.500.297",
+    "subnetMask": "255.255.254.0",
+    "timezoneOffset": "-05:00",
+    "wanIpConnectionPath": "InternetGatewayDevice.WANDevice.1.WANConnectionDevice.1.WANIPConnection.1",
+    "lastInformTime": "2025-05-17T03:10:42.702Z",
+    "lastInformEventCodes": "2 PERIODIC",
+    "changeCounter": 5,
+    "paramAttributes": {
+      "InternetGatewayDevice": {
+        "DeviceInfo": {
+          "X_000631_IGDChangeCounter": 1
+        }
+      }
+    },
+    "udpConnectionRequestAddr": "12.51.199.2:17415",
+    "stunEnabled": true,
+    "lastChangeTime": 1747451451664,
+    "cwmpProtocol": "tr069",
+    "isHttps": false,
+    "duplicateInformCountInShortInterval": 0,
+    "_id": "2550-60db98-CXNK00AFB83B",
+    "STUNServerAddress": "acs-stun.dev1.xilac.net",
+    "bSmbMode": false,
+    "bMduMode": false,
+    "bUseBaseMacAddress": true,
+    "hardwareSerialNumber": "422105086761",
+    "bSupplementAcs": false
+  }
+}

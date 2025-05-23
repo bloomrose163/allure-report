@@ -1,0 +1,80 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "maintenanceWindow": false,
+      "_id": "5d0e3ade-8349-40fd-a287-4d8ab264ece3",
+      "description": "created by apple",
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1747904173748
+      },
+      "name": "workflowJqUzEA",
+      "state": "In Progress",
+      "execPolicy": {
+        "initialTrigger": {
+          "type": "CPE Event",
+          "cpeEvent": "CC EVENT - On Boot"
+        }
+      },
+      "actions": [
+        {
+          "_id": "0340b288-4065-46b2-aff4-2e3bd9bf3846",
+          "actionType": "Reboot"
+        }
+      ]
+    },
+    {
+      "maintenanceWindow": false,
+      "_id": "c5cca176-501b-4c16-9d2d-220f3f2bdd80",
+      "description": "created by apple",
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1747903928353
+      },
+      "name": "workflow4sdwdE",
+      "state": "In Progress",
+      "execPolicy": {
+        "initialTrigger": {
+          "type": "CPE Event",
+          "cpeEvent": "CC EVENT - On Boot"
+        }
+      },
+      "actions": [
+        {
+          "_id": "54006d4b-e402-44eb-a5e8-4fd2c6d21e44",
+          "actionType": "Reboot"
+        }
+      ]
+    },
+    {
+      "maintenanceWindow": false,
+      "_id": "ee6d32a9-2c96-48a3-982d-3dd5d43121f9",
+      "description": "created by apple",
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1747904109087
+      },
+      "name": "workflow4111sdwdE",
+      "state": "In Progress",
+      "execPolicy": {
+        "initialTrigger": {
+          "type": "CPE Event",
+          "cpeEvent": "CC EVENT - On Boot"
+        }
+      },
+      "actions": [
+        {
+          "_id": "41a0923b-e7c8-45a7-a9ae-78268c4edfff",
+          "actionType": "Reboot"
+        }
+      ]
+    }
+  ]
+}

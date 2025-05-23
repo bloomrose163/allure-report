@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://gcs-stg.calix.com:8081/cc/workflow?orgId=50&name=test_workflow_11",
+  "Params": {
+    "name": "test_workflow_11"
+  },
+  "Body": null
+}

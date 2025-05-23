@@ -1,0 +1,14 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "60a81d7b-9c72-4d92-8692-626d250ea254",
+    "orgId": "50",
+    "name": "groupLxVsim",
+    "description": "system group description",
+    "type": "dynamic",
+    "allowInheritance": true,
+    "workflowCount": 0,
+    "completedCount": 0,
+    "uncompletedCount": 0
+  }
+}
