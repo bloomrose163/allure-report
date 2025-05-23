@@ -1,8 +1,0 @@
-{
-  "Method": "DELETE",
-  "URL": "http://acs-api.dev1.xilac.net/cc/group/4b61fff2-048b-4a8a-b9d2-7b0c54277ce5?orgId=2550&forceDelete=False",
-  "Params": {
-    "forceDelete": false
-  },
-  "Body": null
-}

@@ -1,6 +1,0 @@
-{
-  "Status Code": 400,
-  "Body": {
-    "error": "Field Type Mismatch! Filed name: \"staticGroupId\": expect String, actual type is JsonArray!"
-  }
-}

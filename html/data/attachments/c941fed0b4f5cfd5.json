@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.dev1.xilac.net/cc/device?orgId=2550&hardwareSerialnumber=632410013588",
-  "Params": {
-    "hardwareSerialnumber": "632410013588"
-  },
-  "Body": null
-}
