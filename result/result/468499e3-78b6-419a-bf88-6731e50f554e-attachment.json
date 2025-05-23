@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://gcs-stg.calix.com:8081/cc/device/count?orgId=50&lastDiscoverTime=2025-03-28T07%3A10%3A00.069Z",
-  "Params": {
-    "lastDiscoverTime": "2025-03-28T07:10:00.069Z"
-  },
-  "Body": null
-}

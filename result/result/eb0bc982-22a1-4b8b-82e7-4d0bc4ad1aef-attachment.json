@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.dev1.xilac.net/cc/workflow?orgId=2550&name=test_workflow_11",
-  "Params": {
-    "name": "test_workflow_11"
-  },
-  "Body": null
-}
