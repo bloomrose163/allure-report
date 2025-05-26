@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://acs-api.dev1.xilac.net/cc/static-group-member/count?orgId=2550&bWithSubscriberInfo=False",
+  "Params": {
+    "bWithSubscriberInfo": "False"
+  },
+  "Body": null
+}

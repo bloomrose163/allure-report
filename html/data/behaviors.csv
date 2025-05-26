@@ -1,6 +1,6 @@
 "BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
 "0","Test - device","2","","46","0","","0"
-"0","Test - SystemGroup API","5","","5","0","","0"
 "3","","2","","11","0","","0"
+"1","Test - SystemGroup API","0","","0","13","","0"
+"0","Test - StaticGroupMember API","2","","25","0","","0"
 "0","Test - ProvisioningRecord","0","","14","0","","0"
-"0","Test - StaticGroupMember API","1","","0","0","","0"

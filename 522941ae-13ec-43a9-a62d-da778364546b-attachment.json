@@ -1,0 +1,28 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "maintenanceWindow": false,
+    "_id": "7f928838-7506-4fbb-8fcf-36686f3ec06b",
+    "description": "created by apple",
+    "fullGroupExecute": false,
+    "orgId": "2550",
+    "bPriorNewAndFailed": true,
+    "createTime": {
+      "$date": 1748283491359
+    },
+    "name": "workflowDRyNuO",
+    "state": "In Progress",
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "CPE Event",
+        "cpeEvent": "CC EVENT - On Boot"
+      }
+    },
+    "actions": [
+      {
+        "_id": "e2fdaef2-6f69-4b1f-b0ce-f6bbb56f21ae",
+        "actionType": "Reboot"
+      }
+    ]
+  }
+}
