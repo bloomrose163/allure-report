@@ -1,0 +1,24 @@
+{
+  "Method": "PUT",
+  "URL": "http://acs-api.dev1.xilac.net/cc/workflow/6617a065-7b85-4d43-a6a6-e4219752203a?orgId=2550",
+  "Params": null,
+  "Body": {
+    "orgId": "50",
+    "name": "workflow3tW3Ag",
+    "description": "created by apple",
+    "actions": [
+      {
+        "actionType": "Reboot"
+      }
+    ],
+    "groups": [],
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "CPE Event",
+        "cpeEvent": "CC EVENT - On Boot"
+      }
+    },
+    "bPriorNewAndFailed": true,
+    "fullGroupExecute": false
+  }
+}
