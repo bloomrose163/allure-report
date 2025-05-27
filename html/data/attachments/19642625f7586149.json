@@ -1,0 +1,14 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "d761c8b1-944d-4988-8644-385484d6e01e",
+    "orgId": "50",
+    "name": "groupjqHA4W",
+    "description": "system group description",
+    "type": "dynamic",
+    "allowInheritance": true,
+    "workflowCount": 0,
+    "completedCount": 0,
+    "uncompletedCount": 0
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "f9990282-1bc1-4c0b-bd79-3c44104d3d1e",
+    "orgId": "50",
+    "name": "groupELc0vU",
+    "description": "system group description",
+    "type": "dynamic",
+    "allowInheritance": true,
+    "workflowCount": 0,
+    "completedCount": 0,
+    "uncompletedCount": 0,
+    "cpeFilter": {
+      "manufacturer": "Calix",
+      "modelName": {
+        "$in": [
+          "GM1028",
+          "GS4237",
+          "GS2128G"
+        ]
+      },
+      "softwareVersion": {
+        "$ne": "24.2.500.259"
+      },
+      "hardwareVersion": {
+        "$ne": "3000287810"
+      },
+      "serialNumber": {
+        "$regex": "^CXNK0151C334$"
+      },
+      "registrationId": {
+        "$regex": "^.*?$"
+      },
+      "$or": [
+        {
+          "normalizedIpAddress": {
+            "$gte": "192.168.003.000",
+            "$lte": "192.168.003.255"
+          }
+        },
+        {
+          "normalizedIpAddress": {
+            "$gte": "192.168.004.000",
+            "$lte": "192.168.004.255"
+          }
+        }
+      ],
+      "opMode": "RG",
+      "wanAccessType": "GPON"
+    }
+  }
+}

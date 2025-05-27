@@ -1,0 +1,40 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "b51fe9d5-c5ff-4dc6-ae67-f406ce7ce672",
+    "name": "workflowY0KLmq",
+    "orgId": "50",
+    "state": "Scheduled",
+    "groups": [
+      "f1aa885a-7244-41f1-becf-c95955b63429"
+    ],
+    "actions": [
+      {
+        "actionType": "Add to Static Device Group",
+        "profileName": "bian-GS2028E",
+        "staticGroupId": "33f5a83f-656c-4a41-a1cf-711a628e8a73",
+        "allowInheritance": true
+      }
+    ],
+    "cpeMatcher": "{\"orgId\":\"50\",\"bDecommissioned\":{\"$exists\":false},\"$or\":[{\"manufacturer\":\"Calix\",\"modelName\":\"GS4227\",\"serialNumber\":{\"$regex\":\"^CXNK00AFB83B$\"}}]}",
+    "createTime": {
+      "$date": 1748341623299
+    },
+    "execPolicy": {
+      "window": {
+        "type": "daily",
+        "timezone": "Asia/Shanghai",
+        "frequency": 1,
+        "recurrence": 1,
+        "windowLength": 3600,
+        "startDateTime": "2025-05-27T18:28:03.972Z"
+      },
+      "initialTrigger": {
+        "type": "Maintenance Window"
+      }
+    },
+    "description": "test",
+    "fullGroupExecute": false,
+    "bPriorNewAndFailed": true
+  }
+}

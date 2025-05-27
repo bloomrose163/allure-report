@@ -1,0 +1,6 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "error": "No device found with the given query filter!"
+  }
+}

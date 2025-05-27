@@ -1,0 +1,15 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "20399b62-fa8c-4ea3-9d65-18361c9b4fb6",
+    "orgId": "50",
+    "name": "groupFPQSAd",
+    "description": "system group description",
+    "type": "static",
+    "allowInheritance": true,
+    "workflowCount": 0,
+    "completedCount": 0,
+    "uncompletedCount": 0,
+    "cpeFilter": {}
+  }
+}

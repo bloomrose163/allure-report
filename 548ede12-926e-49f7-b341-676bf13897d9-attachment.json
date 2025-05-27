@@ -1,0 +1,29 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "c9c5fe63-0afe-465d-a4af-a7abc20fc55d",
+    "name": "workflowAQxif0",
+    "orgId": "50",
+    "start": "2025-05-27T10:28:57.486Z",
+    "state": "In Progress",
+    "groups": [],
+    "actions": [
+      {
+        "actionType": "Reboot"
+      }
+    ],
+    "cpeMatcher": "{\"orgId\":\"50\",\"bDecommissioned\":{\"$exists\":false}}",
+    "createTime": {
+      "$date": 1748341737486
+    },
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "CPE Event",
+        "cpeEvent": "CC EVENT - On Boot"
+      }
+    },
+    "description": "created by apple",
+    "fullGroupExecute": false,
+    "bPriorNewAndFailed": true
+  }
+}

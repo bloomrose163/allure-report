@@ -1,0 +1,111 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "_id": "00e2c91e-d4b2-470f-999b-0f58d29d2a81",
+      "wifi": {
+        "1": {
+          "Enable": true
+        },
+        "9": {
+          "Enable": true
+        },
+        "X_CALIX_SXACC_PRIMARY_2DOT4GHZ_SSID": {
+          "Enable": true
+        },
+        "X_CALIX_SXACC_2DOT4GHZ_SSID_1": {
+          "Enable": true
+        },
+        "X_CALIX_SXACC_PRIMARY_5GHZ_SSID": {
+          "Enable": true
+        },
+        "X_CALIX_SXACC_5GHZ_SSID_1": {
+          "Enable": true
+        }
+      },
+      "orgId": "50",
+      "opMode": "Managed ONT",
+      "deviceId": "CXNK10101013",
+      "services": [
+        {
+          "Enable": true,
+          "ProfileId": "63416a07-7b43-41df-ad41-aa5429dd0547",
+          "Name": "DataServvice_123",
+          "category": "Data Service",
+          "Mode": "ONT Half Bridge"
+        }
+      ],
+      "modelName": "GS4227",
+      "subscriberId": "75870066-82aa-464f-8ca8-bc2f66f0ebfb",
+      "enableRgOnBattery": false
+    },
+    {
+      "_id": "0268db24-e8a9-4701-ad2a-e59e9ef19fb4",
+      "wifi": {
+        "1": {
+          "Enable": "true"
+        },
+        "9": {
+          "Enable": "true"
+        },
+        "X_CALIX_SXACC_PRIMARY_2DOT4GHZ_SSID": {
+          "Enable": "true"
+        },
+        "X_CALIX_SXACC_2DOT4GHZ_SSID_1": {
+          "Enable": "true"
+        },
+        "X_CALIX_SXACC_PRIMARY_5GHZ_SSID": {
+          "Enable": "true"
+        },
+        "X_CALIX_SXACC_5GHZ_SSID_1": {
+          "Enable": "true"
+        }
+      },
+      "orgId": "50",
+      "voice": {
+        "Line": {
+          "1": {
+            "Enable": "Disabled"
+          },
+          "2": {
+            "Enable": "Disabled"
+          }
+        },
+        "FaxT38": {
+          "Enable": false
+        },
+        "DialPlan": "system-default",
+        "ServiceType": "SIP",
+        "X_CALIX_SXACC_RG_WAN": {
+          "ServiceConnectionType": "DHCP"
+        }
+      },
+      "opMode": "Managed ONT",
+      "deviceId": "Cxnk85686",
+      "services": [
+        {
+          "Enable": true,
+          "ProfileId": "033d2837-1f3e-447e-982c-c5dd47cd2390",
+          "Name": "wan-0110-5",
+          "category": "Data Service",
+          "Mode": "RG Routed"
+        },
+        {
+          "Enable": true,
+          "ProfileId": "ff2efbd3-1f5b-4a4a-86b2-d56b20bd6760",
+          "Name": "Fiona_Video_321_L3",
+          "category": "Video Service",
+          "Mode": "RG Routed"
+        },
+        {
+          "Enable": true,
+          "ProfileId": "126f99de-474d-4c32-b5b3-f603dcd8e08e",
+          "Name": "Fiona_voip",
+          "category": "Voice Service"
+        }
+      ],
+      "modelName": "GS4227",
+      "enableRgOnBattery": false
+    }
+  ]
+}

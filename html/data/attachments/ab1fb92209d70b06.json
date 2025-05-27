@@ -1,0 +1,31 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "maintenanceWindow": false,
+    "_id": "70aab39b-c0e8-4460-98a0-178713f15e14",
+    "description": "created by apple",
+    "groups": [
+      "49946b21-4812-41a3-a966-fa8bc1424444"
+    ],
+    "fullGroupExecute": false,
+    "orgId": "",
+    "bPriorNewAndFailed": true,
+    "createTime": {
+      "$date": 1748341721302
+    },
+    "name": "workflowD85ME3",
+    "state": "In Progress",
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "CPE Event",
+        "cpeEvent": "CC EVENT - On Boot"
+      }
+    },
+    "actions": [
+      {
+        "_id": "6d70f9e8-1357-4bd1-82d6-4daa828672f2",
+        "actionType": "Reboot"
+      }
+    ]
+  }
+}

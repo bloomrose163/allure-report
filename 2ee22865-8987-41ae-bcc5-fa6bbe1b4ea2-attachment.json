@@ -1,0 +1,24 @@
+{
+  "Method": "PUT",
+  "URL": "http://acs-api.testx.xilac.net/cc/workflow/5d257802-de1f-4cf2-86ab-c6574418b8ca?orgId=2550",
+  "Params": null,
+  "Body": {
+    "orgId": "50",
+    "name": "workflowrYNpnv",
+    "description": "created by apple",
+    "actions": [
+      {
+        "actionType": "Reboot"
+      }
+    ],
+    "groups": [],
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "CPE Event",
+        "cpeEvent": "CC EVENT - On Boot"
+      }
+    },
+    "bPriorNewAndFailed": true,
+    "fullGroupExecute": false
+  }
+}

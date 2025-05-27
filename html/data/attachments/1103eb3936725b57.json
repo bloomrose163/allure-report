@@ -1,0 +1,23 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "_id": "699d17f1-1054-425b-9a37-138e30db9c27",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "memberInfo": "7745678"
+    },
+    {
+      "_id": "8311361e-06ae-4b0e-9da7-0b34b58341c8",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "memberInfo": "CXNK00282DD2"
+    },
+    {
+      "_id": "2a5172b3-c584-4fc2-9f7a-96f678d177a8",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "memberInfo": "CXNK564322445"
+    }
+  ]
+}
