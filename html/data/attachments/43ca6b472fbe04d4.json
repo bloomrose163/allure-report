@@ -1,0 +1,6 @@
+{
+  "Method": "DELETE",
+  "URL": "http://gcs-stg.calix.com:8081/cc/provisioning-record/f2d8e88f-26bc-46fd-92c8-9726611c85e8?orgId=50",
+  "Params": null,
+  "Body": null
+}

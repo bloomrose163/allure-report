@@ -1,6 +1,0 @@
-{
-  "Status Code": 409,
-  "Body": {
-    "error": "The \"name\" field contains value (groupjqHA4W) that conflicts with another group"
-  }
-}

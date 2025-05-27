@@ -1,0 +1,6 @@
+{
+  "Method": "PUT",
+  "URL": "http://gcs-stg.calix.com:8081/cc/provisioning-record/apply-pppoe/31fe88e3-8a3d-426a-b714-bfc027b32707?orgId=50",
+  "Params": null,
+  "Body": null
+}
