@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://acs-api.dev1.xilac.net/cc/device?orgId=2550&udpConnectionRequestAddr=64.136.96.5%3A64083",
+  "Params": {
+    "udpConnectionRequestAddr": "64.136.96.5:64083"
+  },
+  "Body": null
+}

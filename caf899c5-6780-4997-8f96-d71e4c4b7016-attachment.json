@@ -1,0 +1,82 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "configurations": [
+        {
+          "id": "05143341-ecda-4df3-b99c-f59829cb8b76",
+          "category": "Voice Service",
+          "parameterValues": {
+            "SilenceSuppression3rd": false,
+            "PacketRate2nd": 10,
+            "CallWaitingTonePrefix": "CallWaitingTone",
+            "VlanTagAction": false,
+            "SilenceSuppression2nd": false,
+            "OptionsTimerSwitch": false,
+            "ServiceFramingType": "IPoE",
+            "RTPCodec1st": "G.711MuLaw",
+            "RTPPort": 49152,
+            "HookFlashMethod": "None",
+            "ProxyServerPortSecondary": 5060,
+            "SilenceSuppression1st": false,
+            "LocalHookFlash": true,
+            "DistinctiveRingPrefix": "Bellcore-dr",
+            "ReleaseTimer": 10,
+            "RegistrationPeriod": 3600,
+            "CountryCode": "US",
+            "ServiceConnectionType": "DHCP",
+            "X_000631_VlanMux8021p": -1,
+            "Revertive": false,
+            "TimerT2": 4000,
+            "TimerT1": 500,
+            "DTMFMethod": "InBand",
+            "X_000631_VlanMuxID": -1,
+            "PacketRate1st": 10,
+            "RTPDscpValue": 46,
+            "ProxyServer": "10.245.252.2",
+            "ProxyServerPort": 5060,
+            "SwitchType": "None",
+            "Type": "SIP",
+            "Model": "GigaCenter",
+            "ControlDscpValue": 46,
+            "PacketRate3rd": 10,
+            "ipType": "IPv4",
+            "RTPDscpInputType": true
+          }
+        }
+      ],
+      "_id": "dea3c9ad-94b4-4341-ac8b-c10d0e1dc846",
+      "name": "ngicbi",
+      "description": "vocie",
+      "orgId": "2550"
+    },
+    {
+      "configurations": [
+        {
+          "id": "fbab0762-47db-46a5-88fd-9d6a6f738d51",
+          "category": "Data Service",
+          "parameterValues": {
+            "X_000631_VlanMux8021p": 0,
+            "productFamily": "EXOS",
+            "defaultConnectionService": true,
+            "ConnectionType": "IP_Routed",
+            "VlanTagAction": true,
+            "X_000631_VlanMuxID": 888,
+            "FramingType": "IPoE",
+            "Mode": "RG Routed",
+            "NATEnabled": true,
+            "version": "v4",
+            "X_000631_IGMPProxy": false,
+            "X_000631_IPv4Enabled": true,
+            "X_000631_IPv6Enabled": false,
+            "AddressingType": "DHCP",
+            "ServiceConnectionType": "DHCP"
+          }
+        }
+      ],
+      "_id": "d965f3a4-c178-4bb4-9c07-862e5ef63864",
+      "name": "test_ds_hk2_tp4_update",
+      "orgId": "2550"
+    }
+  ]
+}
