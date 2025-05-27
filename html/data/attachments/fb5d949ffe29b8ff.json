@@ -1,6 +1,0 @@
-{
-  "Status Code": 500,
-  "Body": {
-    "error": "Cannot invoke \"Object.toString()\" because the return value of \"com.calix.acs.query.QueryCondition.getFirstExpectedValue()\" is null"
-  }
-}

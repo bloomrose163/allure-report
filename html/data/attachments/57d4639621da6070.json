@@ -1,9 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.dev1.xilac.net/cc/workflow?orgId=2550&limit=2&skip=0",
-  "Params": {
-    "limit": 2,
-    "skip": 0
-  },
-  "Body": null
-}
