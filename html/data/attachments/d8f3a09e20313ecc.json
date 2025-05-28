@@ -1,0 +1,39 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "data": {
+      "id": "fbe2562d-c57b-447c-8f67-af9c059bcd6a",
+      "Enable": true
+    },
+    "deviceId": "CXNK00AFB83B",
+    "modelName": "GS4227",
+    "opMode": "Managed ONT",
+    "orgId": "2550",
+    "video": {
+      "id": "64beac33-57f4-4cd5-9a88-adcab45c8c87",
+      "Enable": true
+    },
+    "voice": {
+      "id": "2e516ff2-c493-4e8f-b152-b1e9d16ff7b9",
+      "FaxT38": {
+        "Enable": false
+      },
+      "Line": {
+        "1": {
+          "id": "e44442ed-5a84-411e-b014-02739c4462df",
+          "Enable": "Disabled"
+        },
+        "2": {
+          "id": "8fb3ad48-756f-4779-b716-28f516ca907d",
+          "Enable": "Disabled"
+        }
+      },
+      "ServiceType": "SIP",
+      "X_CALIX_SXACC_RG_WAN": {
+        "ServiceConnectionType": "DHCP"
+      }
+    },
+    "currentDate": "2025-05-28T18:17:27.181Z",
+    "_id": "bebb1163-a6fe-47b9-a47e-04872d273b8f"
+  }
+}

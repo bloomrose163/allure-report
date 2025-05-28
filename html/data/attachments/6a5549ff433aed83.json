@@ -1,0 +1,55 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "deviceId": "CXNK01BBEA5D",
+      "enableRgOnBattery": true,
+      "modelName": "844GE-1",
+      "opMode": "Managed ONT",
+      "orgId": "2550",
+      "currentDate": "2025-05-12T01:44:44.027Z",
+      "_id": "2b531baf-62c3-45f1-9143-3de88faf56b5"
+    },
+    {
+      "data": {
+        "id": "cb645f90-5bea-46fb-9162-bd38a1fdbe47",
+        "pppoe": {
+          "Password": "test",
+          "Username": "test"
+        },
+        "Enable": true
+      },
+      "deviceId": "CXNK01027629",
+      "enableRgOnBattery": true,
+      "modelName": "GS4227",
+      "opMode": "Managed ONT",
+      "orgId": "2550",
+      "video": {
+        "id": "f1f45243-7cc8-4fff-960f-1e138d567acc",
+        "Enable": false
+      },
+      "voice": {
+        "id": "6fba05d4-bc4b-41cc-8513-7e1c61096081",
+        "FaxT38": {
+          "Enable": true
+        },
+        "Line": {
+          "1": {
+            "id": "51c9e3a8-04b7-48ad-a5fc-d4ad27086394",
+            "Enable": "Disabled"
+          },
+          "2": {
+            "id": "e70754df-9fd0-4cad-84cd-936266b9e485",
+            "Enable": "Disabled"
+          }
+        },
+        "ServiceType": "H248",
+        "X_CALIX_SXACC_RG_WAN": {
+          "ServiceConnectionType": "DHCP"
+        }
+      },
+      "currentDate": "2025-05-28T10:11:01.475Z",
+      "_id": "89d4967d-c656-4dbd-9ac8-3ae9b189e171"
+    }
+  ]
+}
