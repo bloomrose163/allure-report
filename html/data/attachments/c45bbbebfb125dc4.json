@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://gcs-stg.calix.com:8081/cc/workflow?orgId=50&opMode=AE",
-  "Params": {
-    "opMode": "AE"
-  },
-  "Body": null
-}

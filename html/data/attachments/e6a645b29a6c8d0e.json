@@ -1,6 +1,0 @@
-{
-  "Status Code": 400,
-  "Body": {
-    "error": "Voice->Line 1: Missing Mandatory Field VoiceProcessing!"
-  }
-}
