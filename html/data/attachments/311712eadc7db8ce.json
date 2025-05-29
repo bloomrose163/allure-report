@@ -1,0 +1,5 @@
+{
+  "Method": "GET",
+  "URL": "http://acs-api.testx.xilac.net/cc/group/count?limit=2&filter=CXNK01A8D0C7",
+  "Body": null
+}

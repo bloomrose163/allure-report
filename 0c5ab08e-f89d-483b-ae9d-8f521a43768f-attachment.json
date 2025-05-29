@@ -1,0 +1,10 @@
+{
+  "Method": "POST",
+  "URL": "http://gcs-stg.calix.com:8081/cc/group",
+  "Body": {
+    "name": "groupPT80Em",
+    "description": "system group description",
+    "type": "dynamic",
+    "allowInheritance": true
+  }
+}

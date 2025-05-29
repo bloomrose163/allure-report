@@ -1,0 +1,10 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.testx.xilac.net/cc/group",
+  "Body": {
+    "name": "groupPkEIql",
+    "description": "system group description",
+    "type": "validType",
+    "allowInheritance": true
+  }
+}

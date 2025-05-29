@@ -1,0 +1,86 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "_id": "6055535e-e4ea-484a-931b-62c4b337aa7c",
+      "name": "All_PII_543_Discovery",
+      "orgId": "51",
+      "start": "2015-07-08T20:38:25.000Z",
+      "state": "Suspended",
+      "groups": [
+        "2a6365ae-15d3-4c26-82cf-390ec2919db1"
+      ],
+      "actions": [
+        {
+          "profileId": "f45e2f30-b09f-4aa6-9d49-e48b7087d8c2",
+          "actionType": "Apply Configuration Profile",
+          "profileName": "RIC_PII_543"
+        }
+      ],
+      "cpeMatcher": "{\"orgId\":\"51\",\"$or\":[{\"manufacturer\":\"Calix\"}]}",
+      "createTime": "2015-07-08T20:38:25.000Z",
+      "execPolicy": {
+        "initialTrigger": {
+          "type": "CPE Event",
+          "cpeEvent": "CC EVENT - New CPE Discovered"
+        }
+      },
+      "description": "Set all RGs to Inform at 543 Seconds upon discovery"
+    },
+    {
+      "_id": "0196486c-7d1e-4dc1-8cb4-d51c029ea142",
+      "name": "RIC_WiFi_Off",
+      "orgId": "51",
+      "start": "2015-08-03T23:32:26.000Z",
+      "state": "Suspended",
+      "groups": [
+        "51a20ccc-d14e-4d6b-9e1f-119a0b5935d1"
+      ],
+      "actions": [
+        {
+          "profileId": "b157b6f1-b583-4828-bbd9-e7cacb8e9bf6",
+          "actionType": "Apply Configuration Profile",
+          "profileName": "RIC_WiFi_Off"
+        }
+      ],
+      "cpeMatcher": "{\"orgId\":\"51\",\"$or\":[{\"manufacturer\":\"Calix\",\"modelName\":{\"$in\":[\"844E-1\",\"844G-2\",\"854G-1\",\"844G-1\",\"854G-2\",\"844E-2\"]}}]}",
+      "createTime": "2015-08-03T23:32:26.000Z",
+      "execPolicy": {
+        "initialTrigger": {
+          "type": "CPE Event",
+          "cpeEvent": "CC EVENT - New CPE Discovered"
+        }
+      },
+      "description": "Quite down the wireless"
+    },
+    {
+      "_id": "069b8f6b-d494-407d-8b7b-77820a6a318c",
+      "name": "WAP Wifi Off",
+      "orgId": "51",
+      "start": "2015-10-07T19:45:32.000Z",
+      "state": "Suspended",
+      "groups": [
+        "2ede29b0-7179-41b3-96b7-8e49d8a1d934"
+      ],
+      "actions": [
+        {
+          "profileId": "b157b6f1-b583-4828-bbd9-e7cacb8e9bf6",
+          "actionType": "Apply Configuration Profile",
+          "profileName": "RIC_WiFi_Off"
+        }
+      ],
+      "cpeMatcher": "{\"orgId\":\"51\"}",
+      "createTime": "2015-10-07T19:45:32.000Z",
+      "execPolicy": {
+        "initialTrigger": {
+          "type": "CPE Event",
+          "cpeEvent": "CC EVENT - New CPE Discovered"
+        }
+      },
+      "description": "",
+      "staticGroups": [
+        "2ede29b0-7179-41b3-96b7-8e49d8a1d934"
+      ]
+    }
+  ]
+}

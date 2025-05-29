@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.testx.xilac.net/cc/configuration-profile?orgId=2550&name=test_ds_hk2_tp4",
-  "Params": {
-    "name": "test_ds_hk2_tp4"
-  },
-  "Body": null
-}

@@ -1,0 +1,59 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "_id": "b2ba36ad-79e2-449c-8f11-cef134f45f76",
+      "name": "Bryan - Data Service - IPv4 DHCP - VLAN 1804 - EXOS",
+      "orgId": "102",
+      "description": "Customer Profile for Subscriber Data on separate VLAN",
+      "configurations": [
+        {
+          "category": "Data Service",
+          "parameterValues": {
+            "Mode": "RG Routed",
+            "version": "v4",
+            "NATEnabled": true,
+            "FramingType": "IPoE",
+            "VlanTagAction": true,
+            "productFamily": "EXOS",
+            "AddressingType": "DHCP",
+            "ConnectionType": "IP_Routed",
+            "X_000631_VlanMuxID": 1804,
+            "X_000631_IPv4Enabled": true,
+            "X_000631_IPv6Enabled": false,
+            "ServiceConnectionType": "DHCP",
+            "X_000631_VlanMux8021p": 0,
+            "defaultConnectionService": true
+          }
+        }
+      ]
+    },
+    {
+      "_id": "677bcbbc-e568-44f8-b7d3-8b775b73aff9",
+      "name": "Bryan - Data Service - IPv4 DHCP - VLAN 1804",
+      "orgId": "102",
+      "description": "Customer Profile for Subscriber Data on separate VLAN",
+      "configurations": [
+        {
+          "category": "Data Service",
+          "parameterValues": {
+            "Mode": "RG Routed",
+            "version": "v4",
+            "NATEnabled": true,
+            "FramingType": "IPoE",
+            "VlanTagAction": true,
+            "productFamily": "GigaCenter",
+            "AddressingType": "DHCP",
+            "ConnectionType": "IP_Routed",
+            "X_000631_VlanMuxID": 1804,
+            "X_000631_IPv4Enabled": true,
+            "X_000631_IPv6Enabled": false,
+            "ServiceConnectionType": "DHCP",
+            "X_000631_VlanMux8021p": 0,
+            "defaultConnectionService": true
+          }
+        }
+      ]
+    }
+  ]
+}

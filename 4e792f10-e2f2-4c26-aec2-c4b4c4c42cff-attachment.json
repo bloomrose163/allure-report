@@ -1,0 +1,26 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "maintenanceWindow": false,
+    "_id": "45fc03dd-824d-4b48-b768-8fc95658626a",
+    "description": "created by apple",
+    "fullGroupExecute": false,
+    "orgId": "",
+    "bPriorNewAndFailed": true,
+    "createTime": "2025-05-29T18:23:53.445Z",
+    "name": "workflowdHoG2A",
+    "state": "In Progress",
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "CPE Event",
+        "cpeEvent": "CC EVENT - On Boot"
+      }
+    },
+    "actions": [
+      {
+        "_id": "a793043f-9641-4f3e-a9f6-d5250c539fb6",
+        "actionType": "Reboot"
+      }
+    ]
+  }
+}

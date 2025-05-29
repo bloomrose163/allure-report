@@ -1,0 +1,5 @@
+{
+  "Method": "GET",
+  "URL": "http://gcs-stg.calix.com:8081/cc/device/count?skip=10",
+  "Body": null
+}

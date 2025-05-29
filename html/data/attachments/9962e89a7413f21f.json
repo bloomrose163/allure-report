@@ -1,0 +1,5 @@
+{
+  "Method": "GET",
+  "URL": "http://acs-api.testx.xilac.net/cc/device/count?macAddress=e4%3A6c%3Ad1%3A43%3A44%3A0e",
+  "Body": null
+}

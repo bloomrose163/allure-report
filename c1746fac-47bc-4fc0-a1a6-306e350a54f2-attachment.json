@@ -1,0 +1,9 @@
+{
+  "Method": "POST",
+  "URL": "http://gcs-stg.calix.com:8081/cc/static-group-member",
+  "Body": {
+    "memberInfo": "ponreg123",
+    "groupId": "134137f1-0cf9-49e1-8c0a-54f9aa261b89",
+    "orgId": "50"
+  }
+}

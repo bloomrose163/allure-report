@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://gcs-stg.calix.com:8081/cc/configuration-profile?orgId=50&limit=2",
-  "Params": {
-    "limit": 2
-  },
-  "Body": null
-}

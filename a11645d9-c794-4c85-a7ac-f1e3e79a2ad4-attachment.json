@@ -1,0 +1,9 @@
+{
+  "Status Code": 400,
+  "Body": {
+    "timestamp": "2025-05-29T18:16:59.520Z",
+    "status": 400,
+    "error": "Bad Request",
+    "path": "/cc/configuration-profile"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "_id": "00009c10-fb30-48b6-ae2c-ee458f1ae964",
+      "wifi": {
+        "1": {
+          "SSID": "Sky Rack",
+          "Enable": true,
+          "KeyPassphrase": "LevelWingsFury9",
+          "SSIDAdvertisementEnabled": true,
+          "X_CALIX_KeyPassphrase": "LevelWingsFury9",
+          "X_CALIX_SXACC_KeyPassphrase": "LevelWingsFury9"
+        },
+        "9": {
+          "SSID": "Sky Rack",
+          "Enable": true,
+          "KeyPassphrase": "LevelWingsFury9",
+          "SSIDAdvertisementEnabled": true,
+          "X_CALIX_KeyPassphrase": "LevelWingsFury9",
+          "X_CALIX_SXACC_KeyPassphrase": "LevelWingsFury9"
+        },
+        "X_CALIX_SXACC_PRIMARY_2DOT4GHZ_SSID": {
+          "SSID": "Sky Rack",
+          "Enable": true,
+          "KeyPassphrase": "LevelWingsFury9",
+          "SSIDAdvertisementEnabled": true,
+          "X_CALIX_KeyPassphrase": "LevelWingsFury9",
+          "X_CALIX_SXACC_KeyPassphrase": "LevelWingsFury9"
+        },
+        "X_CALIX_SXACC_2DOT4GHZ_SSID_1": {
+          "SSID": "Sky Rack",
+          "Enable": true,
+          "KeyPassphrase": "LevelWingsFury9",
+          "SSIDAdvertisementEnabled": true,
+          "X_CALIX_KeyPassphrase": "LevelWingsFury9",
+          "X_CALIX_SXACC_KeyPassphrase": "LevelWingsFury9"
+        },
+        "X_CALIX_SXACC_PRIMARY_5GHZ_SSID": {
+          "SSID": "Sky Rack",
+          "Enable": true,
+          "KeyPassphrase": "LevelWingsFury9",
+          "SSIDAdvertisementEnabled": true,
+          "X_CALIX_KeyPassphrase": "LevelWingsFury9",
+          "X_CALIX_SXACC_KeyPassphrase": "LevelWingsFury9"
+        },
+        "X_CALIX_SXACC_5GHZ_SSID_1": {
+          "SSID": "Sky Rack",
+          "Enable": true,
+          "KeyPassphrase": "LevelWingsFury9",
+          "SSIDAdvertisementEnabled": true,
+          "X_CALIX_KeyPassphrase": "LevelWingsFury9",
+          "X_CALIX_SXACC_KeyPassphrase": "LevelWingsFury9"
+        }
+      },
+      "orgId": "2579",
+      "opMode": "Managed ONT",
+      "deviceId": "CXNK004C09EB",
+      "services": [
+        {
+          "Enable": true,
+          "Overrides": {
+            "BwProfile": "e047173c-49fb-4b4d-a3c5-43ddd25b339d"
+          },
+          "ProfileId": "ada2653b-a10f-4d11-8765-0c3c6824bad2"
+        }
+      ],
+      "modelName": "844GE-1",
+      "subscriberId": "7684015d-5ceb-4dd7-9331-fb22a0f425db",
+      "enableRgOnBattery": false
+    },
+    {
+      "_id": "0005aa34-b5b4-4287-a1f9-ece9ed95b548",
+      "wifi": {
+        "1": {
+          "SSID": "Ashcraft wifi",
+          "KeyPassphrase": "Owsley12",
+          "X_CALIX_KeyPassphrase": "Owsley12",
+          "X_CALIX_SXACC_KeyPassphrase": "Owsley12"
+        },
+        "9": {
+          "SSID": "Ashcraft wifi",
+          "Enable": true,
+          "KeyPassphrase": "Owsley12",
+          "X_CALIX_KeyPassphrase": "Owsley12",
+          "X_CALIX_SXACC_KeyPassphrase": "Owsley12"
+        },
+        "X_CALIX_SXACC_PRIMARY_2DOT4GHZ_SSID": {
+          "SSID": "Ashcraft wifi",
+          "KeyPassphrase": "Owsley12",
+          "X_CALIX_KeyPassphrase": "Owsley12",
+          "X_CALIX_SXACC_KeyPassphrase": "Owsley12"
+        },
+        "X_CALIX_SXACC_2DOT4GHZ_SSID_1": {
+          "SSID": "Ashcraft wifi",
+          "KeyPassphrase": "Owsley12",
+          "X_CALIX_KeyPassphrase": "Owsley12",
+          "X_CALIX_SXACC_KeyPassphrase": "Owsley12"
+        },
+        "X_CALIX_SXACC_PRIMARY_5GHZ_SSID": {
+          "SSID": "Ashcraft wifi",
+          "Enable": true,
+          "KeyPassphrase": "Owsley12",
+          "X_CALIX_KeyPassphrase": "Owsley12",
+          "X_CALIX_SXACC_KeyPassphrase": "Owsley12"
+        },
+        "X_CALIX_SXACC_5GHZ_SSID_1": {
+          "SSID": "Ashcraft wifi",
+          "Enable": true,
+          "KeyPassphrase": "Owsley12",
+          "X_CALIX_KeyPassphrase": "Owsley12",
+          "X_CALIX_SXACC_KeyPassphrase": "Owsley12"
+        }
+      },
+      "orgId": "2579",
+      "voice": {
+        "Line": {
+          "1": {
+            "Enable": "Enabled",
+            "X_000631_H248": {
+              "TerminationId": "1"
+            },
+            "VoiceProcessing": {
+              "ReceiveGain": -40,
+              "TransmitGain": -20
+            }
+          },
+          "2": {
+            "Enable": "Enabled",
+            "X_000631_H248": {
+              "TerminationId": "2"
+            },
+            "VoiceProcessing": {
+              "ReceiveGain": -40,
+              "TransmitGain": -20
+            }
+          }
+        },
+        "ServiceType": "H.248",
+        "X_CALIX_SXACC_RG_WAN": {
+          "SubnetMask": "255.255.255.0",
+          "DefaultGateway": "10.72.54.254",
+          "ExternalIPAddress": "10.72.54.93",
+          "ServiceConnectionType": "Static"
+        }
+      },
+      "opMode": "Managed ONT",
+      "deviceId": "CXNK00670265",
+      "services": [
+        {
+          "Enable": true,
+          "Overrides": {
+            "BwProfile": "e047173c-49fb-4b4d-a3c5-43ddd25b339d"
+          },
+          "ProfileId": "ada2653b-a10f-4d11-8765-0c3c6824bad2"
+        },
+        {
+          "Enable": true,
+          "ProfileId": "67437f99-7b5c-47fd-8703-d76678c975c9"
+        }
+      ],
+      "modelName": "844GE-1",
+      "subscriberId": "902c1423-aad9-4aea-b41f-b2ef8dc0a5dd",
+      "enableRgOnBattery": false
+    }
+  ]
+}

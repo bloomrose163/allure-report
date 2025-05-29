@@ -1,0 +1,12 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "19b2832c-7acd-4bf8-9083-5b47f297390b",
+    "type": "MAC Address",
+    "orgId": "50",
+    "groupId": "ce284bf7-0dc5-44ad-8b62-1d798b1ce291",
+    "createTime": "2025-05-29T18:21:54.590Z",
+    "memberInfo": "04:bc:9f:21:d0:6d",
+    "deviceRecordId": "50-04BC9F-CXNK0151C334"
+  }
+}

@@ -1,6 +1,0 @@
-{
-  "Status Code": 500,
-  "Body": {
-    "error": "JDBC exception executing SQL [delete from core.ref_workflow_window_days_of_month to_delete_ where to_delete_.workflow_id in (select w1_0.id from core.ref_device_workflows w1_0 where 1=1 and (upper(w1_0.name)='WORKFLOWHBJGHI' and upper(w1_0.org_id)='2550'))] [ERROR: cannot delete from table \"ref_workflow_window_days_of_month\" because it does not have a replica identity and publishes deletes\n  Hint: To enable deleting from the table, set REPLICA IDENTITY using ALTER TABLE.] [n/a]"
-  }
-}

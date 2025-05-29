@@ -1,0 +1,36 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "_id": "bae6a492-f531-4c12-be50-5569029302fd",
+      "name": "test_ds_hk2_tp4",
+      "orgId": "12877872",
+      "configurations": [
+        {
+          "category": "Data Service",
+          "parameterValues": {
+            "Mode": "RG Routed",
+            "version": "v4",
+            "NATEnabled": true,
+            "FramingType": "IPoE",
+            "VlanTagAction": true,
+            "productFamily": "EXOS",
+            "AddressingType": "DHCP",
+            "ConnectionType": "IP_Routed",
+            "X_000631_IGMPProxy": false,
+            "X_000631_VlanMuxID": 878,
+            "X_000631_IPv4Enabled": true,
+            "X_000631_IPv6Enabled": false,
+            "ServiceConnectionType": "DHCP",
+            "X_000631_VlanMux8021p": 0,
+            "X_CALIX_SXACC_BW_PROFILE": "5f08a9fe-2d1f-41cf-8c46-6b98d89a92d5",
+            "defaultConnectionService": false
+          }
+        }
+      ],
+      "innerProfileRefs": [
+        "5f08a9fe-2d1f-41cf-8c46-6b98d89a92d5"
+      ]
+    }
+  ]
+}

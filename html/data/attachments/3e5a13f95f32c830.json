@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://gcs-stg.calix.com:8081/cc/device/count?orgId=50&softwareVersion=25.2.0.0.28",
-  "Params": {
-    "softwareVersion": "25.2.0.0.28"
-  },
-  "Body": null
-}

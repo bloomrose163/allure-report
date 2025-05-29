@@ -1,0 +1,9 @@
+{
+  "Status Code": 400,
+  "Body": {
+    "timestamp": "2025-05-29T18:18:27.171Z",
+    "status": 400,
+    "error": "Bad Request",
+    "path": "/cc/device/count"
+  }
+}

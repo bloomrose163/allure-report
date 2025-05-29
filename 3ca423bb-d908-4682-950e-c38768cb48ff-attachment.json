@@ -1,0 +1,5 @@
+{
+  "Method": "GET",
+  "URL": "http://gcs-stg.calix.com:8081/cc/group?limit=2&filter=CXNK0151C334",
+  "Body": null
+}

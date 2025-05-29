@@ -1,0 +1,5 @@
+{
+  "Method": "GET",
+  "URL": "http://gcs-stg.calix.com:8081/cc/provisioning-record?deviceId=2550-60db98-CXNK00AFB83B",
+  "Body": null
+}

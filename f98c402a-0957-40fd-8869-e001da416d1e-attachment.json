@@ -1,0 +1,5 @@
+{
+  "Method": "GET",
+  "URL": "http://acs-api.testx.xilac.net/cc/device?ipAddress=192.168.1.2",
+  "Body": null
+}

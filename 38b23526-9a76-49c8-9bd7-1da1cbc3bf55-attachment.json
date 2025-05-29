@@ -1,9 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.testx.xilac.net/cc/group/count?orgId=2550&limit=2&filter=CXNK01A8D0C7",
-  "Params": {
-    "limit": 2,
-    "filter": "CXNK01A8D0C7"
-  },
-  "Body": null
-}
