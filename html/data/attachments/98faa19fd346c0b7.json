@@ -1,0 +1,29 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "917f290b-ba5f-4d54-99e2-2fe681e3d664",
+    "name": "workflowhug1eI",
+    "orgId": "50",
+    "start": "2025-05-29T05:29:00.765Z",
+    "state": "In Progress",
+    "groups": [],
+    "actions": [
+      {
+        "actionType": "Reboot"
+      }
+    ],
+    "cpeMatcher": "{\"orgId\":\"50\",\"bDecommissioned\":{\"$exists\":false}}",
+    "createTime": {
+      "$date": 1748496540765
+    },
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "CPE Event",
+        "cpeEvent": "CC EVENT - On Boot"
+      }
+    },
+    "description": "created by apple",
+    "fullGroupExecute": false,
+    "bPriorNewAndFailed": true
+  }
+}

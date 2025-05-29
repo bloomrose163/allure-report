@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://gcs-stg.calix.com:8081/cc/device/count?orgId=50&macAddress=notvalid",
+  "Params": {
+    "macAddress": "notvalid"
+  },
+  "Body": null
+}

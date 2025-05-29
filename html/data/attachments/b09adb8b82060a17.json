@@ -1,0 +1,1875 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "_id": "0db37154-a6d7-461a-b248-6bac1dd11f4a",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "63209e0c-cd3d-46b9-81c8-a7a4e44cf1d9",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "groupkHFbsE",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 1,
+      "workflowCount": 1
+    },
+    {
+      "_id": "12fbe722-685f-428a-9dfd-e588086437ea",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "352f2c31-ae93-4943-96d6-d129e72352ab",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "groupQeVcKm",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 1,
+      "workflowCount": 1
+    },
+    {
+      "_id": "1913395e-fd25-452f-bee2-50777cb9a791",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "0734f034-ac54-4578-b246-1f13190a9440",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "groupJjZCv9",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "29c551ad-3379-4713-a5ff-6267ae361ddf",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "d79f5d95-7f81-4547-a667-888a8568fe36",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "groupmgG0PL",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 1,
+      "workflowCount": 1
+    },
+    {
+      "_id": "3091d7ce-9935-4972-9638-23c11b273110",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "4eb8400f-c37a-4c0f-8f69-5493bdc9455e",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "groupADD3NI",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 1,
+      "workflowCount": 1
+    },
+    {
+      "_id": "31178f5e-c196-4e1f-bb5d-866042f40e94",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "f2ec4cd6-8713-42f5-8911-4cd8dcd2f897",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "groupkaXbuZ",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "415d8112-c86f-469a-8aa2-53c856820c2a",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "a8f45ec2-4bd1-4cf4-85d0-633b87219841",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "group35Pz07",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "49946b21-4812-41a3-a966-fa8bc1424444",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "d9fa242c-195f-4c92-b67a-2cbcf4f8fe36",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "groupWMDfOI",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 1,
+      "workflowCount": 1
+    },
+    {
+      "_id": "4cf68f5d-6107-494b-84ae-445caec49d74",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "ab336dbb-c139-4dcd-a813-8d3b43be794f",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "groupXykACd",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 1,
+      "workflowCount": 1
+    },
+    {
+      "_id": "573ea1da-9555-4fa6-b3e0-b20f96234c8a",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "0e51d542-73f4-4d20-bb68-ffdfb849c29e",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "group0dvds7",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 2,
+      "workflowCount": 2
+    },
+    {
+      "_id": "6cf0e8af-b0aa-4a25-8034-70dd46e55290",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "6c9cbf00-b697-46af-b982-996f08274759",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "groupbKQgdC",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 1,
+      "workflowCount": 1
+    },
+    {
+      "_id": "793d5a34-ba91-490c-bd8d-4bea21681ddd",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "7382f05f-e3d3-4bbb-90bd-ee83d6488e70",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "grouphDydH6",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 1,
+      "workflowCount": 1
+    },
+    {
+      "_id": "8a660c73-798d-4daa-878d-9c3842bb1570",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "7fbc5c21-fcde-44ff-a589-1bac6258f848",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "groupGswChY",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 1,
+      "workflowCount": 1
+    },
+    {
+      "_id": "8e6c6546-8317-4fc1-9f16-21b8b5302ff4",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "4d33dbe4-20d3-43a5-8090-a28732737cba",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "group1c5MEB",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 1,
+      "workflowCount": 1
+    },
+    {
+      "_id": "94df621a-22f1-4670-b943-d32c027815f5",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "019f0c9c-8efe-49d5-841e-0f765534f786",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "groupd0WiGb",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 1,
+      "workflowCount": 1
+    },
+    {
+      "_id": "afb0ca43-24e3-44a5-9714-76d7489e4a45",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "46708833-bdb7-4d3d-8425-8d6f9efe9686",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "groupq5HRm0",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 1,
+      "workflowCount": 1
+    },
+    {
+      "_id": "b4ea6791-3134-4541-8f0d-902d7a805a86",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "8ae0f670-e996-400f-ba08-810935ad7dac",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "groupo7JIwB",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "b524c10b-2696-4323-9be6-4f1dfb441d8d",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "9132ad81-6eef-4420-af19-24afb0d5ffd6",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "grouprLCCfL",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 1,
+      "workflowCount": 1
+    },
+    {
+      "_id": "dadae47d-dd6f-4f41-ab1e-2f3919e89d02",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "0fba70c0-3ed4-4527-a11c-83fda9878b89",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "groupCs0oLd",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 1,
+      "workflowCount": 1
+    },
+    {
+      "_id": "e550444c-676e-4253-87c4-b7046674c9b4",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "83080440-b131-4207-b00c-c5593d4a300c",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "groupCyuBV3",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 1,
+      "workflowCount": 1
+    },
+    {
+      "_id": "e7a311bc-1a98-4e4b-a788-46013e6ab04b",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "80393367-84b1-47b5-aa80-f1d4331e89e8",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "grouplRsvEy",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 1,
+      "workflowCount": 1
+    },
+    {
+      "_id": "fb7c268d-3916-4575-aa52-70cbc4f672c6",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "ef995335-4cca-4367-90d8-94ba95c74645",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "groupcFkP4G",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "fdb4f197-3042-4c84-8520-2cf7cf703ae1",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "dc196458-bc00-4a04-b763-f63894aa225c",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "groupQeK2zL",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "fea120fa-d907-4cdf-a3c2-45fa1789524e",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "cpeFilter": {
+        "manufacturer": "Calix",
+        "modelName": "GS4227",
+        "serialNumber": {
+          "_id": "ff5a2e12-aabc-48cf-b687-202badb3e33d",
+          "$regex": "^CXNK00AFB83B$"
+        }
+      },
+      "name": "groupfpw4PI",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 1,
+      "workflowCount": 1
+    },
+    {
+      "_id": "0161f681-8f1c-4d10-ab61-e320d4dd0a45",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupeUOWu7",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "0372ed2c-19f0-47a8-8a06-808f32485fda",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "grouph0Z79J",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "0514c8ab-1e5a-42b2-a6c9-6eebfebc8414",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupVUO01l",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "07a50be5-0f17-42c1-a3eb-6ddedad1379e",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupjRs5Rn",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "086adc48-7699-499e-b24e-e5d9fe0fece6",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupOKZnxK",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "09e101ff-14a1-4ba0-b108-bc0fbf85dcdf",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "cpeFilter": {
+        "hardwareVersion": {
+          "_id": "d479949c-118f-4913-a286-d2eae96bfa8e",
+          "$ne": "3000287810"
+        },
+        "manufacturer": {
+          "_id": "0760547a-1ef3-45e5-895c-fe64f1a405c9"
+        },
+        "modelName": {
+          "_id": "adc71bfb-8591-490d-b0ea-d6c661410194",
+          "$in": [
+            "GM1028",
+            "GS2128G",
+            "GS4237"
+          ]
+        },
+        "opMode": {
+          "_id": "86d96cfb-0206-4c43-aeaa-c23c4fdf1d6c"
+        },
+        "registrationId": {
+          "_id": "1a86ed3d-0881-48ce-80ed-2a051f18e790",
+          "$regex": "^.*?$"
+        },
+        "serialNumber": {
+          "_id": "59f63147-4ccc-490d-abef-5e980a7fcb4a",
+          "$regex": "^CXNK0151C334$"
+        },
+        "softwareVersion": {
+          "_id": "ef1bf974-99a6-49ce-b883-42f621e820f3",
+          "$ne": "24.2.500.259"
+        },
+        "wanAccessType": {
+          "_id": "cb2c8883-2721-45f8-a805-44b969bc035e"
+        }
+      },
+      "name": "cherry-group-dynamic",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "0a21fbc8-37ce-47e4-9942-dfaf26a89fca",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "members": [
+        {
+          "_id": "d0340139-373e-4ee2-b61b-71aa3378ea20",
+          "createTime": "2025-05-29T05:23:24.146Z",
+          "groupId": "0a21fbc8-37ce-47e4-9942-dfaf26a89fca",
+          "memberInfo": "CXNK0151C33B",
+          "orgId": "2550",
+          "allowInheritance": true
+        },
+        {
+          "_id": "0c9d0cab-bd5e-4110-970c-a5f741559367",
+          "createTime": "2025-05-29T05:23:23.222Z",
+          "groupId": "0a21fbc8-37ce-47e4-9942-dfaf26a89fca",
+          "memberInfo": "CXNK0151C33B",
+          "orgId": "2550",
+          "allowInheritance": true
+        }
+      ],
+      "name": "groupoPikmG",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "1901692d-b101-446c-a4b9-c047f96f9d90",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "group4p6xuv",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "20f8beda-ea35-437d-9eb0-7d1b973a3958",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "cpeFilter": {
+        "hardwareVersion": {
+          "_id": "40466cc0-46e3-41fb-98ad-c5de5c4fde9a",
+          "$ne": "3000287810"
+        },
+        "manufacturer": {
+          "_id": "4d51bcdf-d61a-4102-b389-ca108fa399cd"
+        },
+        "modelName": {
+          "_id": "f056163b-a2b5-47b1-952e-b224584acbd6",
+          "$in": [
+            "GM1028",
+            "GS2128G",
+            "GS4237"
+          ]
+        },
+        "opMode": {
+          "_id": "a775ee8d-dda6-445e-81fe-aa3fa2da2aab"
+        },
+        "registrationId": {
+          "_id": "393f79e7-389b-4b5e-8b44-73d52cb6590b",
+          "$regex": "^.*?$"
+        },
+        "serialNumber": {
+          "_id": "45df12bf-6e7f-494d-ac6a-0e5e2a449c2d",
+          "$regex": "^CXNK0151C334$"
+        },
+        "softwareVersion": {
+          "_id": "dd4e4c53-3771-4621-8633-d77056aaf08f",
+          "$ne": "24.2.500.259"
+        },
+        "wanAccessType": {
+          "_id": "fef47e74-e3b7-4d6a-a594-08bb5c97dfa7"
+        }
+      },
+      "name": "cherry-group-dynamic",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "214827e6-f8f6-40a4-b625-5e70a21fbc13",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupaWcb3F",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "21eecc3a-6a98-49cb-87e8-46d27ed460c9",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "cpeFilter": {
+        "hardwareVersion": {
+          "_id": "c43def83-9eac-4372-90bd-0bd85f2903d2",
+          "$ne": "3000287810"
+        },
+        "manufacturer": {
+          "_id": "87dcbaeb-9728-4f1e-beaa-fb4a47af3527"
+        },
+        "modelName": {
+          "_id": "61f55972-5300-4f44-a447-21e1c1c3bc06",
+          "$in": [
+            "GM1028",
+            "GS2128G",
+            "GS4237"
+          ]
+        },
+        "opMode": {
+          "_id": "2eb5bcb0-0d18-4202-ba68-6bb14c1c6a17"
+        },
+        "registrationId": {
+          "_id": "3564e427-1e91-46dc-b55f-c7a0a1f1642f",
+          "$regex": "^.*?$"
+        },
+        "serialNumber": {
+          "_id": "e26eab67-5c87-41c9-af88-c7c91708375b",
+          "$regex": "^CXNK0151C334$"
+        },
+        "softwareVersion": {
+          "_id": "8490fa5a-4abf-4c7c-be79-1abaf4ca1b9e",
+          "$ne": "24.2.500.259"
+        },
+        "wanAccessType": {
+          "_id": "1dba3ec2-c293-497c-aecd-9ef1010343ab"
+        }
+      },
+      "name": "system group20250521110706",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "250c49a8-dc56-4ca9-a01f-0540b56d1847",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "group1k1mxX",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "270cec08-e17c-4764-80ff-70c7a22cd65c",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "deciae",
+      "cpeFilter": {
+        "manufacturer": {
+          "_id": "636bf4a1-eb1d-48cc-882f-744f5dc0991b"
+        }
+      },
+      "name": "deciae",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "294c1e61-ae93-47ec-a6b7-d0d3faf56cb4",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "cpeFilter": {
+        "hardwareVersion": {
+          "_id": "1319df75-481a-41bb-af1d-c01a688b13c1",
+          "$ne": "3000287810"
+        },
+        "manufacturer": {
+          "_id": "872277a1-da55-4449-91c8-17829180b6ee"
+        },
+        "modelName": {
+          "_id": "5d347b4a-b68f-4867-a70c-414cc68fc437",
+          "$in": [
+            "GM1028",
+            "GS2128G",
+            "GS4237"
+          ]
+        },
+        "opMode": {
+          "_id": "697f2b2f-60ad-47a7-bd89-bb3a2ed6ffc7"
+        },
+        "registrationId": {
+          "_id": "d71a0411-2644-44c3-8fcd-40a0970e3073",
+          "$regex": "^.*?$"
+        },
+        "serialNumber": {
+          "_id": "e06868d3-81f1-43b2-8937-72daa58822cf",
+          "$regex": "^CXNK0151C334$"
+        },
+        "softwareVersion": {
+          "_id": "5db32406-a7fe-4608-9b8a-fb37844d1518",
+          "$ne": "24.2.500.259"
+        },
+        "wanAccessType": {
+          "_id": "d95db1f9-b037-4a03-86c0-ff6139220df3"
+        }
+      },
+      "name": "groupn7zp3r",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "2b3c8bf6-1c3a-4902-8753-ae84665ffdb9",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "cpeFilter": {
+        "hardwareVersion": {
+          "_id": "bc1319d1-53a6-46c4-9353-f88a9e3b1671",
+          "$ne": "3000287810"
+        },
+        "manufacturer": {
+          "_id": "e52ba8fd-57da-41d5-832e-a0784e7525a9"
+        },
+        "modelName": {
+          "_id": "98bb0a05-f644-4727-9811-cb05ffba3ca6",
+          "$in": [
+            "GM1028",
+            "GS2128G",
+            "GS4237"
+          ]
+        },
+        "opMode": {
+          "_id": "a0812a89-c341-4e05-b4b5-ca2cf56faa1f"
+        },
+        "registrationId": {
+          "_id": "35da32d2-d2bc-47dc-9fe9-b57395f62c18",
+          "$regex": "^.*?$"
+        },
+        "serialNumber": {
+          "_id": "498c1696-2743-413f-8a4e-8363c53542d4",
+          "$regex": "^CXNK0151C334$"
+        },
+        "softwareVersion": {
+          "_id": "233c28e8-24d4-4caf-9a1d-51ef4559c1d9",
+          "$ne": "24.2.500.259"
+        },
+        "wanAccessType": {
+          "_id": "8ecd40b9-d4e1-4d2e-833f-4beccb799c2c"
+        }
+      },
+      "name": "cherry-group-dynamic",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "2e6fe7b0-3a25-4d28-ae57-c7bb00b3d61b",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "cpeFilter": {
+        "hardwareVersion": {
+          "_id": "b77724fe-819b-4a1b-835b-190d15627da8",
+          "$ne": "3000287810"
+        },
+        "manufacturer": {
+          "_id": "d1de1411-cc75-408e-805d-fbfabbf57a39"
+        },
+        "modelName": {
+          "_id": "89b8c045-ad9c-48cb-9fd9-d18663928863",
+          "$in": [
+            "GM1028",
+            "GS2128G",
+            "GS4237"
+          ]
+        },
+        "opMode": {
+          "_id": "1ee0125b-ae01-4723-b743-9bacd8fa7fe3"
+        },
+        "registrationId": {
+          "_id": "ca7ebbf1-c641-40ba-8dac-166a7fa895b3",
+          "$regex": "^.*?$"
+        },
+        "serialNumber": {
+          "_id": "7190d5c7-7ff0-4f2d-a099-5659d76cfa38",
+          "$regex": "^CXNK0151C334$"
+        },
+        "softwareVersion": {
+          "_id": "77a47d41-c0c4-4bdc-8961-93b108ea9c64",
+          "$ne": "24.2.500.259"
+        },
+        "wanAccessType": {
+          "_id": "8b86be59-dc84-4743-81cf-961453e34c78"
+        }
+      },
+      "name": "system group20250521110808",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "2e85e6f0-5ce6-4806-824a-a02e525b7868",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "grouplErB7Y",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "304d01ef-1bd1-4d70-870b-8ff5b60c4746",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "members": [
+        {
+          "_id": "b409d453-2f8a-478f-81ab-99fc455215a8",
+          "createTime": "2025-05-29T04:35:56.001Z",
+          "groupId": "304d01ef-1bd1-4d70-870b-8ff5b60c4746",
+          "memberInfo": "60:db:98:6f:27:dd",
+          "orgId": "2550",
+          "allowInheritance": true
+        }
+      ],
+      "name": "group7AKf3c",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "33542581-cea2-4c9d-8aba-1f7c9b3444b0",
+      "completedCount": 0,
+      "description": "20250521110712",
+      "name": "20250521110712",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "35840435-71c5-428b-91c9-09be19b5bc5f",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupv8mHso",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "38cf4619-2329-465e-bd21-dd06a7333372",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "agelid",
+      "cpeFilter": {
+        "manufacturer": {
+          "_id": "b9dab574-1520-4f60-8d6c-879ad52baaf8"
+        }
+      },
+      "name": "agelid",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "3d498af5-48f5-48d6-a438-71075edc9d8a",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupaN54QW",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "44be9a65-4280-4fbd-b0f8-7c935d0664cd",
+      "completedCount": 0,
+      "description": "20250521110813",
+      "name": "20250521110813",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "45a80408-91dc-4852-80bf-e7f02eace77d",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "cpeFilter": {
+        "hardwareVersion": {
+          "_id": "78ae12e9-611d-4425-9213-83df05564c49",
+          "$ne": "3000287810"
+        },
+        "manufacturer": {
+          "_id": "13245c49-bfd9-41b5-b78a-d69143d7e420"
+        },
+        "modelName": {
+          "_id": "cb13e457-c11a-4290-ae97-e97eae66cf44",
+          "$in": [
+            "GM1028",
+            "GS2128G",
+            "GS4237"
+          ]
+        },
+        "opMode": {
+          "_id": "a35177fc-9e7b-4283-9452-779dafc7c20b"
+        },
+        "registrationId": {
+          "_id": "b5025e00-049f-4e7d-8910-43912f3b6049",
+          "$regex": "^.*?$"
+        },
+        "serialNumber": {
+          "_id": "59ebc160-9cc7-41a4-a562-08db840ab86a",
+          "$regex": "^CXNK0151C334$"
+        },
+        "softwareVersion": {
+          "_id": "a059fcd7-0860-4131-b8fc-fd9dfe5ba520",
+          "$ne": "24.2.500.259"
+        },
+        "wanAccessType": {
+          "_id": "99e66229-2445-43c2-9fa5-4e665fe6a5ae"
+        }
+      },
+      "name": "cherry-group-dynamic",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "50b76a88-8248-4d8d-a3f1-3f5fb9bc24bb",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "group9K6RWP",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "5350b0ed-66dd-4f3f-bb42-d978ccab0256",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupH1JhOm",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "5ed728cd-f24d-4295-a202-6e67755f7487",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupiYVc6U",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "63686483-9555-422b-89d6-16e5dacd1f28",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupP6FKwT",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "65483602-6895-452b-8fdf-88b66441cd08",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "group96Dp17",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "65ce9885-bd21-415d-b556-110cfcece400",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupmpX8aN",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "65ea13cf-93bf-4fd8-892e-b94b66fd908f",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "members": [
+        {
+          "_id": "a2193f5e-3c41-4062-b9fb-14a49cb47b01",
+          "createTime": "2025-05-29T04:36:32.613Z",
+          "groupId": "65ea13cf-93bf-4fd8-892e-b94b66fd908f",
+          "memberInfo": "60:db:98:6f:27:dd",
+          "orgId": "2550",
+          "allowInheritance": true
+        }
+      ],
+      "name": "group5gcZHT",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "67458988-39a2-42a4-9aae-fbdb124fdcf1",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupIhuXMJ",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "6b47b8b1-c4cc-40a9-9bb6-16b81b2a1ef6",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "group8Mspcp",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "743d2df3-3efe-44e7-9873-7fe766aeb754",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "cpeFilter": {
+        "hardwareVersion": {
+          "_id": "650175af-1d5d-4607-a3b2-4e4651ea0517",
+          "$ne": "3000287810"
+        },
+        "manufacturer": {
+          "_id": "512baf5a-56c8-4713-8045-631de9852194"
+        },
+        "modelName": {
+          "_id": "19b1d270-9dea-48b9-a08d-2aabe0fe288d",
+          "$in": [
+            "GM1028",
+            "GS2128G",
+            "GS4237"
+          ]
+        },
+        "opMode": {
+          "_id": "bcc42ac2-f6ae-4e22-a042-8909e22a6a2a"
+        },
+        "registrationId": {
+          "_id": "8d73fb39-c63d-4989-a52c-eb5e4c15e6f7",
+          "$regex": "^.*?$"
+        },
+        "serialNumber": {
+          "_id": "abfd0eff-8cec-48e3-8996-7b4d9e394e60",
+          "$regex": "^CXNK0151C334$"
+        },
+        "softwareVersion": {
+          "_id": "41d643a3-d8a2-44cb-9e1b-4af63076084f",
+          "$ne": "24.2.500.259"
+        },
+        "wanAccessType": {
+          "_id": "7a3f25e7-ab65-49bf-adbd-66548c9a4fb0"
+        }
+      },
+      "name": "groupcxyv9m",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "77acbab7-5e49-4b85-9403-4faea121d224",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupKjG5fb",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "786d3ce5-6fdc-49d3-bf12-b2294d3b6888",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupIPBK1t",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "794182c2-d835-43ec-9731-d02d8a87c92a",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupb1U9g9",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "7db3b971-8845-4f99-919a-c2851277f418",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupBR02XT",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "7e2dd712-5859-4741-af5e-3c74aa4ebb46",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "cpeFilter": {
+        "hardwareVersion": {
+          "_id": "e756887c-70e4-48da-a825-5bf5f637a24f",
+          "$ne": "3000287810"
+        },
+        "manufacturer": {
+          "_id": "d9c542ca-2509-4632-ab9c-f512524aec7f"
+        },
+        "modelName": {
+          "_id": "e27fae88-401c-44a3-a614-a80a68cb5e9a",
+          "$in": [
+            "GM1028",
+            "GS2128G",
+            "GS4237"
+          ]
+        },
+        "opMode": {
+          "_id": "7b34a909-6227-45de-90b6-3d04e6969602"
+        },
+        "registrationId": {
+          "_id": "0127674b-27f2-411e-86cf-583b944687bf",
+          "$regex": "^.*?$"
+        },
+        "serialNumber": {
+          "_id": "bc456970-18a9-46ec-887d-f8c432a090cc",
+          "$regex": "^CXNK0151C334$"
+        },
+        "softwareVersion": {
+          "_id": "d49019d8-6ac6-4be9-88fc-7ff87ffa99be",
+          "$ne": "24.2.500.259"
+        },
+        "wanAccessType": {
+          "_id": "399feee5-47ac-40cc-b6ac-b8fd8dc3f61e"
+        }
+      },
+      "name": "cherry-group-dynamic",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "7f57c80c-6d8d-49ab-9cda-4d009db94db1",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupV24buP",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "83e69e76-eac1-44f1-9b78-e58ad510e0c5",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupTKK3Rx",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "85a0d506-462f-461a-a772-98e2f0d64b6e",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "grouppGETOV",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "85c62b95-a7f9-4739-8a18-e0a0d451862d",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "cpeFilter": {
+        "hardwareVersion": {
+          "_id": "b37d2ab0-5920-45c3-94e9-7d4501a8dcd4",
+          "$ne": "3000287810"
+        },
+        "manufacturer": {
+          "_id": "8a0ee950-bcf4-4e49-8d57-904fd337138f"
+        },
+        "modelName": {
+          "_id": "35e87ff3-f3a2-4227-8422-23acabad9e45",
+          "$in": [
+            "GM1028",
+            "GS2128G",
+            "GS4237"
+          ]
+        },
+        "opMode": {
+          "_id": "19e08766-66ee-4540-ad85-95644c37680b"
+        },
+        "registrationId": {
+          "_id": "d87b9946-b8a5-4e6f-b31f-6d7b50207569",
+          "$regex": "^.*?$"
+        },
+        "serialNumber": {
+          "_id": "466c3940-47ca-4516-b682-e953ecbfd758",
+          "$regex": "^CXNK0151C334$"
+        },
+        "softwareVersion": {
+          "_id": "bdf6b186-297f-415f-ab66-ebf1c953cc30",
+          "$ne": "24.2.500.259"
+        },
+        "wanAccessType": {
+          "_id": "16c69c25-7c1b-4c8e-a55a-799bdd997a39"
+        }
+      },
+      "name": "cherry-group-dynamic",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "8b1c70ea-6f8f-4927-8ae9-013fe89df4c5",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupesQRX6",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "8d03774c-6585-40c0-a5c8-db6ae321942a",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "members": [
+        {
+          "_id": "f0852a9a-e588-43d2-ac48-02b9dd1f3a18",
+          "createTime": "2025-05-29T04:35:25.974Z",
+          "groupId": "8d03774c-6585-40c0-a5c8-db6ae321942a",
+          "memberInfo": "60:db:98:6f:27:dd",
+          "orgId": "2550",
+          "allowInheritance": true
+        }
+      ],
+      "name": "grouprfHVMd",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "9087b835-c1f7-49a7-b141-231581c6642c",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupcjtIhT",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "931a853e-8b9c-417b-baa6-88bd63df41c4",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupydWETz",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "98ebe3b1-8197-43e6-8520-114cb6c1e308",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "cpeFilter": {
+        "hardwareVersion": {
+          "_id": "f415568e-59ea-45e0-bb65-b88d76c86e8b",
+          "$ne": "3000287810"
+        },
+        "manufacturer": {
+          "_id": "303e7e6a-024f-4774-8cde-4a361ea7bf1d"
+        },
+        "modelName": {
+          "_id": "f148e1c9-a955-4374-beb8-7dc74bcd068b",
+          "$in": [
+            "GM1028",
+            "GS2128G",
+            "GS4237"
+          ]
+        },
+        "opMode": {
+          "_id": "183c42ab-81c2-4ae9-940b-579a7076ec66"
+        },
+        "registrationId": {
+          "_id": "b663cb4a-23e0-4308-8ca7-8c3f50ca3d87",
+          "$regex": "^.*?$"
+        },
+        "serialNumber": {
+          "_id": "710e7662-f985-486c-bddc-ae87ebf0b5d6",
+          "$regex": "^CXNK0151C334$"
+        },
+        "softwareVersion": {
+          "_id": "cc141d94-89ee-458a-aeba-b99ac740c70b",
+          "$ne": "24.2.500.259"
+        },
+        "wanAccessType": {
+          "_id": "d4f4ac77-b293-43d6-ba9b-12245a33ee11"
+        }
+      },
+      "name": "cherry-group-dynamic",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "a1ba547a-1b71-46ee-84f0-fa477805306c",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupZ3XK0n",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "a2c7575c-3bf7-4e3b-a68c-95c66846fde7",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupZUdKvz",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "a7a4dc84-7bf8-4eb8-883b-b7261f409bb3",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupqyH503",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "aa42b475-b3d8-48ff-ae9d-a175593611c1",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupKnvo4z",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "ac44383d-dddc-426e-b9f8-e4a0d796dfd0",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupK1By4G",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "accbb5e0-4d93-4179-bc5f-b6c405b4b835",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupivwWnQ",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "aebcdbac-3a2b-44fe-8ac2-a5dd44de5513",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupGB0PRe",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "b260503c-9b37-4ace-b910-daf514e875b7",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "group0vv27C",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "bc027ea4-152a-494f-b045-56ecfe68312d",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "cherry-group-static20250521110715",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "bcecc076-dddd-410b-a4d1-5fde5229c429",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupJQO4GR",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "bf408035-3da5-482b-b00a-71aeb0a816ef",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupgLKhbu",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "bf7b0364-a294-4dcf-946e-2698fedb25af",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupIxgKmJ",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "c116bdba-b5b6-4d13-baf4-2e38b6d9534f",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupollJBK",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "cae45931-28e7-4f14-a719-6408f7766b62",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "group2vrAcz",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "cd241470-1ca8-4036-abdd-5a94ee85bf3d",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "cpeFilter": {
+        "hardwareVersion": {
+          "_id": "acc3db75-7b74-4b65-b029-55ed2adf5a26",
+          "$ne": "3000287810"
+        },
+        "manufacturer": {
+          "_id": "d01f2114-7103-47f6-af46-7c333c6b1e7b"
+        },
+        "modelName": {
+          "_id": "8b22fcbf-4bd6-4ae2-9e7b-40cdda56b525",
+          "$in": [
+            "GM1028",
+            "GS2128G",
+            "GS4237"
+          ]
+        },
+        "opMode": {
+          "_id": "1d0e929d-2571-495c-877c-e212e1a363df"
+        },
+        "registrationId": {
+          "_id": "7ddb3620-644e-4c68-afeb-db2a6545500c",
+          "$regex": "^.*?$"
+        },
+        "serialNumber": {
+          "_id": "aa77979f-a50c-4d0a-8399-47793a2010a0",
+          "$regex": "^CXNK0151C334$"
+        },
+        "softwareVersion": {
+          "_id": "7638902d-81ea-494d-9f6a-1f1bf30ce840",
+          "$ne": "24.2.500.259"
+        },
+        "wanAccessType": {
+          "_id": "be3284e5-d2e7-46ac-808f-21f0a46484d6"
+        }
+      },
+      "name": "cherry-group-dynamic",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "d00c674c-bcc6-4f4e-bb24-617773cae9d3",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupxCcjH2",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "d17d09bd-e50f-400a-903e-c3e743e9fae6",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupQ6cDue",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "d2d0c3cb-13b3-4bd4-b05f-d22d6c11299c",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "cpeFilter": {
+        "hardwareVersion": {
+          "_id": "3edf703a-cec7-4503-9d1e-1624f5515b4a",
+          "$ne": "3000287810"
+        },
+        "manufacturer": {
+          "_id": "98a28b16-2756-4f80-94c3-85af7109997e"
+        },
+        "modelName": {
+          "_id": "b3e68e50-2382-4ffb-b2e8-c2639045dc1c",
+          "$in": [
+            "GM1028",
+            "GS2128G",
+            "GS4237"
+          ]
+        },
+        "opMode": {
+          "_id": "659253dd-1a65-47b1-a86c-c0b2a1a0945f"
+        },
+        "registrationId": {
+          "_id": "915ef3ad-4241-4ae8-bc75-5601dbc8c081",
+          "$regex": "^.*?$"
+        },
+        "serialNumber": {
+          "_id": "98123ae7-3565-4804-bd63-cdb7d7c68b59",
+          "$regex": "^CXNK0151C334$"
+        },
+        "softwareVersion": {
+          "_id": "a5b80313-9e76-49dc-aca7-9f3f1f5e1a51",
+          "$ne": "24.2.500.259"
+        },
+        "wanAccessType": {
+          "_id": "9c26073e-78d4-4000-94d7-5b644de5ea92"
+        }
+      },
+      "name": "cherry-group-dynamic",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "d4af37bd-ceb5-4b1c-a6af-9d54a9c0cbd1",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupzpsCT5",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "d5dbda4e-9df1-4bba-8a35-fe23798b60af",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "name": "0521_static",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "d74fce32-1ac4-4413-a682-1071215caa7b",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupa30nCK",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "d860a0c7-0b32-4074-8760-210954dcb287",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupP0GKub",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "d8c3c1a9-d465-4b74-aa83-e1768aaf22fc",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupjmUgBg",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "df58b158-2959-4924-9d5f-a34a947cddf7",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "members": [
+        {
+          "_id": "3c1d7cb8-51a7-4bfb-9a8f-f6ab448d2ee6",
+          "createTime": "2025-05-29T04:50:23.742Z",
+          "groupId": "df58b158-2959-4924-9d5f-a34a947cddf7",
+          "memberInfo": "1",
+          "orgId": "2550",
+          "allowInheritance": true
+        }
+      ],
+      "name": "group44D4BD",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "e102931d-b4ec-46c4-93fb-940f9dfa4828",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupE2wa2J",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "ee82330b-e1d7-47cf-a29e-9347a4d1ceb8",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupGIfTAf",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "f1d98bac-08cb-4e03-b984-69afffa20a96",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "group9ewH2w",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "f26800e6-5bff-49be-8003-c1ef556d925d",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupTCIVix",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "f78dc6da-1ec1-4689-90fb-e6a2bd73f640",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupe7X1LK",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "f81eacb5-606b-44da-961e-3abad9563955",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupyhGLBf",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "f8799957-cb47-41d9-922e-690e8c0f514c",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "grouppiNoDd",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "f8ba6fd6-2d4c-4cac-a811-e7282c6bec6d",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupsHPAYD",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "fbe2ac99-1f91-43e5-bdd4-a54cd19c0514",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "group9zlKfc",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "fcbb9023-ae88-4122-9f2c-bbcfc865f10c",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "lchmnf",
+      "cpeFilter": {
+        "manufacturer": {
+          "_id": "2f6f8cb3-56e4-45e3-9288-2f8c02731da7"
+        }
+      },
+      "name": "lchmnf",
+      "orgId": "2550",
+      "type": "dynamic",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "fe38a2ac-c7bb-4c43-beb7-8fb7e3f46cec",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "cherry-group-static20250521110816",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    }
+  ]
+}

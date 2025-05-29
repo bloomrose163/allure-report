@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://gcs-stg.calix.com:8081/cc/provisioning-record?orgId=50&deviceId=CXNK00AFB83B",
+  "Params": {
+    "deviceId": "CXNK00AFB83B"
+  },
+  "Body": null
+}

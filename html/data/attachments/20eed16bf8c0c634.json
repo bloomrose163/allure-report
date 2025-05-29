@@ -1,0 +1,31 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "ffe451a2-caca-4b3e-99ae-15e9b2f9b4d0",
+    "name": "workflowOp2CmX",
+    "orgId": "50",
+    "start": "2025-05-29T05:28:32.922Z",
+    "state": "In Progress",
+    "groups": [
+      "670149a3-1579-455c-847e-f89cc1497c02"
+    ],
+    "actions": [
+      {
+        "actionType": "Reboot"
+      }
+    ],
+    "cpeMatcher": "{\"orgId\":\"50\",\"bDecommissioned\":{\"$exists\":false},\"$or\":[{\"manufacturer\":\"Calix\",\"modelName\":\"GS4227\",\"serialNumber\":{\"$regex\":\"^CXNK00AFB83B$\"}}]}",
+    "createTime": {
+      "$date": 1748496512922
+    },
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "CPE Event",
+        "cpeEvent": "CC EVENT - On Boot"
+      }
+    },
+    "description": "created by apple",
+    "fullGroupExecute": false,
+    "bPriorNewAndFailed": true
+  }
+}

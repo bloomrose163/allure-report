@@ -1,0 +1,37 @@
+{
+  "Method": "PUT",
+  "URL": "http://gcs-stg.calix.com:8081/cc/provisioning-record?orgId=50",
+  "Params": null,
+  "Body": {
+    "_id": "d4c57f2e-d819-46f7-891d-5d84d0212ef3",
+    "data": {
+      "Enable": true
+    },
+    "wifi": {},
+    "orgId": "50",
+    "video": {
+      "Enable": true
+    },
+    "voice": {
+      "Line": {
+        "1": {
+          "Enable": "Disabled"
+        },
+        "2": {
+          "Enable": "Disabled"
+        }
+      },
+      "FaxT38": {
+        "Enable": false
+      },
+      "ServiceType": "SIP",
+      "X_CALIX_SXACC_RG_WAN": {
+        "ServiceConnectionType": "DHCP"
+      }
+    },
+    "opMode": "Managed ONT",
+    "deviceId": "CXNK00AFB83B",
+    "modelName": "GS4227",
+    "subscriberId": ""
+  }
+}

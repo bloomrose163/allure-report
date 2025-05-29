@@ -1,0 +1,6 @@
+{
+  "Status Code": 500,
+  "Body": {
+    "error": "org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.calix.acs.entity.systemGroup.StaticGroupMember.device -> com.calix.acs.entity.cpe.Device"
+  }
+}
