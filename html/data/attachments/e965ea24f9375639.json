@@ -1,0 +1,10 @@
+{
+  "Method": "DELETE",
+  "URL": "http://gcs-stg.calix.com:8081/cc/static-group-member/0e34464b-4780-4db8-9a93-4977fad09c60?orgId=50&memberInfo=ponreg123&groupId=c0b200f7-5fbe-4960-aea6-1f4ba7862e50",
+  "Params": {
+    "memberInfo": "ponreg123",
+    "groupId": "c0b200f7-5fbe-4960-aea6-1f4ba7862e50",
+    "orgId": "50"
+  },
+  "Body": null
+}

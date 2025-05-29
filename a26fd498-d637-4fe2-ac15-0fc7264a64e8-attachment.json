@@ -1,0 +1,31 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "maintenanceWindow": false,
+    "_id": "b3ff0329-1f6e-4391-8a4b-592c566d6590",
+    "description": "created by apple",
+    "groups": [
+      "b853c00b-6493-412c-8c79-ff8cf2f92e83"
+    ],
+    "fullGroupExecute": false,
+    "orgId": "",
+    "bPriorNewAndFailed": true,
+    "createTime": {
+      "$date": 1748496976459
+    },
+    "name": "workflowDtnyAI",
+    "state": "In Progress",
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "CPE Event",
+        "cpeEvent": "CC EVENT - On Boot"
+      }
+    },
+    "actions": [
+      {
+        "_id": "0223ca07-c3ca-4397-a883-394cd67dd3ca",
+        "actionType": "Reboot"
+      }
+    ]
+  }
+}

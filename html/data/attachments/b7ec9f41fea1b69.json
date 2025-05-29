@@ -1,0 +1,11 @@
+{
+  "Method": "POST",
+  "URL": "http://gcs-stg.calix.com:8081/cc/group?orgId=50",
+  "Params": null,
+  "Body": {
+    "name": "groupEOFQuQ",
+    "description": "system group description",
+    "type": "validType",
+    "allowInheritance": true
+  }
+}

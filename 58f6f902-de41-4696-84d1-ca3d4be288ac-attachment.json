@@ -1,0 +1,9 @@
+{
+  "Status Code": 500,
+  "Body": {
+    "timestamp": "2025-05-29T05:32:14.725Z",
+    "status": 500,
+    "error": "Internal Server Error",
+    "path": "/cc/device"
+  }
+}

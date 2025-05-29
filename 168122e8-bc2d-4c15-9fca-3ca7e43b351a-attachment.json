@@ -1,0 +1,41 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "nextRuntime": "2025-05-29T13:35:41.684Z",
+    "maintenanceWindow": true,
+    "_id": "d357b08c-a4b0-4380-8640-1047691fa5b3",
+    "description": "test",
+    "groups": [
+      "80c0e0c3-7eb2-4904-a628-f96c7aa7b28c"
+    ],
+    "fullGroupExecute": false,
+    "orgId": "2550",
+    "bPriorNewAndFailed": true,
+    "createTime": {
+      "$date": 1748496881348
+    },
+    "name": "workflowmV81jc",
+    "state": "Scheduled",
+    "execPolicy": {
+      "window": {
+        "recurrence": 1,
+        "windowLength": 3600,
+        "startDateTime": "2025-05-29T13:35:41.684Z",
+        "timezone": "Asia/Shanghai",
+        "type": "daily",
+        "frequency": 1
+      },
+      "initialTrigger": {
+        "type": "Maintenance Window"
+      }
+    },
+    "actions": [
+      {
+        "_id": "ca169da2-04f1-417f-aa56-fbd1d41e708c",
+        "actionType": "Add to Static Device Group",
+        "profileName": "bian-GS2028E",
+        "staticGroupId": "c6788e60-9297-473c-bc12-57c1ba185196"
+      }
+    ]
+  }
+}
