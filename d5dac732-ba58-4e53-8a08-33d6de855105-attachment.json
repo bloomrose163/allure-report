@@ -1,0 +1,38 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "_id": "02e847e3-6cf8-497e-887e-1206693447f0",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "group8GX2bj",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "03638bf0-7982-48b5-b03d-1fb69c10d14a",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "group6W7V1W",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "06876551-cc84-413f-b735-419ce68fd8e1",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "groupPwtDQZ",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    }
+  ]
+}

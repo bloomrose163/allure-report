@@ -1,0 +1,70 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "348c19a1-a5c7-4c0b-8eb9-4e33763ed342",
+    "allowInheritance": true,
+    "completedCount": 0,
+    "description": "system group description",
+    "cpeFilter": {
+      "modelName": {
+        "_id": "4141e305-700b-41ef-a0a2-38184c89c2a7",
+        "$in": [
+          "GM1028",
+          "GS4237",
+          "GS2128G"
+        ]
+      },
+      "serialNumber": {
+        "_id": "98bfc1a0-fbac-4dac-858e-9fdf9fce6cc1",
+        "$regex": "^CXNK0151C334$"
+      },
+      "$or": {
+        "_id": "2c542f11-c80d-4f88-8265-7404198f75ff",
+        "$or": {
+          "normalizedIpConditions": [
+            {
+              "id": "a0980c0e-e6c3-47f3-be28-55b1550e51ae",
+              "$gte": "192.168.003.000",
+              "$lte": "192.168.003.255"
+            },
+            {
+              "id": "7a54e291-ea27-4717-ae14-1b19712f16bd",
+              "$gte": "192.168.004.000",
+              "$lte": "192.168.004.255"
+            }
+          ],
+          "id": "3adc4032-d425-4e3e-a488-281de56fc0bd"
+        }
+      },
+      "registrationId": {
+        "_id": "d976dcb1-4964-4c51-a7bb-76c8b640dde4",
+        "$regex": "^.*?$"
+      },
+      "hardwareVersion": {
+        "_id": "14cfb20a-0e0a-4255-8a38-8e188d3652ad",
+        "$ne": "3000287810"
+      },
+      "opMode": {
+        "_id": "948a0b67-bee6-4971-9c92-d11e74af8643",
+        "$eq": "RG"
+      },
+      "softwareVersion": {
+        "_id": "2bd49507-dce4-40f8-89b6-37e4c5fff41f",
+        "$ne": "24.2.500.259"
+      },
+      "wanAccessType": {
+        "_id": "938cc027-0e32-4e5b-9bd7-7f58e0cdd1ca",
+        "$eq": "GPON"
+      },
+      "manufacturer": {
+        "_id": "bb5abdcc-d805-4438-8788-1929c6d13bd3",
+        "$eq": "Calix"
+      }
+    },
+    "name": "group1wKts4",
+    "orgId": "2550",
+    "type": "dynamic",
+    "uncompletedCount": 0,
+    "workflowCount": 0
+  }
+}

@@ -1,1 +1,0 @@
-HTTPConnectionPool(host='acs-api.testx.xilac.net', port=80): Max retries exceeded with url: /cc/device?orgId=2550&limit=2 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001FF64EA97B0>: Failed to resolve 'acs-api.testx.xilac.net' ([Errno 11001] getaddrinfo failed)"))

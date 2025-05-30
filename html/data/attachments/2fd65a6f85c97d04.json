@@ -1,6 +1,0 @@
-{
-  "Status Code": 409,
-  "Body": {
-    "error": "The \":name\" field contains value (\":value\") that conflicts with another System Group; The \"name\" field contains value (\"groupwiuQ9j\") that conflicts with another System Group"
-  }
-}

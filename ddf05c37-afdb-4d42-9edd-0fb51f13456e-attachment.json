@@ -1,0 +1,27 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "11c0121a-224d-4604-84e8-b8bed505cc28",
+    "allowInheritance": true,
+    "completedCount": 0,
+    "cpeFilter": {
+      "modelName": {
+        "_id": "89721139-e7f0-444d-8bb0-78f6c9e0bba2",
+        "$eq": "GS4227"
+      },
+      "serialNumber": {
+        "_id": "8a79555c-3a60-4bbf-83a5-c64ab8a65847",
+        "$regex": "^CXNK00AFB83B$"
+      },
+      "manufacturer": {
+        "_id": "cde486a2-22df-403b-ab97-1c856727ac67",
+        "$eq": "Calix"
+      }
+    },
+    "name": "groupC1YsTK",
+    "orgId": "2550",
+    "type": "dynamic",
+    "uncompletedCount": 0,
+    "workflowCount": 0
+  }
+}

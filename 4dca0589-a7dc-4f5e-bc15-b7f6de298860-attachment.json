@@ -1,0 +1,73 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "data": {
+        "id": "f387a9a3-f0fe-4d8d-b1f8-d094cabb6c63",
+        "Enable": false
+      },
+      "deviceId": "CXNK0151C334",
+      "modelName": "GS2128G",
+      "opMode": "RG",
+      "orgId": "2550",
+      "voice": {
+        "id": "9703aa29-2806-498b-bc1f-d4f4d16a038b",
+        "FaxT38": {
+          "Enable": true
+        },
+        "Line": {
+          "1": {
+            "id": "c9398ec0-4bcf-42fa-906e-ce96880a2dd6",
+            "Enable": "Enabled",
+            "VoiceProcessing": {
+              "ReceiveGain": -4,
+              "TransmitGain": -2
+            },
+            "CallingFeatures": {
+              "CallerIDEnable": true,
+              "X_000631_DirectConnectEnable": true,
+              "X_000631_DirectConnectNumber": "7077663113",
+              "CallWaitingEnable": true,
+              "X_000631_ThreewayCallingEnable": true,
+              "X_000631_DirectConnectTimer": 0,
+              "MWIEnable": true
+            },
+            "SIP": {
+              "AuthUserName": "sip-user",
+              "AuthPassword": "sip-password",
+              "URI": "4001"
+            }
+          },
+          "2": {
+            "id": "c69c73ee-d85f-4917-a64c-f9de8cbf6b5e",
+            "Enable": "Disabled"
+          }
+        },
+        "ServiceType": "SIP"
+      },
+      "currentDate": "2025-05-30T02:34:51.958Z",
+      "_id": "03f9d02a-cf66-4efc-ac11-13c26e295c43"
+    },
+    {
+      "deviceId": "CXNK01BBEA56",
+      "opMode": "RG",
+      "orgId": "2550",
+      "wifi": {
+        "X_CALIX_SXACC_GUEST_5GHZ_SSID": {
+          "id": "87248114-6f40-4cbd-af91-47f61b428fa1",
+          "BeaconType": "Basic",
+          "Enable": false,
+          "IEEE11iEncryptionModes": "AESEncryption",
+          "KeyPassphrase": "1234567890",
+          "X_CALIX_KeyPassphrase": "1234567890",
+          "X_CALIX_SXACC_KeyPassphrase": "1234567890",
+          "SSID": "5GHz_GuestBBEA56",
+          "SSIDAdvertisementEnabled": true,
+          "WPAEncryptionModes": "AESEncryption"
+        }
+      },
+      "currentDate": "2025-05-16T02:46:48.850Z",
+      "_id": "0b565816-6857-4de4-9daf-6197124028d7"
+    }
+  ]
+}

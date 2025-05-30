@@ -1,0 +1,29 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "_id": "39cda1da-a473-44f6-820f-d188309f5a58",
+      "createTime": "2025-05-27T01:24:13.249Z",
+      "groupId": "971c4411-bd33-4dae-9b11-b134a79f44a0",
+      "memberInfo": "CXNK00A5F0B4",
+      "orgId": "2550",
+      "allowInheritance": true
+    },
+    {
+      "_id": "80f36159-8a22-4153-a71f-a2ccb8adc6d8",
+      "createTime": "2025-05-27T01:26:21.424Z",
+      "groupId": "07e38892-ce64-4e90-a804-fdc8904aeb49",
+      "memberInfo": "CXNK00A5F0B4",
+      "orgId": "2550",
+      "allowInheritance": true
+    },
+    {
+      "_id": "e9d0e101-95a2-486a-82d3-ab4c04d643bc",
+      "createTime": "2025-05-26T08:48:15.476Z",
+      "groupId": "18479fc8-2773-43c8-89d3-426684e082ef",
+      "memberInfo": "CXNK00A5F0B4",
+      "orgId": "2550",
+      "allowInheritance": true
+    }
+  ]
+}
