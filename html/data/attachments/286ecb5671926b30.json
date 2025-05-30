@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://acs-api.dev1.xilac.net/cc/orphan-device/count?orgId=2550&memberInfo=CXNK00A5F0B4",
+  "Params": {
+    "memberInfo": "CXNK00A5F0B4"
+  },
+  "Body": null
+}

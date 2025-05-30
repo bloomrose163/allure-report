@@ -1,6 +1,0 @@
-{
-  "Status Code": 400,
-  "Body": {
-    "error": "Invalid group! Caught exception Missing Mandatory Field type!"
-  }
-}

@@ -1,5 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.testx.xilac.net/cc/device/count?udpConnectionRequestAddr=64.136.96.5%3A64083",
-  "Body": null
-}

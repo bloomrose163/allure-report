@@ -1,5 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://gcs-stg.calix.com:8081/cc/provisioning-record/count?opMode=RG",
-  "Body": null
-}

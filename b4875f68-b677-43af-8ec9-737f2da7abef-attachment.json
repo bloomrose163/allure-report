@@ -1,5 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://gcs-stg.calix.com:8081/cc/device?softwareVersion=25.2.0.0.28",
-  "Body": null
-}

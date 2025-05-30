@@ -1,5 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://gcs-stg.calix.com:8081/cc/configuration-profile?name=test_ds_hk2_tp4",
-  "Body": null
-}

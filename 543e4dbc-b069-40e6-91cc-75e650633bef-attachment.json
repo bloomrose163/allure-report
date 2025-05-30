@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://acs-api.dev1.xilac.net/cc/device/count?orgId=2550&registrationId=reg123",
+  "Params": {
+    "registrationId": "reg123"
+  },
+  "Body": null
+}

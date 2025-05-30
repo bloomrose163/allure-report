@@ -1,6 +1,0 @@
-{
-  "Status Code": 400,
-  "Body": {
-    "error": "Invalid URL Path and/or Query Parameter(s)!"
-  }
-}

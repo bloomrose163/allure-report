@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://acs-api.dev1.xilac.net/cc/orphan-device/count?orgId=2550&groupId=non-exsit",
+  "Params": {
+    "groupId": "non-exsit"
+  },
+  "Body": null
+}

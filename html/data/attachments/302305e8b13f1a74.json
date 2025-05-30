@@ -1,9 +1,0 @@
-{
-  "Status Code": 400,
-  "Body": {
-    "timestamp": "2025-05-29T18:22:56.435Z",
-    "status": 400,
-    "error": "Bad Request",
-    "path": "/cc/group"
-  }
-}

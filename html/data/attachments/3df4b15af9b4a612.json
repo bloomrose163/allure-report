@@ -1,5 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.testx.xilac.net/cc/group?skip=1&limit=3&excludeOnBoot=False&type=static",
-  "Body": null
-}

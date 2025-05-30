@@ -1,5 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://gcs-stg.calix.com:8081/cc/device/count?manufacturerOUI=E46CD1",
-  "Body": null
-}

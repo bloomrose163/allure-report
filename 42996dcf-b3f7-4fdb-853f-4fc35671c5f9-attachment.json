@@ -1,5 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://gcs-stg.calix.com:8081/cc/device/count?registrationId=reg123",
-  "Body": null
-}

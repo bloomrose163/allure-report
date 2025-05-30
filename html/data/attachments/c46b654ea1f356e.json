@@ -1,5 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.testx.xilac.net/cc/provisioning-record/count?opMode=Managed+ONT",
-  "Body": null
-}
