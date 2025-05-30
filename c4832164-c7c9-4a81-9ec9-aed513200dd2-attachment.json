@@ -1,6 +1,0 @@
-{
-  "Status Code": 400,
-  "Body": {
-    "error": "Cannot invoke \"com.calix.acs.query.QueryCondition.getPropertyName()\" because \"queryCondition\" is null"
-  }
-}

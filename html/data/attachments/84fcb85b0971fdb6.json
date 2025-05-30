@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.dev1.xilac.net/cc/orphan-device/count?orgId=2550&bIncludeOtherDeviceIdForms=True",
-  "Params": {
-    "bIncludeOtherDeviceIdForms": "True"
-  },
-  "Body": null
-}
