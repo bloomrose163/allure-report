@@ -1,0 +1,48 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "_id": "01efa6eb-48a4-4fef-ba48-4bb656c6cb1a",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "members": [
+        {
+          "_id": "7b74be39-4046-4659-994a-d8fc5c4db481",
+          "createTime": "2025-06-01T18:17:27.286Z",
+          "groupId": "01efa6eb-48a4-4fef-ba48-4bb656c6cb1a",
+          "memberInfo": "eaec5289-e4a3-476e-ad2b-561ea5b9881a",
+          "orgId": "2550",
+          "allowInheritance": true
+        }
+      ],
+      "name": "groupYYU3Qd",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "02e847e3-6cf8-497e-887e-1206693447f0",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "group8GX2bj",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    },
+    {
+      "_id": "03638bf0-7982-48b5-b03d-1fb69c10d14a",
+      "allowInheritance": true,
+      "completedCount": 0,
+      "description": "system group description",
+      "name": "group6W7V1W",
+      "orgId": "2550",
+      "type": "static",
+      "uncompletedCount": 0,
+      "workflowCount": 0
+    }
+  ]
+}

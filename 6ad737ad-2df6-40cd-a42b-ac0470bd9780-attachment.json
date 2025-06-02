@@ -1,0 +1,52 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "data": {
+        "id": "8e553271-badb-491a-bbbf-ab9a20e9c798",
+        "Enable": false
+      },
+      "deviceId": "CXNK0151C334",
+      "modelName": "GS2128G",
+      "opMode": "RG",
+      "orgId": "2550",
+      "voice": {
+        "id": "bcd56847-7e0c-491b-8da3-8724d042bfab",
+        "FaxT38": {
+          "Enable": true
+        },
+        "Line": {
+          "1": {
+            "id": "7c039c0f-ff70-47df-b9cb-314fcdc76e6c",
+            "Enable": "Enabled",
+            "VoiceProcessing": {
+              "ReceiveGain": -4,
+              "TransmitGain": -2
+            },
+            "CallingFeatures": {
+              "CallerIDEnable": true,
+              "X_000631_DirectConnectEnable": true,
+              "X_000631_DirectConnectNumber": "7077663113",
+              "CallWaitingEnable": true,
+              "X_000631_ThreewayCallingEnable": true,
+              "X_000631_DirectConnectTimer": 0,
+              "MWIEnable": true
+            },
+            "SIP": {
+              "AuthUserName": "sip-user",
+              "AuthPassword": "sip-password",
+              "URI": "4001"
+            }
+          },
+          "2": {
+            "id": "c6157b4d-1fab-40df-b8e2-8e95424b853b",
+            "Enable": "Disabled"
+          }
+        },
+        "ServiceType": "SIP"
+      },
+      "currentDate": "2025-06-01T18:17:34.632Z",
+      "_id": "3c7feec4-8f3e-4c10-9c1a-bc38ef84f94c"
+    }
+  ]
+}
