@@ -1,6 +1,0 @@
-{
-  "Status Code": 400,
-  "Body": {
-    "error": "One or more referenced profile(s) not found"
-  }
-}

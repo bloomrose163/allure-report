@@ -1,6 +1,0 @@
-{
-  "Status Code": 400,
-  "Body": {
-    "error": "The \"limit\" query parameter must be specified with a value between 1 and 100"
-  }
-}

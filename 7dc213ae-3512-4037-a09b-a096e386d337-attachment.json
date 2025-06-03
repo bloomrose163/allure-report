@@ -1,0 +1,28 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "maintenanceWindow": false,
+    "_id": "5ec48183-d240-40da-9459-42e29fb77bd3",
+    "description": "created by apple",
+    "fullGroupExecute": false,
+    "orgId": "",
+    "bPriorNewAndFailed": true,
+    "createTime": {
+      "$date": 1748945484790
+    },
+    "name": "workflowFNMMcN",
+    "state": "In Progress",
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "CPE Event",
+        "cpeEvent": "CC EVENT - On Boot"
+      }
+    },
+    "actions": [
+      {
+        "_id": "e27d38bf-a846-464f-a5c3-a6b8b969bbaa",
+        "actionType": "Reboot"
+      }
+    ]
+  }
+}
