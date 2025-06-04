@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://gcs-stg.calix.com:8081/cc/configuration-profile?orgId=50&name=TEST_DS_HK3_TP",
-  "Params": {
-    "name": "TEST_DS_HK3_TP"
-  },
-  "Body": null
-}

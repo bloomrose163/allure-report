@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://acs-api.testx.xilac.net/cc/static-group-member/count?orgId=2550&memberInfo=non-exsit",
+  "Params": {
+    "memberInfo": "non-exsit"
+  },
+  "Body": null
+}

@@ -1,9 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.dev1.xilac.net/cc/orphan-device?orgId=2550&memberInfo=CXNK0151C334&bWithDeviceRecord=True",
-  "Params": {
-    "memberInfo": "CXNK0151C334",
-    "bWithDeviceRecord": "True"
-  },
-  "Body": null
-}

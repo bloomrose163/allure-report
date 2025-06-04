@@ -1,0 +1,6 @@
+{
+  "Status Code": 500,
+  "Body": {
+    "error": "org.hibernate.query.sqm.UnknownPathException: Could not resolve attribute 'deviceRecordId' of 'com.calix.acs.entity.systemGroup.StaticGroupMember' [delete from StaticGroupMember staticgroupmember where 1=1  and ( upper(staticgroupmember.deviceRecordId) = '2550-E46CD1-CXNK01A8D0C7' and upper(staticgroupmember.orgId) = '2550' ) ]"
+  }
+}

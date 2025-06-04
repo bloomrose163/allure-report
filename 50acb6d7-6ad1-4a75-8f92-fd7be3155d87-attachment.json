@@ -1,0 +1,14 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "deviceId": "CXNK01BBEA5D",
+      "enableRgOnBattery": true,
+      "modelName": "844GE-1",
+      "opMode": "Managed ONT",
+      "orgId": "2550",
+      "currentDate": "2025-05-12T01:44:44.027Z",
+      "_id": "2b531baf-62c3-45f1-9143-3de88faf56b5"
+    }
+  ]
+}

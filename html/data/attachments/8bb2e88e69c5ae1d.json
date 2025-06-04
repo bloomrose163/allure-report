@@ -1,0 +1,9 @@
+{
+  "Method": "GET",
+  "URL": "http://acs-api.testx.xilac.net/cc/static-group-member?orgId=2550&bIncludeInheritance=True&limit=3",
+  "Params": {
+    "bIncludeInheritance": "True",
+    "limit": 3
+  },
+  "Body": null
+}

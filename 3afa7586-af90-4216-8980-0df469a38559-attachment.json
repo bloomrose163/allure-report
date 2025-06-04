@@ -1,9 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://gcs-stg.calix.com:8081/cc/orphan-device?orgId=50&memberInfo=CXNK0151C334&bWithDeviceRecord=True",
-  "Params": {
-    "memberInfo": "CXNK0151C334",
-    "bWithDeviceRecord": "True"
-  },
-  "Body": null
-}

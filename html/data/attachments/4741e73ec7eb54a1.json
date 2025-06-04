@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://acs-api.testx.xilac.net/cc/device?orgId=2550&deviceId=CXNK01A8D0C7",
+  "Params": {
+    "deviceId": "CXNK01A8D0C7"
+  },
+  "Body": null
+}

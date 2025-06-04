@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.dev1.xilac.net/cc/device?orgId=2550&manufacturerOUI=E46CD1",
-  "Params": {
-    "manufacturerOUI": "E46CD1"
-  },
-  "Body": null
-}

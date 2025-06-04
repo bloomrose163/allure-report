@@ -1,0 +1,6 @@
+{
+  "Status Code": 400,
+  "Body": {
+    "error": "The same device already has a membership record for the same group via another form."
+  }
+}
