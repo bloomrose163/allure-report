@@ -1,0 +1,11 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.dev1.xilac.net/cc/group?orgId=2550",
+  "Params": null,
+  "Body": {
+    "name": "group8Bhrjr",
+    "description": "system group description",
+    "type": "dynamic",
+    "allowInheritance": true
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "Status Code": 409,
+  "Body": {
+    "error": "The \"name\" field contains value (workflowNbNamo) that conflicts with another workflow"
+  }
+}
