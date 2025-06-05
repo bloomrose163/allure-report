@@ -1,0 +1,24 @@
+{
+  "Method": "PUT",
+  "URL": "http://gcs-stg.calix.com:8081/cc/workflow/2eeb3153-9806-4470-a8b3-b0df0e404d41?orgId=50",
+  "Params": null,
+  "Body": {
+    "orgId": "50",
+    "name": "workflowExJkzA",
+    "description": "created by apple",
+    "actions": [
+      {
+        "actionType": "Reboot"
+      }
+    ],
+    "groups": [],
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "CPE Event",
+        "cpeEvent": "CC EVENT - On Boot"
+      }
+    },
+    "bPriorNewAndFailed": true,
+    "fullGroupExecute": false
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "Method": "PUT",
+  "URL": "http://acs-api.testx.xilac.net/cc/provisioning-record/apply-pppoe/2fe8ea88-86ed-48d3-b916-2847f308457f?orgId=2550",
+  "Params": null,
+  "Body": null
+}

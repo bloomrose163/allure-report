@@ -1,0 +1,35 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.testx.xilac.net/cc/workflow?orgId=2550",
+  "Params": null,
+  "Body": {
+    "name": "workflowdmfEdR",
+    "orgId": "2550",
+    "description": "test",
+    "groups": [
+      "f42edea9-8b9f-4a27-b8fa-e1ab0a2096ba"
+    ],
+    "actions": [
+      {
+        "staticGroupId": "b9bef3f9-f344-4f09-b70f-bed04e0b46d5",
+        "actionType": "Add to Static Device Group",
+        "profileName": "bian-GS2028E"
+      }
+    ],
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "Maintenance Window"
+      },
+      "window": {
+        "type": "daily",
+        "startDateTime": "2025-06-05T13:23:52.620Z",
+        "windowLength": 3600,
+        "frequency": 1,
+        "recurrence": 1,
+        "timezone": "Asia/Shanghai"
+      }
+    },
+    "bPriorNewAndFailed": true,
+    "fullGroupExecute": false
+  }
+}

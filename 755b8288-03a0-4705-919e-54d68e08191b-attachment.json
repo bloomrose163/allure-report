@@ -1,0 +1,6 @@
+{
+  "Method": "POST",
+  "URL": "http://gcs-stg.calix.com:8081/cc/configuration-profile?orgId=50",
+  "Params": null,
+  "Body": "./testdata/ACS/profile_create.json"
+}

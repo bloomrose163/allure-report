@@ -1,0 +1,6 @@
+{
+  "Status Code": 400,
+  "Body": {
+    "error": "Missing Mandatory Field orgId; Missing Mandatory Field memberInfo; Missing Mandatory Field groupId"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://gcs-stg.calix.com:8081/cc/device?orgId=50&createTime=2025-03-28T07%3A10%3A00.069Z",
+  "Params": {
+    "createTime": "2025-03-28T07:10:00.069Z"
+  },
+  "Body": null
+}

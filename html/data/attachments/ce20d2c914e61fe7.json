@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://gcs-stg.calix.com:8081/cc/device?orgId=50&ipAddress=192.168.1.2",
+  "Params": {
+    "ipAddress": "192.168.1.2"
+  },
+  "Body": null
+}

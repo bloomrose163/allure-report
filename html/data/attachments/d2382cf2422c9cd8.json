@@ -1,0 +1,15 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "9a4b74cf-71e7-4200-a54d-dd089dcb02df",
+    "orgId": "50",
+    "name": "groupIjgHQS",
+    "description": "system group description",
+    "type": "static",
+    "allowInheritance": true,
+    "workflowCount": 0,
+    "completedCount": 0,
+    "uncompletedCount": 0,
+    "cpeFilter": {}
+  }
+}
