@@ -1,0 +1,10 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.dev1.xilac.net/cc/service-orchestration-profile",
+  "Params": null,
+  "Body": {
+    "category": "Data Service",
+    "productFamily": "EXOS",
+    "name": "service_orchestration_profile7CjDtg"
+  }
+}

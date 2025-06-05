@@ -1,0 +1,28 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "maintenanceWindow": false,
+    "_id": "387ed860-abf3-434a-b063-71391f741a45",
+    "description": "created by apple",
+    "fullGroupExecute": false,
+    "orgId": "",
+    "bPriorNewAndFailed": true,
+    "createTime": {
+      "$date": 1749142828529
+    },
+    "name": "workflowNzBLCE",
+    "state": "In Progress",
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "CPE Event",
+        "cpeEvent": "CC EVENT - On Boot"
+      }
+    },
+    "actions": [
+      {
+        "_id": "32a9f6b0-bad9-4df2-96a2-66d608a1e4a8",
+        "actionType": "Reboot"
+      }
+    ]
+  }
+}

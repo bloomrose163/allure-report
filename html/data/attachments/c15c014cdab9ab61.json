@@ -1,0 +1,9 @@
+{
+  "Method": "GET",
+  "URL": "http://acs-api.dev1.xilac.net/cc/device?orgId=2550&macAddress=e4%3A6c%3Ad1%3A43%3A44%3A0e&modelName=GS4229E",
+  "Params": {
+    "macAddress": "e4:6c:d1:43:44:0e",
+    "modelName": "GS4229E"
+  },
+  "Body": null
+}

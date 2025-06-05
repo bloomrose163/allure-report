@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://gcs-stg.calix.com:8081/cc/device/count?orgId=50&manufacturerOUI=E46CD1",
-  "Params": {
-    "manufacturerOUI": "E46CD1"
-  },
-  "Body": null
-}

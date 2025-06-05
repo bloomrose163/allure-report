@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://acs-api.dev1.xilac.net/cc/device?orgId=2550&additionalHardwareVersion=",
+  "Params": {
+    "additionalHardwareVersion": ""
+  },
+  "Body": null
+}

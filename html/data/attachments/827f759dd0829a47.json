@@ -1,0 +1,6 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.dev1.xilac.net/cc/configuration-profile?orgId=2550",
+  "Params": null,
+  "Body": "./testdata/ACS/profile_create.json"
+}

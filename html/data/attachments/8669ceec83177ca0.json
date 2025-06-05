@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://acs-api.dev1.xilac.net/cc/device/count?orgId=2550&softwareVersion=25.2.0.0.28",
+  "Params": {
+    "softwareVersion": "25.2.0.0.28"
+  },
+  "Body": null
+}

@@ -1,0 +1,6 @@
+{
+  "Status Code": 400,
+  "Body": {
+    "error": "Field Type Mismatch! Filed name: \"6rdPrefix\": expect String, actual type is IntNode!"
+  }
+}

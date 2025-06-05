@@ -1,0 +1,12 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.testx.xilac.net/cc/service-orchestration-profile",
+  "Params": null,
+  "Body": {
+    "category": "Video Service",
+    "productFamily": "EXOS",
+    "mode": "RG L2 Bridged",
+    "vlanId": 688,
+    "name": "service_orchestration_profile9tDKVJ"
+  }
+}
