@@ -1,0 +1,52 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "data": {
+        "id": "3d57a6e8-e20d-40f0-85fc-ebd879ba8e18",
+        "Enable": false
+      },
+      "deviceId": "CXNK01A8D0C7",
+      "modelName": "GS4229E",
+      "opMode": "RG",
+      "orgId": "2550",
+      "voice": {
+        "id": "72fd0d9c-54a9-4ca9-8476-754beb2e5d38",
+        "FaxT38": {
+          "Enable": true
+        },
+        "Line": {
+          "1": {
+            "id": "0fa69609-3cfb-4993-8d5d-d6eaafd1cbc8",
+            "Enable": "Enabled",
+            "VoiceProcessing": {
+              "ReceiveGain": -4,
+              "TransmitGain": -2
+            },
+            "CallingFeatures": {
+              "CallerIDEnable": true,
+              "X_000631_DirectConnectEnable": true,
+              "X_000631_DirectConnectNumber": "7077663113",
+              "CallWaitingEnable": true,
+              "X_000631_ThreewayCallingEnable": true,
+              "X_000631_DirectConnectTimer": 0,
+              "MWIEnable": true
+            },
+            "SIP": {
+              "AuthUserName": "sip-user",
+              "AuthPassword": "sip-password",
+              "URI": "4001"
+            }
+          },
+          "2": {
+            "id": "028e5753-5885-4859-a926-d23a012f255c",
+            "Enable": "Disabled"
+          }
+        },
+        "ServiceType": "SIP"
+      },
+      "currentDate": "2025-06-05T18:58:58.325Z",
+      "_id": "2a5bcc53-0340-4d53-aca6-35ec6cc8405a"
+    }
+  ]
+}

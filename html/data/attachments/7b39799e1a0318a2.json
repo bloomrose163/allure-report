@@ -1,0 +1,1000 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "nextRuntime": "2025-06-03T18:11:47.569Z",
+      "maintenanceWindow": true,
+      "_id": "0eeead06-616b-4ac8-b7ac-b97198dde1ac",
+      "description": "test",
+      "groups": [
+        "b2403268-51ea-4811-84f3-5f30773e0c68"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1748945447545
+      },
+      "name": "workflowZYwxbv",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-06-03T18:11:47.569Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "3eebfe24-d207-48e1-bd06-0ced4919c950",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "2f181395-b604-40bd-9952-64b1ee7c4ebe"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-06-06T10:36:26.355Z",
+      "maintenanceWindow": true,
+      "_id": "25ed97e8-55a9-44d9-a430-7051c9a98240",
+      "description": "test",
+      "groups": [
+        "1fe6f944-79b1-4f01-8769-ad427e5bbd61"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1749177326219
+      },
+      "name": "workflowBS8udm",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-06-06T10:36:26.355Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "7f120057-1220-4c0c-9406-8404108ac33e",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "e90bfedf-403a-4b1b-a4be-7278d9c05170"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-06-04T02:21:04.045Z",
+      "maintenanceWindow": true,
+      "_id": "3a62406c-19fd-4edc-8e9e-24dbee0f8644",
+      "description": "test",
+      "groups": [
+        "b35fd2d7-8ac5-4b9a-bee2-5fca2b5df5d6"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1748974802733
+      },
+      "name": "workflowHE47wH",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-06-04T02:21:04.045Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "d74c0938-1f88-4dff-9fb1-0a043c0a6d11",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "229fc26c-d300-42f3-b28e-97a96018a220"
+        }
+      ]
+    },
+    {
+      "maintenanceWindow": true,
+      "_id": "3f1b4989-8749-4994-a80f-d83c5173bfaa",
+      "execCount": 1,
+      "description": "test",
+      "groups": [
+        "573ea1da-9555-4fa6-b3e0-b20f96234c8a"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1748333086733
+      },
+      "name": "workflow120Ayf",
+      "state": "Completed",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-05-25T06:49:00.000Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "eab55d4d-fc79-4186-81c9-ebb4d17e6334",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "83e69e76-eac1-44f1-9b78-e58ad510e0c5"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-06-06T03:23:00.275Z",
+      "maintenanceWindow": true,
+      "_id": "4f3953c7-8adb-409c-8a97-568d6b4085cc",
+      "description": "test",
+      "groups": [
+        "99e9a476-782e-47fa-a325-beac3be428e3"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1749151318915
+      },
+      "name": "workflowP3W58T",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-06-06T03:23:00.275Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "3fdea262-bd00-4ce6-a319-6940f67417cd",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "e274064f-3e1c-4fda-a147-a2dcb215b62e"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-05-28T06:49:00.000Z",
+      "maintenanceWindow": true,
+      "_id": "53a312cc-3242-44b8-b82e-8ee501393192",
+      "description": "test",
+      "groups": [
+        "afb0ca43-24e3-44a5-9714-76d7489e4a45"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1748332901688
+      },
+      "name": "workflowQsmVak",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-05-28T06:49:00.000Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "5115f2d4-c60a-47d6-855b-247bbd08c766",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "ac44383d-dddc-426e-b9f8-e4a0d796dfd0"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-06-06T00:50:09.980Z",
+      "maintenanceWindow": true,
+      "_id": "5ba12275-31c1-4700-bece-866031378fc0",
+      "description": "test",
+      "groups": [
+        "62b09f52-753b-47be-a179-3e3b90c8fda1"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1749142149455
+      },
+      "name": "workflow74AQ0p",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-06-06T00:50:09.980Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "730897db-e7f2-4eb1-8d30-fae05928ebff",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "e632002f-c18f-42a8-9aee-502f359e97a9"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-06-05T13:23:52.620Z",
+      "maintenanceWindow": true,
+      "_id": "605f27ab-da16-417d-a6ba-757f86b1d3db",
+      "description": "test",
+      "groups": [
+        "f42edea9-8b9f-4a27-b8fa-e1ab0a2096ba"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1749100972872
+      },
+      "name": "workflowdmfEdR",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-06-05T13:23:52.620Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "8cada77a-fa55-49c0-a405-20a9f96b743b",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "b9bef3f9-f344-4f09-b70f-bed04e0b46d5"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-06-05T11:23:38.823Z",
+      "maintenanceWindow": true,
+      "_id": "84fa9364-5cd0-45d7-8848-b2ff0e20f951",
+      "description": "test",
+      "groups": [
+        "55405dc5-8adb-4e0b-a194-849b533ae093"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1749093759220
+      },
+      "name": "workflow5ScDQg",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-06-05T11:23:38.823Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "f6a8b1ac-3cce-49ed-aa52-1f65a678f2ad",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "b3aecdd9-a865-4f09-9e05-79d5a15788fb"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-06-04T18:08:10.369Z",
+      "maintenanceWindow": true,
+      "_id": "898a6b6e-23f0-4b38-92f9-27cb6799d38b",
+      "description": "test",
+      "groups": [
+        "899f46d6-e4c5-4685-97b7-13cc1c4a18c4"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1749031630269
+      },
+      "name": "workflowQN1FOc",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-06-04T18:08:10.369Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "dd09bb1a-686b-4e0c-8c41-2ff41de05891",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "b931ffa6-af20-4c55-a298-439e92f24f3a"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-06-04T18:10:03.660Z",
+      "maintenanceWindow": true,
+      "_id": "8a2d1219-a8a5-49f1-a4f6-d224a2ae0ff1",
+      "description": "test",
+      "groups": [
+        "5573fa07-e70c-4cdc-a6b6-3798ba7bb805"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1749031742913
+      },
+      "name": "workflowrnRX4o",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-06-04T18:10:03.660Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "3f735359-8361-4b28-90da-4dd6cd169e48",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "79829ffe-d3df-475c-b7c1-7bc38bacc73a"
+        }
+      ]
+    },
+    {
+      "maintenanceWindow": true,
+      "_id": "905f690e-589a-4821-b3da-8c47becb4c21",
+      "execCount": 2,
+      "description": "",
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1747732565645
+      },
+      "name": "cc_api_test",
+      "state": "Completed",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 300,
+          "startDateTime": "2025-04-17T06:43:00.000Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "b400483b-d827-4d88-b8d1-82427d6bbfdc",
+          "actionType": "Reboot"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-06-05T11:24:09.756Z",
+      "maintenanceWindow": true,
+      "_id": "930776a8-2510-4b45-922e-1fb5164f2d72",
+      "description": "test",
+      "groups": [
+        "2a215024-d93a-483b-8e37-02ff028262b6"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1749093789510
+      },
+      "name": "workflowlU3sfB",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-06-05T11:24:09.756Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "f6ef28ad-8b2f-4e47-a287-11cfe2cb2548",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "4abd7bec-b66d-4395-aa59-b32e44b6b16d"
+        }
+      ]
+    },
+    {
+      "maintenanceWindow": true,
+      "_id": "9f2af863-598b-4768-9c7a-6729c418fc80",
+      "execCount": 1,
+      "description": "test",
+      "groups": [
+        "dadae47d-dd6f-4f41-ab1e-2f3919e89d02"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1748325211233
+      },
+      "name": "workflowFwpzry",
+      "state": "Completed",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-05-28T06:49:00.000Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "95c7146c-485f-42e7-9c6a-248edcf35b88",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "50b76a88-8248-4d8d-a3f1-3f5fb9bc24bb"
+        }
+      ]
+    },
+    {
+      "maintenanceWindow": true,
+      "_id": "aa470f34-30ab-470a-8a92-69810617f418",
+      "execCount": 2,
+      "description": "test",
+      "groups": [
+        "573ea1da-9555-4fa6-b3e0-b20f96234c8a"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1748333734243
+      },
+      "name": "test_workflow_123",
+      "state": "Completed",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-05-27T16:15:00.000Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "b99b8f4e-e479-41c8-8a6a-fc41138e88f3",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "83e69e76-eac1-44f1-9b78-e58ad510e0c5"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-06-04T18:10:37.143Z",
+      "maintenanceWindow": true,
+      "_id": "abe60a27-f677-4d81-b5d0-8f1cfd58b60c",
+      "description": "test",
+      "groups": [
+        "d050c9ab-13b2-4544-b43f-bf721d77fa49"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1749031776388
+      },
+      "name": "workflowq4rMkF",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-06-04T18:10:37.143Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "d95a18d3-d755-4590-9585-b3faa61e2fad",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "d0432e02-8ab2-43c5-97a5-5404d898d8b2"
+        }
+      ]
+    },
+    {
+      "maintenanceWindow": true,
+      "_id": "b0703b45-f2c7-4c7d-95a4-075ef572205d",
+      "execCount": 1,
+      "description": "test",
+      "groups": [
+        "8a660c73-798d-4daa-878d-9c3842bb1570"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1748335611946
+      },
+      "name": "workflowl8AKxs",
+      "state": "Completed",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-05-27T16:46:52.496Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "f4d9f682-3f3e-49c0-9148-9e30b2977bbd",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "f81eacb5-606b-44da-961e-3abad9563955"
+        }
+      ]
+    },
+    {
+      "maintenanceWindow": false,
+      "_id": "b9016d2d-92b8-4028-871d-abd00489504c",
+      "description": "created by apple",
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1748320120355
+      },
+      "name": "test_workflow",
+      "state": "In Progress",
+      "execPolicy": {
+        "initialTrigger": {
+          "type": "CPE Event",
+          "cpeEvent": "CC EVENT - On Boot"
+        }
+      },
+      "actions": [
+        {
+          "_id": "f2d954f5-33c9-4996-a6ff-183dd25d8717",
+          "actionType": "Reboot"
+        }
+      ]
+    },
+    {
+      "maintenanceWindow": false,
+      "_id": "b9cd8218-392d-439f-895d-9bd6fa960439",
+      "description": "created by apple",
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1748320078804
+      },
+      "name": "workflowPFnRId",
+      "state": "In Progress",
+      "execPolicy": {
+        "initialTrigger": {
+          "type": "CPE Event",
+          "cpeEvent": "CC EVENT - On Boot"
+        }
+      },
+      "actions": [
+        {
+          "_id": "73e1da25-0356-4d43-b692-7e1b2555b4bc",
+          "actionType": "Reboot"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-06-05T11:28:34.251Z",
+      "maintenanceWindow": true,
+      "_id": "c928ca5d-e4b0-4d79-9743-3a2c41252e13",
+      "description": "test",
+      "groups": [
+        "c22aa53f-0feb-4d44-9e50-e233c09d7d63"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1749094053998
+      },
+      "name": "workflow26REcN",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-06-05T11:28:34.251Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "44d4d9b7-d8a8-4a51-8c76-eda03a0e474a",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "1fc9771e-8b2a-4764-b2a5-7f60938de934"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-05-27T18:28:08.330Z",
+      "maintenanceWindow": true,
+      "_id": "d1afeba6-e29e-46b2-8551-81ef500e487b",
+      "description": "test",
+      "groups": [
+        "e7a311bc-1a98-4e4b-a788-46013e6ab04b"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1748341627661
+      },
+      "name": "workflowlKLr6G",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-05-27T18:28:08.330Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "ad65d8f1-a1fd-44cf-bcfc-778c97c264f9",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "250c49a8-dc56-4ca9-a01f-0540b56d1847"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-05-29T13:35:41.684Z",
+      "maintenanceWindow": true,
+      "_id": "d357b08c-a4b0-4380-8640-1047691fa5b3",
+      "description": "test",
+      "groups": [
+        "80c0e0c3-7eb2-4904-a628-f96c7aa7b28c"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1748496881348
+      },
+      "name": "workflowmV81jc",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-05-29T13:35:41.684Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "ca169da2-04f1-417f-aa56-fbd1d41e708c",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "c6788e60-9297-473c-bc12-57c1ba185196"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-05-28T02:22:10.460Z",
+      "maintenanceWindow": true,
+      "_id": "d78d022d-22a6-49c8-9189-5fc75468bace",
+      "description": "test",
+      "groups": [
+        "8e6c6546-8317-4fc1-9f16-21b8b5302ff4"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1748370069241
+      },
+      "name": "workflowOGu9ny",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-05-28T02:22:10.460Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "71fea4e8-956d-459d-a3a4-3516d13fb3d3",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "f8ba6fd6-2d4c-4cac-a811-e7282c6bec6d"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-05-29T13:28:07.990Z",
+      "maintenanceWindow": true,
+      "_id": "dd3625f4-6c9d-43c8-91f6-41e6773d7e58",
+      "description": "test",
+      "groups": [
+        "6cf0e8af-b0aa-4a25-8034-70dd46e55290"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1748496427663
+      },
+      "name": "workflowqG0IG1",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-05-29T13:28:07.990Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "72e78390-8781-408e-bd57-1c169d4a43ab",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "d860a0c7-0b32-4074-8760-210954dcb287"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-05-28T06:49:00.000Z",
+      "maintenanceWindow": true,
+      "_id": "df0226be-e117-47f7-b09a-53613cc7b9f8",
+      "description": "test",
+      "groups": [
+        "4cf68f5d-6107-494b-84ae-445caec49d74"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1748333939239
+      },
+      "name": "workflowZGxvwy",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-05-25T06:49:00.000Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "a5545ae6-f1a9-4a61-bfe8-2837b64d1690",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "d00c674c-bcc6-4f4e-bb24-617773cae9d3"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-05-27T16:54:49.832Z",
+      "maintenanceWindow": true,
+      "_id": "fd395229-c91d-4998-aa36-be15832e9aa6",
+      "description": "test",
+      "groups": [
+        "29c551ad-3379-4713-a5ff-6267ae361ddf"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1748336029919
+      },
+      "name": "workflowL3Eh8C",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-05-27T16:54:49.832Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "921c955d-e643-47db-93aa-47a3b86551dc",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "35840435-71c5-428b-91c9-09be19b5bc5f"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-06-05T02:21:07.367Z",
+      "maintenanceWindow": true,
+      "_id": "fe082275-8324-4c00-81e6-18afb469b1bf",
+      "description": "test",
+      "groups": [
+        "75045705-1426-4eea-9591-2467e1bda219"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1749061205950
+      },
+      "name": "workflowgNfajf",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-06-05T02:21:07.367Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "e4a51ca4-1651-4700-8222-8439f04df85a",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "c9d2501a-9e07-48ee-91b9-a5cd3fcf92ce"
+        }
+      ]
+    }
+  ]
+}
