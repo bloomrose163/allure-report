@@ -1,6 +1,0 @@
-{
-  "Status Code": 403,
-  "Body": {
-    "error": "This membership already exists."
-  }
-}

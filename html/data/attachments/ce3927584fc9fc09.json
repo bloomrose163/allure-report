@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://gcs-stg.calix.com:8081/cc/provisioning-record/count?orgId=50&opMode=Managed+ONT",
-  "Params": {
-    "opMode": "Managed ONT"
-  },
-  "Body": null
-}

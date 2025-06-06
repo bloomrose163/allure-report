@@ -1,0 +1,15 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "mode": "RG Routed",
+    "name": "service_orchestration_profilenEIHMM",
+    "orgId": "2550",
+    "vlanId": 111,
+    "category": "Data Service",
+    "ipVersion": "v4",
+    "framingType": "PPPoE",
+    "productFamily": "EXOS",
+    "defaultConnectionService": false,
+    "_id": "20fb506e-2a74-4dfa-b65a-1179b6e77d23"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.testx.xilac.net/cc/group?orgId=2550",
+  "Params": null,
+  "Body": {
+    "name": "groupNZtsPu",
+    "description": "system group description",
+    "type": "static",
+    "allowInheritance": true,
+    "cpeFilter": {}
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "mode": "RG L2 Bridged",
+    "name": "service_orchestration_profileQV48Qy",
+    "orgId": "2550",
+    "pBits": 4,
+    "vlanId": 260,
+    "category": "Video Service",
+    "bwProfile": "69af7af1-fc9e-4791-b41e-581c9456e345",
+    "MaxStreams": 0,
+    "OUI_Enable": true,
+    "mvrProfile": "22d2bc20-a9d3-4245-9378-a0187496dcb8",
+    "VLAN_Enable": true,
+    "dscp2PbitMap": true,
+    "QueryInterval": 125,
+    "productFamily": "GigaCenter",
+    "OUI_FilterList": "2c:2d:2e:xx:xx:xx",
+    "BridgedInterface": [
+      "5GHz IPTV SSID",
+      "LAN Port 2"
+    ],
+    "mcastFilterProfile": "0d51f40e-0aae-49ba-bebc-11841d955d6f",
+    "APAS_EnableIPTV_SSID": false,
+    "AnyPortAnyServiceEnabled": false,
+    "_id": "fd6100f9-25d5-46a7-97cc-c35b7345e006"
+  }
+}

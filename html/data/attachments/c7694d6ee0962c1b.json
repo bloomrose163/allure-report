@@ -1,6 +1,0 @@
-{
-  "Status Code": 400,
-  "Body": {
-    "error": "Field Type Mismatch! Filed name: \"createTime\": expect JsonObject, actual type is String!"
-  }
-}
