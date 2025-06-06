@@ -1,0 +1,6 @@
+{
+  "Method": "GET",
+  "URL": "http://gcs-stg.calix.com:8081/cc/service-orchestration-profile?orgId=50",
+  "Params": null,
+  "Body": null
+}

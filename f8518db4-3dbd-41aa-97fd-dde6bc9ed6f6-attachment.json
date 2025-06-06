@@ -1,0 +1,14 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "7da29d55-8c73-4612-bd4e-9f8adcbfdaac",
+    "allowInheritance": true,
+    "completedCount": 0,
+    "description": "system group description",
+    "name": "grouphTLvlg",
+    "orgId": "2550",
+    "type": "static",
+    "uncompletedCount": 0,
+    "workflowCount": 0
+  }
+}

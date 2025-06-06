@@ -1,0 +1,77 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "_id": "000ffc77-4f8e-4602-8f18-28f3f0069e20",
+      "wifi": {},
+      "orgId": "50",
+      "voice": {
+        "Line": {
+          "1": {
+            "Enable": "Disabled"
+          },
+          "2": {
+            "Enable": "Disabled"
+          }
+        },
+        "FaxT38": {
+          "Enable": false
+        },
+        "DialPlan": "system-default",
+        "ServiceType": "SIP",
+        "X_CALIX_SXACC_RG_WAN": {
+          "ServiceConnectionType": "DHCP"
+        }
+      },
+      "opMode": "RG",
+      "deviceId": "CN10002000987",
+      "subscriberId": "03ac4ffd-4b8d-4c89-acaf-125083259ed4"
+    },
+    {
+      "_id": "001fe8d1-0496-4c5e-9ab6-166dd574745c",
+      "data": {
+        "pppoe": {
+          "Password": "no_device_id test",
+          "Username": "no_device_id test"
+        },
+        "Enable": true
+      },
+      "wifi": {
+        "X_CALIX_SXACC_PRIMARY_2DOT4GHZ_SSID": {
+          "SSID": "no_device_id_PR_ssid"
+        },
+        "1": {
+          "SSID": "no_device_id_PR_ssid"
+        },
+        "X_CALIX_SXACC_2DOT4GHZ_SSID_1": {
+          "SSID": "no_device_id_PR_ssid"
+        }
+      },
+      "orgId": "50",
+      "video": {
+        "Enable": false
+      },
+      "voice": {
+        "Line": {
+          "1": {
+            "Enable": "Disabled"
+          },
+          "2": {
+            "Enable": "Disabled"
+          }
+        },
+        "FaxT38": {
+          "Enable": false
+        },
+        "DialPlan": "system-default",
+        "ServiceType": "SIP",
+        "X_CALIX_SXACC_RG_WAN": {
+          "ServiceConnectionType": "DHCP"
+        }
+      },
+      "opMode": "RG",
+      "modelName": "GS4220E",
+      "subscriberId": "5da87ed8-82d9-4d5e-a5c2-5464ef82dd42"
+    }
+  ]
+}

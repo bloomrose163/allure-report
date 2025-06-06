@@ -1,0 +1,35 @@
+{
+  "Method": "POST",
+  "URL": "http://gcs-stg.calix.com:8081/cc/workflow?orgId=50",
+  "Params": null,
+  "Body": {
+    "name": "workflowc42d5P",
+    "orgId": "50",
+    "description": "test",
+    "groups": [
+      "c6d80473-a38f-4b74-88bf-61cc369fedda"
+    ],
+    "actions": [
+      {
+        "staticGroupId": "c9a90a5f-f3e6-411a-8eef-ead743866267",
+        "actionType": "Add to Static Device Group",
+        "profileName": "bian-GS2028E"
+      }
+    ],
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "Maintenance Window"
+      },
+      "window": {
+        "type": "daily",
+        "startDateTime": "2025-06-06T17:22:14.356Z",
+        "windowLength": 3600,
+        "frequency": 1,
+        "recurrence": 1,
+        "timezone": "Asia/Shanghai"
+      }
+    },
+    "bPriorNewAndFailed": true,
+    "fullGroupExecute": false
+  }
+}

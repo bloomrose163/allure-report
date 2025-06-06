@@ -1,0 +1,14 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "8f8942de-5e1a-496c-8843-626ff518e71c",
+    "allowInheritance": true,
+    "completedCount": 0,
+    "description": "system group description",
+    "name": "grouppmSGbc",
+    "orgId": "2550",
+    "type": "static",
+    "uncompletedCount": 0,
+    "workflowCount": 0
+  }
+}

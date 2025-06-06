@@ -1,0 +1,10 @@
+{
+  "Method": "GET",
+  "URL": "http://gcs-stg.calix.com:8081/cc/static-group-member?orgId=50&groupId=a7a4dc84-7bf8-4eb8-883b-b7261f409bb3&bUndiscovered=True&limit=3",
+  "Params": {
+    "groupId": "a7a4dc84-7bf8-4eb8-883b-b7261f409bb3",
+    "bUndiscovered": "True",
+    "limit": 3
+  },
+  "Body": null
+}

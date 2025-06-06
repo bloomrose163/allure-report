@@ -1,0 +1,32 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "_id": "e40ffe17-c1b8-44c5-96f5-4e5d4ad96e94",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "14d19003-d19b-49b4-a516-215f5eb85505",
+      "createTime": "2025-06-06T09:16:42.691Z",
+      "memberInfo": "CXNK01A8D0C7",
+      "deviceRecordId": "50-E46CD1-CXNK01A8D0C7"
+    },
+    {
+      "_id": "3e04685f-917b-4745-84a0-cf3d8d294bd5",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "4dd4a203-f175-421b-98e6-f2f26bc0d852",
+      "createTime": "2025-06-06T09:17:22.744Z",
+      "memberInfo": "CXNK01A8D0C7",
+      "deviceRecordId": "50-E46CD1-CXNK01A8D0C7"
+    },
+    {
+      "_id": "5786f767-4ad0-4ff8-a328-bcd4cfc4af08",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "d56c4e16-3393-4b5a-83fe-6a1bfab3eac8",
+      "createTime": "2025-06-06T09:18:34.171Z",
+      "memberInfo": "CXNK01A8D0C7",
+      "deviceRecordId": "50-E46CD1-CXNK01A8D0C7"
+    }
+  ]
+}

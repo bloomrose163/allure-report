@@ -1,0 +1,29 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.testx.xilac.net/cc/service-orchestration-profile?orgId=2550",
+  "Params": null,
+  "Body": {
+    "name": "service_orchestration_profileeGCeH4",
+    "orgId": "2550",
+    "category": "Video Service",
+    "vlanId": 260,
+    "productFamily": "GigaCenter",
+    "bwProfile": "ecfc9a9f-5eb9-4ffc-86b1-b9e97b42fc76",
+    "mvrProfile": "6bc1ef6f-5c74-4ddc-b010-447420041610",
+    "mode": "RG L2 Bridged",
+    "dscp2PbitMap": true,
+    "AnyPortAnyServiceEnabled": false,
+    "APAS_EnableIPTV_SSID": false,
+    "VLAN_Enable": true,
+    "pBits": 4,
+    "BridgedInterface": [
+      "5GHz IPTV SSID",
+      "LAN Port 2"
+    ],
+    "OUI_Enable": true,
+    "OUI_FilterList": "2c:2d:2e:xx:xx:xx",
+    "QueryInterval": 125,
+    "MaxStreams": 0,
+    "mcastFilterProfile": "2ec25f76-0915-4a14-8a4f-c42c0c664937"
+  }
+}

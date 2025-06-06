@@ -1,0 +1,12 @@
+{
+  "Method": "POST",
+  "URL": "http://gcs-stg.calix.com:8081/cc/group?orgId=50",
+  "Params": null,
+  "Body": {
+    "name": "group2tmxeu",
+    "description": "system group description",
+    "type": "static",
+    "allowInheritance": true,
+    "cpeFilter": {}
+  }
+}

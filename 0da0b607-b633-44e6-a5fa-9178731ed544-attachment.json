@@ -1,0 +1,9 @@
+{
+  "Method": "GET",
+  "URL": "http://gcs-stg.calix.com:8081/cc/group/count?orgId=50&limit=2&filter=CXNK01A8D0C7",
+  "Params": {
+    "limit": 2,
+    "filter": "CXNK01A8D0C7"
+  },
+  "Body": null
+}

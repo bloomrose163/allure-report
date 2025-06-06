@@ -1,0 +1,6 @@
+{
+  "Status Code": 400,
+  "Body": {
+    "error": "Failed to decode:Can not instantiate value of type [map type; class java.util.LinkedHashMap, [simple type, class java.lang.Object] -> [simple type, class java.lang.Object]] from String value; no single-String constructor/factory method"
+  }
+}

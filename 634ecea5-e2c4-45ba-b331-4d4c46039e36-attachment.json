@@ -1,0 +1,9 @@
+{
+  "Method": "GET",
+  "URL": "http://gcs-stg.calix.com:8081/cc/static-group-member?orgId=50&bIncludeInheritance=True&limit=3",
+  "Params": {
+    "bIncludeInheritance": "True",
+    "limit": 3
+  },
+  "Body": null
+}
