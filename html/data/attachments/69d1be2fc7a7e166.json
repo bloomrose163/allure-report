@@ -1,0 +1,37 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "configurations": [
+      {
+        "id": "91b09ce1-4f0f-4b8b-900d-3d9c3994dd4c",
+        "category": "Video - Multicast VLAN Registration (MVR)",
+        "parameterValues": {
+          "Vlan1": 32,
+          "Vlan1Range1Start": "224.0.0.0",
+          "Vlan1Range1End": "224.0.0.4",
+          "NumberOfVLANs": 1,
+          "Vlan1NumberOfRanges": 1
+        }
+      }
+    ],
+    "serviceOrchestration": {
+      "name": "service_orchestration_profilekQ5BnW",
+      "category": "Video - Multicast VLAN Registration (MVR)",
+      "orgId": "2550",
+      "vlans": [
+        {
+          "vlanId": 32,
+          "ranges": [
+            {
+              "start": "224.0.0.0",
+              "end": "224.0.0.4"
+            }
+          ]
+        }
+      ]
+    },
+    "_id": "3c2a24c6-e216-420d-8b64-a94974a630fc",
+    "name": "Service Orchestration ~ service_orchestration_profilekQ5BnW",
+    "orgId": "2550"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "configurations": [
+      {
+        "id": "6fdb4e68-9962-48c6-839b-c9ee13885d34",
+        "category": "Data Service",
+        "parameterValues": {
+          "productFamily": "EXOS",
+          "X_000631_IGMPProxy": false,
+          "defaultConnectionService": false,
+          "X_000631_IPv4Enabled": true,
+          "X_000631_VlanMuxID": 111,
+          "FramingType": "PPPoE",
+          "Mode": "RG Routed",
+          "X_000631_IPv6Enabled": false,
+          "NATEnabled": true,
+          "ServiceConnectionType": "PPPOE"
+        }
+      }
+    ],
+    "serviceOrchestration": {
+      "category": "Data Service",
+      "framingType": "PPPoE",
+      "vlanId": 111,
+      "productFamily": "EXOS",
+      "mode": "RG Routed",
+      "defaultConnectionService": false,
+      "ipVersion": "v4",
+      "orgId": "2550",
+      "name": "service_orchestration_profileMusSq1"
+    },
+    "_id": "c1c51207-3d67-4d60-a992-c9a591c9ee60",
+    "name": "Service Orchestration ~ service_orchestration_profileMusSq1",
+    "orgId": "2550"
+  }
+}

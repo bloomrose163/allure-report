@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.testx.xilac.net/cc/service-orchestration-profile?orgId=2550&name=service_orchestration_profileAyEXRr",
-  "Params": {
-    "name": "service_orchestration_profileAyEXRr"
-  },
-  "Body": null
-}

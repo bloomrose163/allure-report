@@ -1,0 +1,41 @@
+{
+  "Method": "PUT",
+  "URL": "http://acs-api.testx.xilac.net/cc/provisioning-record?orgId=2550",
+  "Params": null,
+  "Body": {
+    "data": {
+      "id": "325fd69f-1bb6-4de4-bcc8-cc969f5b1d2a",
+      "Enable": true
+    },
+    "deviceId": "CXNK00AFB83B",
+    "modelName": "GS4227",
+    "opMode": "Managed ONT",
+    "orgId": "2550",
+    "video": {
+      "id": "8aba81d3-c692-4f8b-998b-9074a5a11f4b",
+      "Enable": true
+    },
+    "voice": {
+      "id": "a82e1186-1aa8-4467-a469-bac8d718b832",
+      "FaxT38": {
+        "Enable": false
+      },
+      "Line": {
+        "1": {
+          "id": "269e74a8-e680-4da8-ab69-b9d6fdf6b058",
+          "Enable": "Disabled"
+        },
+        "2": {
+          "id": "c110c543-0187-4baf-9d46-1b28e614569d",
+          "Enable": "Disabled"
+        }
+      },
+      "ServiceType": "SIP",
+      "X_CALIX_SXACC_RG_WAN": {
+        "ServiceConnectionType": "DHCP"
+      }
+    },
+    "currentDate": "2025-06-06T18:19:08.504Z",
+    "_id": "fc32500e-f16c-4d71-8d6f-0c0b751d3d3f"
+  }
+}

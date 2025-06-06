@@ -1,0 +1,52 @@
+{
+  "Method": "PUT",
+  "URL": "http://acs-api.testx.xilac.net/cc/provisioning-record?orgId=2550",
+  "Params": null,
+  "Body": {
+    "data": {
+      "id": "38bcac0a-23ee-41e1-927c-1675433020b2",
+      "pppoe": {
+        "Password": "John123!",
+        "Username": "john.doe"
+      },
+      "Enable": true
+    },
+    "deviceId": "CXNK00AFB83B",
+    "modelName": "GS4227",
+    "opMode": "Managed ONT",
+    "orgId": "2550",
+    "video": {
+      "id": "2691eeeb-5dc9-4fe8-9c72-31308ef2fc10",
+      "Enable": true
+    },
+    "voice": {
+      "id": "3bb312ba-d829-408f-af43-f69bc34ccbd9",
+      "FaxT38": {
+        "Enable": false
+      },
+      "Line": {
+        "1": {
+          "id": "b54ec20d-7893-4a2c-bda3-91db2c8530e6",
+          "Enable": "Disabled",
+          "VoiceProcessing": {
+            "ReceiveGain": -90,
+            "TransmitGain": -30
+          },
+          "X_000631_H248": {
+            "TerminationId": "12345"
+          }
+        },
+        "2": {
+          "id": "c2f67866-465f-43e3-8bfd-9d9be3a0325b",
+          "Enable": "Disabled"
+        }
+      },
+      "ServiceType": "SIP",
+      "X_CALIX_SXACC_RG_WAN": {
+        "ServiceConnectionType": "DHCP"
+      }
+    },
+    "currentDate": "2025-06-06T18:19:25.144Z",
+    "_id": "5afcd4b6-61af-46c2-8eaa-6c1a27865cf7"
+  }
+}

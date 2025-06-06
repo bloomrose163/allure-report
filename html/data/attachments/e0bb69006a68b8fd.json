@@ -1,0 +1,15 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "mode": "RG Routed",
+    "name": "service_orchestration_profileMusSq1",
+    "orgId": "2550",
+    "vlanId": 111,
+    "category": "Data Service",
+    "ipVersion": "v4",
+    "framingType": "PPPoE",
+    "productFamily": "EXOS",
+    "defaultConnectionService": false,
+    "_id": "c1c51207-3d67-4d60-a992-c9a591c9ee60"
+  }
+}
