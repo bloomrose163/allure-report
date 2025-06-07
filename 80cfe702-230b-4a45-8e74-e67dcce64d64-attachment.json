@@ -1,0 +1,30 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "configurations": [
+      {
+        "id": "d419dae9-969f-4e78-86c7-98486c80dfdb",
+        "category": "Video - Multicast Range Filters",
+        "parameterValues": {
+          "Range1End": "225.1.1.1",
+          "NumberOfFilters": 1,
+          "Range1Start": "225.1.0.1"
+        }
+      }
+    ],
+    "serviceOrchestration": {
+      "name": "service_orchestration_profilej9en8Q",
+      "category": "Video - Multicast Range Filters",
+      "orgId": "2550",
+      "filters": [
+        {
+          "start": "225.1.0.1",
+          "end": "225.1.1.1"
+        }
+      ]
+    },
+    "_id": "73429076-739a-400c-881b-a7b25fe93e40",
+    "name": "Service Orchestration ~ service_orchestration_profilej9en8Q",
+    "orgId": "2550"
+  }
+}

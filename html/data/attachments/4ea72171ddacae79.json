@@ -1,0 +1,1553 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "name": "service_orchestration_profile0qTO7f",
+      "orgId": "2550",
+      "category": "Bandwidth",
+      "upstreamCIR": 10,
+      "downstreamCIR": 100,
+      "_id": "010ad2fa-8061-4676-9532-e5503175fc99"
+    },
+    {
+      "name": "service_orchestration_profilewGB3iD",
+      "orgId": "2550",
+      "filters": [
+        {
+          "end": "225.1.1.1",
+          "start": "225.1.0.1"
+        }
+      ],
+      "category": "Video - Multicast Range Filters",
+      "_id": "0127ccb9-58c9-432f-aab8-21667dccc48b"
+    },
+    {
+      "name": "service_orchestration_profileTTaY82",
+      "orgId": "2550",
+      "filters": [
+        {
+          "end": "225.1.1.1",
+          "start": "225.1.0.1"
+        }
+      ],
+      "category": "Video - Multicast Range Filters",
+      "_id": "0d51f40e-0aae-49ba-bebc-11841d955d6f"
+    },
+    {
+      "name": "service_orchestration_profile19On4k",
+      "orgId": "2550",
+      "vlans": [
+        {
+          "ranges": [
+            {
+              "end": "224.0.0.4",
+              "start": "224.0.0.0"
+            }
+          ],
+          "vlanId": 32
+        }
+      ],
+      "category": "Video - Multicast VLAN Registration (MVR)",
+      "_id": "11bc313d-4d5a-4b74-a827-dafd3afd0d80"
+    },
+    {
+      "_id": "182e781d-ebe6-4a4a-9b10-0b936af1e482",
+      "mode": "RG L2 Bridged",
+      "name": "service-orchestration-profileY2aqYt",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 260,
+      "category": "Video Service",
+      "MaxStreams": 0,
+      "QueryInterval": 3566,
+      "productFamily": "EXOS",
+      "BridgedInterface": [
+        "5GHz IPTV SSID",
+        "LAN Port 2"
+      ],
+      "APAS_EnableIPTV_SSID": false,
+      "AnyPortAnyServiceEnabled": false
+    },
+    {
+      "name": "service_orchestration_profiled4xaky",
+      "type": "SIP",
+      "orgId": "2550",
+      "pBits": 5,
+      "ipType": "IPv4",
+      "vlanId": 810,
+      "ESAMode": true,
+      "RTPPort": 49152,
+      "TimerT1": 500,
+      "TimerT2": 4000,
+      "ServerIP": "10.245.252.2",
+      "category": "Voice Service",
+      "Revertive": true,
+      "DHCPFilter": true,
+      "DNSPrimary": "192.168.33.10",
+      "DTMFMethod": "InBand",
+      "SwitchType": "None",
+      "CountryCode": "US",
+      "ProxyServer": "10.245.252.2",
+      "RTPBasePort": 49152,
+      "RTPCodec1st": "G.711MuLaw",
+      "RTPCodec2nd": "G.711ALaw",
+      "RTPCodec3rd": "G.729",
+      "framingType": "IPoE",
+      "DNSSecondary": "192.168.33.10",
+      "RTPDscpValue": 46,
+      "ReleaseTimer": 10,
+      "RestartDelay": 1,
+      "RetryTimeOut": 30,
+      "OnHookPersist": true,
+      "PacketRate1st": 10,
+      "PacketRate2nd": 10,
+      "PacketRate3rd": 10,
+      "LocalHookFlash": true,
+      "OffHookPersist": true,
+      "RTPDscpOptions": 8,
+      "SwitchTypeMGCP": "GENERIC",
+      "TermPrefixH248": "TP",
+      "TermPrefixMGCP": "aaln",
+      "EphemeralTermID": "RTP",
+      "OptionsInterval": 70,
+      "ProxyServerPort": 5060,
+      "UserAgentDomain": "CPE domain string. Applicable for SIP only",
+      "ControlDscpValue": 46,
+      "FlashHookPersist": true,
+      "RTPDscpInputType": true,
+      "PrimarySwitchType": "CS2000",
+      "OptionsTimerSwitch": true,
+      "RegistrationPeriod": 3600,
+      "PrimaryGWController": "10.245.252.2",
+      "SecondarySwitchType": "CS2000",
+      "PrimaryCallMainAgent": "10.245.252.2",
+      "ProxyServerSecondary": "10.245.252.2",
+      "CallWaitingTonePrefix": "CallWaitingTone",
+      "DistinctiveRingPrefix": "Bellcore-dr",
+      "SecondaryGWController": "",
+      "SilenceSuppression1st": true,
+      "SilenceSuppression2nd": true,
+      "SilenceSuppression3rd": true,
+      "PrimaryCallBackupAgent": "10.245.252.2",
+      "ProxyServerPortSecondary": 5060,
+      "_id": "18a86b29-e2cf-4c62-872a-5de2d31b6078"
+    },
+    {
+      "mode": "RG Routed",
+      "name": "service_orchestration_profilenEIHMM",
+      "orgId": "2550",
+      "vlanId": 111,
+      "category": "Data Service",
+      "ipVersion": "v4",
+      "framingType": "PPPoE",
+      "productFamily": "EXOS",
+      "defaultConnectionService": false,
+      "_id": "20fb506e-2a74-4dfa-b65a-1179b6e77d23"
+    },
+    {
+      "name": "service_orchestration_profileqgsziu",
+      "orgId": "2550",
+      "vlans": [
+        {
+          "ranges": [
+            {
+              "end": "224.0.0.4",
+              "start": "224.0.0.0"
+            }
+          ],
+          "vlanId": 32
+        }
+      ],
+      "category": "Video - Multicast VLAN Registration (MVR)",
+      "_id": "22d2bc20-a9d3-4245-9378-a0187496dcb8"
+    },
+    {
+      "name": "service_orchestration_profileD1pu2o",
+      "orgId": "2550",
+      "category": "Bandwidth",
+      "upstreamCIR": 10,
+      "downstreamCIR": 100,
+      "_id": "24089c5f-a3da-45af-85ea-7bc8689db613"
+    },
+    {
+      "name": "service_orchestration_profileHSaI0v",
+      "orgId": "2550",
+      "category": "Bandwidth",
+      "upstreamCIR": 10,
+      "downstreamCIR": 100,
+      "_id": "27ec4ae2-9712-4113-b45b-61576674de9a"
+    },
+    {
+      "name": "service_orchestration_profile7jMXrd",
+      "orgId": "2550",
+      "filters": [
+        {
+          "end": "225.1.1.1",
+          "start": "225.1.0.1"
+        }
+      ],
+      "category": "Video - Multicast Range Filters",
+      "_id": "299c65f5-81ed-4814-baa9-93039777b0c6"
+    },
+    {
+      "name": "service_orchestration_profileJI0coh",
+      "orgId": "2550",
+      "filters": [
+        {
+          "end": "225.1.1.1",
+          "start": "225.1.0.1"
+        }
+      ],
+      "category": "Video - Multicast Range Filters",
+      "_id": "2ec25f76-0915-4a14-8a4f-c42c0c664937"
+    },
+    {
+      "name": "service_orchestration_profilejE6O0G",
+      "orgId": "2550",
+      "category": "Bandwidth",
+      "upstreamCIR": 10,
+      "downstreamCIR": 100,
+      "_id": "2f85b1f0-41fa-4ee0-a085-2285396ba246"
+    },
+    {
+      "iana": true,
+      "iapd": true,
+      "mode": "RG Routed",
+      "name": "service_orchestration_profileIKSS3h",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 300,
+      "category": "Data Service",
+      "6rdPrefix": "2001:1234::/32",
+      "ipVersion": "dualStack",
+      "6rdDynamic": true,
+      "iapdLength": "no",
+      "framingType": "IPoE",
+      "dscp2PbitMap": true,
+      "productFamily": "GigaCenter",
+      "6rdIpv4MaskLen": 8,
+      "6rdValidPltime": 2,
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdPrefixPltime": 2,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "dhcp6cForAddress": "none ",
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "defaultConnectionService": true,
+      "_id": "30e28fa6-0441-4f5a-9e10-d2fbf64f445a"
+    },
+    {
+      "_id": "388cefcb-be8f-4188-9b25-592d13a4a66e",
+      "iana": true,
+      "iapd": true,
+      "mode": "RG Routed",
+      "name": "service_orchestration_profilebL5xQk",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 300,
+      "category": "Data Service",
+      "6rdPrefix": "2001:1234::/32",
+      "ipVersion": "dualStack",
+      "6rdDynamic": true,
+      "iapdLength": "no",
+      "framingType": "IPoE",
+      "dscp2PbitMap": true,
+      "productFamily": "GigaCenter",
+      "6rdIpv4MaskLen": 8,
+      "6rdValidPltime": 2,
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdPrefixPltime": 2,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "dhcp6cForAddress": "none ",
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "defaultConnectionService": true
+    },
+    {
+      "name": "service_orchestration_profilekQ5BnW",
+      "orgId": "2550",
+      "vlans": [
+        {
+          "ranges": [
+            {
+              "end": "224.0.0.4",
+              "start": "224.0.0.0"
+            }
+          ],
+          "vlanId": 32
+        }
+      ],
+      "category": "Video - Multicast VLAN Registration (MVR)",
+      "_id": "3c2a24c6-e216-420d-8b64-a94974a630fc"
+    },
+    {
+      "name": "service_orchestration_profileZULylR",
+      "orgId": "2550",
+      "vlans": [
+        {
+          "ranges": [
+            {
+              "end": "224.0.0.2",
+              "start": "224.0.0.0"
+            }
+          ],
+          "vlanId": 32
+        }
+      ],
+      "category": "Video - Multicast VLAN Registration (MVR)",
+      "_id": "3efff4c6-6a30-4279-a8d1-e8af05ae297d"
+    },
+    {
+      "mode": "RG L2 Bridged",
+      "name": "service-orchestration-profilefS4KvJ",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 260,
+      "category": "Video Service",
+      "MaxStreams": 0,
+      "QueryInterval": 3566,
+      "productFamily": "EXOS",
+      "BridgedInterface": [
+        "5GHz IPTV SSID",
+        "LAN Port 2"
+      ],
+      "APAS_EnableIPTV_SSID": false,
+      "AnyPortAnyServiceEnabled": false,
+      "_id": "3f0207d2-1777-4caf-8c26-be526baa77c4"
+    },
+    {
+      "_id": "3f35a97d-0750-456f-b694-640093e4caec",
+      "iana": false,
+      "iapd": false,
+      "mode": "RG Routed",
+      "name": "service_orchestration_profilexGXqOD",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 300,
+      "category": "Data Service",
+      "6rdPrefix": "2001:1234::/32",
+      "ipVersion": "v4",
+      "6rdDynamic": false,
+      "iapdLength": "no",
+      "framingType": "IPoE",
+      "dscp2PbitMap": true,
+      "productFamily": "EXOS",
+      "6rdIpv4MaskLen": 8,
+      "6rdValidPltime": 2,
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdPrefixPltime": 2,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "dhcp6cForAddress": "none ",
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "defaultConnectionService": true
+    },
+    {
+      "name": "service_orchestration_profileWkNiwh",
+      "type": "SIP",
+      "orgId": "2550",
+      "pBits": 5,
+      "ipType": "IPv4",
+      "vlanId": 810,
+      "ESAMode": false,
+      "RTPPort": 49152,
+      "TimerT1": 500,
+      "TimerT2": 4000,
+      "ServerIP": "10.245.252.2",
+      "category": "Voice Service",
+      "Revertive": false,
+      "DHCPFilter": false,
+      "DNSPrimary": "192.168.33.10",
+      "DTMFMethod": "InBand",
+      "SwitchType": "None",
+      "CountryCode": "US",
+      "ProxyServer": "10.245.252.2",
+      "RTPBasePort": 49152,
+      "RTPCodec1st": "G.711MuLaw",
+      "RTPCodec2nd": "G.711ALaw",
+      "RTPCodec3rd": "G.729",
+      "framingType": "IPoE",
+      "DNSSecondary": "192.168.33.10",
+      "RTPDscpValue": 46,
+      "ReleaseTimer": 10,
+      "RestartDelay": 1,
+      "RetryTimeOut": 30,
+      "OnHookPersist": false,
+      "PacketRate1st": 10,
+      "PacketRate2nd": 10,
+      "PacketRate3rd": 10,
+      "LocalHookFlash": false,
+      "OffHookPersist": false,
+      "RTPDscpOptions": 8,
+      "SwitchTypeMGCP": "GENERIC",
+      "TermPrefixH248": "TP",
+      "TermPrefixMGCP": "aaln",
+      "EphemeralTermID": "RTP",
+      "OptionsInterval": 70,
+      "ProxyServerPort": 5060,
+      "UserAgentDomain": "CPE domain string. Applicable for SIP only",
+      "ControlDscpValue": 46,
+      "FlashHookPersist": false,
+      "RTPDscpInputType": false,
+      "PrimarySwitchType": "CS2000",
+      "OptionsTimerSwitch": true,
+      "RegistrationPeriod": 3600,
+      "PrimaryGWController": "10.245.252.2",
+      "SecondarySwitchType": "CS2000",
+      "PrimaryCallMainAgent": "10.245.252.2",
+      "ProxyServerSecondary": "10.245.252.2",
+      "CallWaitingTonePrefix": "CallWaitingTone",
+      "DistinctiveRingPrefix": "Bellcore-dr",
+      "SecondaryGWController": "",
+      "SilenceSuppression1st": false,
+      "SilenceSuppression2nd": false,
+      "SilenceSuppression3rd": false,
+      "PrimaryCallBackupAgent": "10.245.252.2",
+      "ProxyServerPortSecondary": 5060,
+      "_id": "3ff22f2f-7914-42e8-8ab4-ef98d56a445f"
+    },
+    {
+      "_id": "42a7a6c1-65a5-44ed-8b09-bf16902e777e",
+      "iana": false,
+      "iapd": false,
+      "mode": "RG Routed",
+      "name": "service_orchestration_profile1drwrI",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 300,
+      "category": "Data Service",
+      "6rdPrefix": "2001:1234::/32",
+      "ipVersion": "v4",
+      "6rdDynamic": false,
+      "iapdLength": "no",
+      "framingType": "IPoE",
+      "dscp2PbitMap": true,
+      "productFamily": "EXOS",
+      "6rdIpv4MaskLen": 8,
+      "6rdValidPltime": 2,
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdPrefixPltime": 2,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "dhcp6cForAddress": "none ",
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "defaultConnectionService": true
+    },
+    {
+      "iana": false,
+      "iapd": false,
+      "mode": "RG Routed",
+      "name": "service_orchestration_profileocXmG3",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 300,
+      "category": "Data Service",
+      "6rdPrefix": "2001:1234::/32",
+      "ipVersion": "v4",
+      "6rdDynamic": false,
+      "iapdLength": "no",
+      "framingType": "IPoE",
+      "dscp2PbitMap": true,
+      "productFamily": "EXOS",
+      "6rdIpv4MaskLen": 8,
+      "6rdValidPltime": 2,
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdPrefixPltime": 2,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "dhcp6cForAddress": "none ",
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "defaultConnectionService": true,
+      "_id": "50885f98-4e5b-4d20-ba03-5bb06cf0fa02"
+    },
+    {
+      "_id": "511de5b3-4550-45c6-ad8d-21b68cb17b5d",
+      "iana": false,
+      "iapd": false,
+      "mode": "RG Routed",
+      "name": "service_orchestration_profileKY2zWB",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 300,
+      "category": "Data Service",
+      "6rdPrefix": "2001:1234::/32",
+      "ipVersion": "v4",
+      "6rdDynamic": false,
+      "iapdLength": "no",
+      "framingType": "IPoE",
+      "dscp2PbitMap": true,
+      "productFamily": "EXOS",
+      "6rdIpv4MaskLen": 8,
+      "6rdValidPltime": 2,
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdPrefixPltime": 2,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "dhcp6cForAddress": "none ",
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "defaultConnectionService": true
+    },
+    {
+      "name": "service_orchestration_profileae5zyF",
+      "orgId": "2550",
+      "category": "Bandwidth",
+      "upstreamCIR": 10,
+      "downstreamCIR": 100,
+      "_id": "5444d51a-fad0-4dec-9402-077debf841ee"
+    },
+    {
+      "_id": "57342eb6-0fd4-4664-b994-a1f24414d9b4",
+      "iana": false,
+      "iapd": false,
+      "mode": "RG Routed",
+      "name": "service_orchestration_profiletPRebD",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 300,
+      "category": "Data Service",
+      "6rdPrefix": "2001:1234::/32",
+      "ipVersion": "v4",
+      "6rdDynamic": false,
+      "iapdLength": "no",
+      "framingType": "IPoE",
+      "dscp2PbitMap": true,
+      "productFamily": "EXOS",
+      "6rdIpv4MaskLen": 8,
+      "6rdValidPltime": 2,
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdPrefixPltime": 2,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "dhcp6cForAddress": "none ",
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "defaultConnectionService": true
+    },
+    {
+      "_id": "579c0725-b7cb-458a-9746-dcd1f8426132",
+      "name": "service_orchestration_profilegFtjZM",
+      "orgId": "2550",
+      "vlans": [
+        {
+          "ranges": [
+            {
+              "end": "224.0.0.4",
+              "start": "224.0.0.0"
+            }
+          ],
+          "vlanId": 32
+        }
+      ],
+      "category": "Video - Multicast VLAN Registration (MVR)"
+    },
+    {
+      "name": "service_orchestration_profileSf7Bhs",
+      "orgId": "2550",
+      "category": "Bandwidth",
+      "upstreamCIR": 10,
+      "downstreamCIR": 100,
+      "_id": "69af7af1-fc9e-4791-b41e-581c9456e345"
+    },
+    {
+      "name": "service_orchestration_profileK80cN5",
+      "orgId": "2550",
+      "vlans": [
+        {
+          "ranges": [
+            {
+              "end": "224.0.0.4",
+              "start": "224.0.0.0"
+            }
+          ],
+          "vlanId": 32
+        }
+      ],
+      "category": "Video - Multicast VLAN Registration (MVR)",
+      "_id": "6bc1ef6f-5c74-4ddc-b010-447420041610"
+    },
+    {
+      "_id": "71f3634e-816b-434e-8555-ba8ab5d050e2",
+      "mode": "RG L2 Bridged",
+      "name": "service_orchestration_profileiEy8u5",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 260,
+      "category": "Video Service",
+      "MaxStreams": 0,
+      "OUI_Enable": true,
+      "VLAN_Enable": true,
+      "dscp2PbitMap": true,
+      "QueryInterval": 125,
+      "productFamily": "EXOS",
+      "OUI_FilterList": "2c:2d:2e:xx:xx:xx",
+      "BridgedInterface": [
+        "5GHz IPTV SSID",
+        "LAN Port 2"
+      ],
+      "APAS_EnableIPTV_SSID": false,
+      "AnyPortAnyServiceEnabled": false
+    },
+    {
+      "iana": false,
+      "iapd": false,
+      "mode": "RG Routed",
+      "name": "service_orchestration_profilekrhcle",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 300,
+      "category": "Data Service",
+      "6rdPrefix": "2001:1234::/32",
+      "ipVersion": "v4",
+      "6rdDynamic": false,
+      "iapdLength": "no",
+      "framingType": "IPoE",
+      "dscp2PbitMap": true,
+      "productFamily": "EXOS",
+      "6rdIpv4MaskLen": 8,
+      "6rdValidPltime": 2,
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdPrefixPltime": 2,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "dhcp6cForAddress": "none ",
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "defaultConnectionService": true,
+      "_id": "7396abaa-1189-4709-8486-5b0beb5304bb"
+    },
+    {
+      "name": "service_orchestration_profilegAOa5U",
+      "orgId": "2550",
+      "vlans": [
+        {
+          "ranges": [
+            {
+              "end": "224.0.0.2",
+              "start": "224.0.0.0"
+            }
+          ],
+          "vlanId": 32
+        }
+      ],
+      "category": "Video - Multicast VLAN Registration (MVR)",
+      "_id": "7555762f-fddf-43f7-949f-de5e895dc109"
+    },
+    {
+      "name": "service_orchestration_profilewyFg3d",
+      "orgId": "2550",
+      "filters": [
+        {
+          "end": "225.1.1.1",
+          "start": "225.1.0.1"
+        }
+      ],
+      "category": "Video - Multicast Range Filters",
+      "_id": "8adda905-8d87-4374-993f-7e6bcf2eb85c"
+    },
+    {
+      "name": "service_orchestration_profileoNidRS",
+      "type": "SIP",
+      "orgId": "2550",
+      "pBits": 5,
+      "ipType": "IPv4",
+      "vlanId": 810,
+      "ESAMode": true,
+      "RTPPort": 49152,
+      "TimerT1": 500,
+      "TimerT2": 4000,
+      "ServerIP": "10.245.252.2",
+      "category": "Voice Service",
+      "Revertive": true,
+      "DHCPFilter": true,
+      "DNSPrimary": "192.168.33.10",
+      "DTMFMethod": "InBand",
+      "SwitchType": "None",
+      "CountryCode": "US",
+      "ProxyServer": "10.245.252.2",
+      "RTPBasePort": 49152,
+      "RTPCodec1st": "G.711MuLaw",
+      "RTPCodec2nd": "G.711ALaw",
+      "RTPCodec3rd": "G.729",
+      "framingType": "IPoE",
+      "DNSSecondary": "192.168.33.10",
+      "RTPDscpValue": 46,
+      "ReleaseTimer": 10,
+      "RestartDelay": 1,
+      "RetryTimeOut": 30,
+      "OnHookPersist": true,
+      "PacketRate1st": 10,
+      "PacketRate2nd": 10,
+      "PacketRate3rd": 10,
+      "LocalHookFlash": true,
+      "OffHookPersist": true,
+      "RTPDscpOptions": 8,
+      "SwitchTypeMGCP": "GENERIC",
+      "TermPrefixH248": "TP",
+      "TermPrefixMGCP": "aaln",
+      "EphemeralTermID": "RTP",
+      "OptionsInterval": 70,
+      "ProxyServerPort": 5060,
+      "UserAgentDomain": "CPE domain string. Applicable for SIP only",
+      "ControlDscpValue": 46,
+      "FlashHookPersist": true,
+      "RTPDscpInputType": true,
+      "PrimarySwitchType": "CS2000",
+      "OptionsTimerSwitch": true,
+      "RegistrationPeriod": 3600,
+      "PrimaryGWController": "10.245.252.2",
+      "SecondarySwitchType": "CS2000",
+      "PrimaryCallMainAgent": "10.245.252.2",
+      "ProxyServerSecondary": "10.245.252.2",
+      "CallWaitingTonePrefix": "CallWaitingTone",
+      "DistinctiveRingPrefix": "Bellcore-dr",
+      "SecondaryGWController": "",
+      "SilenceSuppression1st": true,
+      "SilenceSuppression2nd": true,
+      "SilenceSuppression3rd": true,
+      "PrimaryCallBackupAgent": "10.245.252.2",
+      "ProxyServerPortSecondary": 5060,
+      "_id": "8b831a69-a888-420c-9866-676ed407798a"
+    },
+    {
+      "name": "service_orchestration_profileDjpqAT",
+      "type": "SIP",
+      "orgId": "2550",
+      "pBits": 5,
+      "ipType": "IPv4",
+      "vlanId": 810,
+      "ESAMode": false,
+      "RTPPort": 49152,
+      "TimerT1": 500,
+      "TimerT2": 4000,
+      "ServerIP": "10.245.252.2",
+      "category": "Voice Service",
+      "Revertive": false,
+      "DHCPFilter": false,
+      "DNSPrimary": "192.168.33.10",
+      "DTMFMethod": "InBand",
+      "SwitchType": "None",
+      "CountryCode": "US",
+      "ProxyServer": "10.245.252.2",
+      "RTPBasePort": 49152,
+      "RTPCodec1st": "G.711MuLaw",
+      "RTPCodec2nd": "G.711MuLaw",
+      "RTPCodec3rd": "G.711MuLaw",
+      "framingType": "IPoE",
+      "DNSSecondary": "192.168.33.10",
+      "RTPDscpValue": 46,
+      "ReleaseTimer": 10,
+      "RestartDelay": 1,
+      "RetryTimeOut": 30,
+      "OnHookPersist": false,
+      "PacketRate1st": 10,
+      "PacketRate2nd": 10,
+      "PacketRate3rd": 10,
+      "LocalHookFlash": false,
+      "OffHookPersist": false,
+      "RTPDscpOptions": 8,
+      "SwitchTypeMGCP": "GENERIC",
+      "TermPrefixH248": "TP",
+      "TermPrefixMGCP": "aaln",
+      "EphemeralTermID": "RTP",
+      "OptionsInterval": 70,
+      "ProxyServerPort": 5060,
+      "UserAgentDomain": "CPE domain string. Applicable for SIP only",
+      "ControlDscpValue": 46,
+      "FlashHookPersist": false,
+      "RTPDscpInputType": false,
+      "PrimarySwitchType": "CS2000",
+      "OptionsTimerSwitch": true,
+      "RegistrationPeriod": 3600,
+      "PrimaryGWController": "Primary H.248 Gateway controller or IP address of the main H.248 call agent. Applicable and Mandatory for H.248",
+      "SecondarySwitchType": "CS2000",
+      "PrimaryCallMainAgent": "Host name or IP address of the main MGCP call agent. Applicable for MGCP only",
+      "ProxyServerSecondary": "10.245.252.2",
+      "CallWaitingTonePrefix": "CallWaitingTone",
+      "DistinctiveRingPrefix": "Bellcore-dr",
+      "SecondaryGWController": "Secondary H.248 Gateweay controller or IP address",
+      "SilenceSuppression1st": false,
+      "SilenceSuppression2nd": false,
+      "SilenceSuppression3rd": false,
+      "PrimaryCallBackupAgent": "Host name or IP address of the backup MGCP call agent. Applicable for MGCP only",
+      "ProxyServerPortSecondary": 5060,
+      "_id": "9f36ac6f-b7be-4bb3-b68e-b2878f463654"
+    },
+    {
+      "name": "service_orchestration_profileXGb1oX",
+      "orgId": "2550",
+      "vlans": [
+        {
+          "ranges": [
+            {
+              "end": "224.0.0.2",
+              "start": "224.0.0.0"
+            }
+          ],
+          "vlanId": 32
+        }
+      ],
+      "category": "Video - Multicast VLAN Registration (MVR)",
+      "_id": "9fa48479-4815-4cd2-942d-64c9df8e5e94"
+    },
+    {
+      "name": "service_orchestration_profile5s7UvO",
+      "orgId": "2550",
+      "category": "Bandwidth",
+      "upstreamCIR": 10,
+      "downstreamCIR": 100,
+      "_id": "9fedb214-5a0c-411e-bb96-34e52cc57e13"
+    },
+    {
+      "mode": "RG Routed",
+      "name": "video_template_profile_e2e_300078_topo6",
+      "orgId": "2550",
+      "vlanId": 30,
+      "category": "Video Service",
+      "productFamily": "EXOS",
+      "_id": "a1ba9b67-821a-4790-8653-7d68221b614e"
+    },
+    {
+      "iana": false,
+      "iapd": false,
+      "mode": "RG Routed",
+      "name": "service_orchestration_profileg8jOs2",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 300,
+      "category": "Data Service",
+      "6rdPrefix": "2001:1234::/32",
+      "ipVersion": "v4",
+      "6rdDynamic": false,
+      "iapdLength": "no",
+      "framingType": "IPoE",
+      "dscp2PbitMap": true,
+      "productFamily": "EXOS",
+      "6rdIpv4MaskLen": 8,
+      "6rdValidPltime": 2,
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdPrefixPltime": 2,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "dhcp6cForAddress": "none ",
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "defaultConnectionService": true,
+      "_id": "a7da01b5-a03a-4b48-a9ef-65be6186bc02"
+    },
+    {
+      "mode": "RG L2 Bridged",
+      "name": "service_orchestration_profileEI3IbP",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 260,
+      "category": "Video Service",
+      "bwProfile": "24089c5f-a3da-45af-85ea-7bc8689db613",
+      "MaxStreams": 0,
+      "OUI_Enable": true,
+      "mvrProfile": "b5e383fd-64cb-4197-a944-9da9663d1807",
+      "VLAN_Enable": true,
+      "dscp2PbitMap": true,
+      "QueryInterval": 125,
+      "productFamily": "GigaCenter",
+      "OUI_FilterList": "2c:2d:2e:xx:xx:xx",
+      "BridgedInterface": [
+        "5GHz IPTV SSID",
+        "LAN Port 2"
+      ],
+      "mcastFilterProfile": "c0a212e1-25fa-4d0d-a612-29ef36490d43",
+      "APAS_EnableIPTV_SSID": false,
+      "AnyPortAnyServiceEnabled": false,
+      "_id": "aa0105b2-cc60-4169-8b51-afda657c799b"
+    },
+    {
+      "mode": "RG L2 Bridged",
+      "name": "service_orchestration_profiletAL7JO",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 260,
+      "category": "Video Service",
+      "bwProfile": "9fedb214-5a0c-411e-bb96-34e52cc57e13",
+      "MaxStreams": 0,
+      "OUI_Enable": true,
+      "mvrProfile": "7555762f-fddf-43f7-949f-de5e895dc109",
+      "VLAN_Enable": true,
+      "dscp2PbitMap": true,
+      "QueryInterval": 125,
+      "productFamily": "GigaCenter",
+      "OUI_FilterList": "2c:2d:2e:xx:xx:xx",
+      "BridgedInterface": [
+        "5GHz IPTV SSID",
+        "LAN Port 2"
+      ],
+      "mcastFilterProfile": "8adda905-8d87-4374-993f-7e6bcf2eb85c",
+      "APAS_EnableIPTV_SSID": false,
+      "AnyPortAnyServiceEnabled": false,
+      "_id": "aac540a7-1119-4685-b475-26aafa72f711"
+    },
+    {
+      "_id": "ab88a261-5201-4a58-8b53-56ee78eb7086",
+      "iana": false,
+      "iapd": false,
+      "mode": "RG Routed",
+      "name": "service_orchestration_profilexWf9Aq",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 300,
+      "category": "Data Service",
+      "6rdPrefix": "2001:1234::/32",
+      "ipVersion": "v4",
+      "6rdDynamic": false,
+      "iapdLength": "no",
+      "framingType": "IPoE",
+      "dscp2PbitMap": true,
+      "productFamily": "EXOS",
+      "6rdIpv4MaskLen": 8,
+      "6rdValidPltime": 2,
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdPrefixPltime": 2,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "dhcp6cForAddress": "none ",
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "defaultConnectionService": true
+    },
+    {
+      "mode": "RG L2 Bridged",
+      "name": "service_orchestration_profileAWzCEL",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 260,
+      "category": "Video Service",
+      "MaxStreams": 0,
+      "OUI_Enable": true,
+      "VLAN_Enable": true,
+      "dscp2PbitMap": true,
+      "QueryInterval": 125,
+      "productFamily": "EXOS",
+      "OUI_FilterList": "2c:2d:2e:xx:xx:xx",
+      "BridgedInterface": [
+        "5GHz IPTV SSID",
+        "LAN Port 2"
+      ],
+      "APAS_EnableIPTV_SSID": false,
+      "AnyPortAnyServiceEnabled": false,
+      "_id": "b277abd0-71ba-448e-bb7e-7614cd74949b"
+    },
+    {
+      "name": "service_orchestration_profileZDuA0O",
+      "orgId": "2550",
+      "vlans": [
+        {
+          "ranges": [
+            {
+              "end": "224.0.0.2",
+              "start": "224.0.0.0"
+            }
+          ],
+          "vlanId": 32
+        }
+      ],
+      "category": "Video - Multicast VLAN Registration (MVR)",
+      "_id": "b5e383fd-64cb-4197-a944-9da9663d1807"
+    },
+    {
+      "_id": "bb84ca5f-6352-4551-9a68-2f95e0b8c583",
+      "mode": "RG L2 Bridged",
+      "name": "service-orchestration-profile3PJ9dt",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 260,
+      "category": "Video Service",
+      "MaxStreams": 0,
+      "QueryInterval": 3566,
+      "productFamily": "EXOS",
+      "BridgedInterface": [
+        "5GHz IPTV SSID",
+        "LAN Port 2"
+      ],
+      "APAS_EnableIPTV_SSID": false,
+      "AnyPortAnyServiceEnabled": false
+    },
+    {
+      "name": "service_orchestration_profileXr1N6j",
+      "orgId": "2550",
+      "filters": [
+        {
+          "end": "225.1.1.1",
+          "start": "225.1.0.1"
+        }
+      ],
+      "category": "Video - Multicast Range Filters",
+      "_id": "be7c7c1f-eaf7-48de-81f4-2e69d8a845bd"
+    },
+    {
+      "name": "service_orchestration_profileVoFtlJ",
+      "orgId": "2550",
+      "filters": [
+        {
+          "end": "225.1.1.1",
+          "start": "225.1.0.1"
+        }
+      ],
+      "category": "Video - Multicast Range Filters",
+      "_id": "c0a212e1-25fa-4d0d-a612-29ef36490d43"
+    },
+    {
+      "mode": "RG Routed",
+      "name": "service_orchestration_profileMusSq1",
+      "orgId": "2550",
+      "vlanId": 111,
+      "category": "Data Service",
+      "ipVersion": "v4",
+      "framingType": "PPPoE",
+      "productFamily": "EXOS",
+      "defaultConnectionService": false,
+      "_id": "c1c51207-3d67-4d60-a992-c9a591c9ee60"
+    },
+    {
+      "mode": "RG Routed",
+      "name": "video_temp_profile_e2e_299624",
+      "orgId": "2550",
+      "vlanId": -1,
+      "category": "Video Service",
+      "MaxStreams": 0,
+      "QueryInterval": 125,
+      "productFamily": "EXOS",
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "_id": "c39c5035-b8bd-4840-b629-7d4c7735dc3f"
+    },
+    {
+      "mode": "RG L2 Bridged",
+      "name": "service-orchestration-profile0GIFza",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 260,
+      "category": "Video Service",
+      "MaxStreams": 0,
+      "QueryInterval": 3566,
+      "productFamily": "EXOS",
+      "BridgedInterface": [
+        "5GHz IPTV SSID",
+        "LAN Port 2"
+      ],
+      "APAS_EnableIPTV_SSID": false,
+      "AnyPortAnyServiceEnabled": false,
+      "_id": "c9dc5fe9-15e0-4c62-8347-b46190ca8498"
+    },
+    {
+      "iana": false,
+      "iapd": false,
+      "mode": "RG Routed",
+      "name": "service_orchestration_profile0VLV8U",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 300,
+      "category": "Data Service",
+      "6rdPrefix": "2001:1234::/32",
+      "ipVersion": "v4",
+      "6rdDynamic": false,
+      "iapdLength": "no",
+      "framingType": "IPoE",
+      "dscp2PbitMap": true,
+      "productFamily": "EXOS",
+      "6rdIpv4MaskLen": 8,
+      "6rdValidPltime": 2,
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdPrefixPltime": 2,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "dhcp6cForAddress": "none ",
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "defaultConnectionService": true,
+      "_id": "cba7c7f5-1034-4ed3-84d9-69aaba94cefc"
+    },
+    {
+      "name": "service_orchestration_profile2O2imU",
+      "type": "SIP",
+      "orgId": "2550",
+      "pBits": 5,
+      "ipType": "IPv4",
+      "vlanId": 810,
+      "ESAMode": false,
+      "RTPPort": 49152,
+      "TimerT1": 500,
+      "TimerT2": 4000,
+      "ServerIP": "10.245.252.2",
+      "category": "Voice Service",
+      "Revertive": false,
+      "DHCPFilter": false,
+      "DNSPrimary": "192.168.33.10",
+      "DTMFMethod": "InBand",
+      "SwitchType": "None",
+      "CountryCode": "US",
+      "ProxyServer": "10.245.252.2",
+      "RTPBasePort": 49152,
+      "RTPCodec1st": "G.711MuLaw",
+      "RTPCodec2nd": "G.711MuLaw",
+      "RTPCodec3rd": "G.711MuLaw",
+      "framingType": "IPoE",
+      "DNSSecondary": "192.168.33.10",
+      "RTPDscpValue": 46,
+      "ReleaseTimer": 10,
+      "RestartDelay": 1,
+      "RetryTimeOut": 30,
+      "OnHookPersist": false,
+      "PacketRate1st": 10,
+      "PacketRate2nd": 10,
+      "PacketRate3rd": 10,
+      "LocalHookFlash": false,
+      "OffHookPersist": false,
+      "RTPDscpOptions": 8,
+      "SwitchTypeMGCP": "GENERIC",
+      "TermPrefixH248": "TP",
+      "TermPrefixMGCP": "aaln",
+      "EphemeralTermID": "RTP",
+      "OptionsInterval": 70,
+      "ProxyServerPort": 5060,
+      "UserAgentDomain": "CPE domain string. Applicable for SIP only",
+      "ControlDscpValue": 46,
+      "FlashHookPersist": false,
+      "RTPDscpInputType": false,
+      "PrimarySwitchType": "CS2000",
+      "OptionsTimerSwitch": true,
+      "RegistrationPeriod": 3600,
+      "PrimaryGWController": "10.245.252.2",
+      "SecondarySwitchType": "CS2000",
+      "PrimaryCallMainAgent": "10.245.252.2",
+      "ProxyServerSecondary": "10.245.252.2",
+      "CallWaitingTonePrefix": "CallWaitingTone",
+      "DistinctiveRingPrefix": "Bellcore-dr",
+      "SecondaryGWController": "",
+      "SilenceSuppression1st": false,
+      "SilenceSuppression2nd": false,
+      "SilenceSuppression3rd": false,
+      "PrimaryCallBackupAgent": "10.245.252.2",
+      "ProxyServerPortSecondary": 5060,
+      "_id": "cef37204-3e3e-470b-8f25-1039e502e93b"
+    },
+    {
+      "mode": "RG L2 Bridged",
+      "name": "service_orchestration_profile7rMxR4",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": -1,
+      "category": "Video Service",
+      "MaxStreams": 0,
+      "OUI_Enable": true,
+      "VLAN_Enable": true,
+      "dscp2PbitMap": true,
+      "QueryInterval": 125,
+      "productFamily": "EXOS",
+      "OUI_FilterList": "2c:2d:2e:xx:xx:xx",
+      "BridgedInterface": [
+        "5GHz IPTV SSID",
+        "LAN Port 2"
+      ],
+      "APAS_EnableIPTV_SSID": false,
+      "AnyPortAnyServiceEnabled": false,
+      "_id": "dc88cc9a-43c9-4a11-9bea-e3f007f52817"
+    },
+    {
+      "mode": "RG L2 Bridged",
+      "name": "service-orchestration-profile5Ownz8",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 260,
+      "category": "Video Service",
+      "MaxStreams": 0,
+      "OUI_Enable": true,
+      "VLAN_Enable": true,
+      "dscp2PbitMap": true,
+      "QueryInterval": 125,
+      "productFamily": "EXOS",
+      "OUI_FilterList": "2c:2d:2e:xx:xx:xx",
+      "BridgedInterface": [
+        "5GHz IPTV SSID",
+        "LAN Port 2"
+      ],
+      "APAS_EnableIPTV_SSID": false,
+      "AnyPortAnyServiceEnabled": false,
+      "_id": "dd0cc552-bc0b-4257-b5bd-799a83803de7"
+    },
+    {
+      "mode": "RG Routed",
+      "name": "service_orchestration_profileiYPHKm",
+      "orgId": "2550",
+      "vlanId": 300,
+      "category": "Data Service",
+      "ipVersion": "v4",
+      "framingType": "IPoE",
+      "productFamily": "EXOS",
+      "defaultConnectionService": true,
+      "_id": "de5bdf03-536a-4137-91e6-6d0616d6b656"
+    },
+    {
+      "name": "service_orchestration_profilel8iW7d",
+      "type": "SIP",
+      "orgId": "2550",
+      "pBits": 5,
+      "ipType": "IPv4",
+      "vlanId": 810,
+      "ESAMode": false,
+      "RTPPort": 49152,
+      "TimerT1": 500,
+      "TimerT2": 4000,
+      "ServerIP": "10.245.252.2",
+      "category": "Voice Service",
+      "Revertive": false,
+      "DHCPFilter": false,
+      "DNSPrimary": "192.168.33.10",
+      "DTMFMethod": "InBand",
+      "SwitchType": "None",
+      "CountryCode": "US",
+      "ProxyServer": "10.245.252.2",
+      "RTPBasePort": 49152,
+      "RTPCodec1st": "G.711MuLaw",
+      "RTPCodec2nd": "G.711MuLaw",
+      "RTPCodec3rd": "G.711MuLaw",
+      "framingType": "IPoE",
+      "DNSSecondary": "192.168.33.10",
+      "RTPDscpValue": 46,
+      "ReleaseTimer": 10,
+      "RestartDelay": 1,
+      "RetryTimeOut": 30,
+      "OnHookPersist": false,
+      "PacketRate1st": 10,
+      "PacketRate2nd": 10,
+      "PacketRate3rd": 10,
+      "LocalHookFlash": false,
+      "OffHookPersist": false,
+      "RTPDscpOptions": 8,
+      "SwitchTypeMGCP": "GENERIC",
+      "TermPrefixH248": "TP",
+      "TermPrefixMGCP": "aaln",
+      "EphemeralTermID": "RTP",
+      "OptionsInterval": 70,
+      "ProxyServerPort": 5060,
+      "UserAgentDomain": "CPE domain string. Applicable for SIP only",
+      "ControlDscpValue": 46,
+      "FlashHookPersist": false,
+      "RTPDscpInputType": false,
+      "PrimarySwitchType": "CS2000",
+      "OptionsTimerSwitch": true,
+      "RegistrationPeriod": 3600,
+      "PrimaryGWController": "Primary H.248 Gateway controller or IP address of the main H.248 call agent. Applicable and Mandatory for H.248",
+      "SecondarySwitchType": "CS2000",
+      "PrimaryCallMainAgent": "10.245.252.2",
+      "ProxyServerSecondary": "10.245.252.2",
+      "CallWaitingTonePrefix": "CallWaitingTone",
+      "DistinctiveRingPrefix": "Bellcore-dr",
+      "SecondaryGWController": "Secondary H.248 Gateweay controller or IP address",
+      "SilenceSuppression1st": false,
+      "SilenceSuppression2nd": false,
+      "SilenceSuppression3rd": false,
+      "PrimaryCallBackupAgent": "10.245.252.2",
+      "ProxyServerPortSecondary": 5060,
+      "_id": "de5e9795-6e50-433e-a322-2583b63fd11c"
+    },
+    {
+      "iana": false,
+      "iapd": false,
+      "mode": "RG Routed",
+      "name": "service_orchestration_profileXyEJWm",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 300,
+      "category": "Data Service",
+      "6rdPrefix": "2001:1234::/32",
+      "ipVersion": "v4",
+      "6rdDynamic": false,
+      "iapdLength": "no",
+      "framingType": "IPoE",
+      "dscp2PbitMap": true,
+      "productFamily": "EXOS",
+      "6rdIpv4MaskLen": 8,
+      "6rdValidPltime": 2,
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdPrefixPltime": 2,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "dhcp6cForAddress": "none ",
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "defaultConnectionService": true,
+      "_id": "df55c1fd-e832-4eff-9c31-e633d9b6e400"
+    },
+    {
+      "name": "service_orchestration_profileVSSvK6",
+      "orgId": "2550",
+      "vlans": [
+        {
+          "ranges": [
+            {
+              "end": "224.0.0.4",
+              "start": "224.0.0.0"
+            }
+          ],
+          "vlanId": 32
+        }
+      ],
+      "category": "Video - Multicast VLAN Registration (MVR)",
+      "_id": "e52affec-ff83-4e40-8075-c78652f79401"
+    },
+    {
+      "mode": "RG L2 Bridged",
+      "name": "service_orchestration_profileip5WVm",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 260,
+      "category": "Video Service",
+      "MaxStreams": 0,
+      "OUI_Enable": true,
+      "VLAN_Enable": true,
+      "dscp2PbitMap": true,
+      "QueryInterval": 125,
+      "productFamily": "EXOS",
+      "OUI_FilterList": "2c:2d:2e:xx:xx:xx",
+      "BridgedInterface": [
+        "5GHz IPTV SSID",
+        "LAN Port 2"
+      ],
+      "APAS_EnableIPTV_SSID": false,
+      "AnyPortAnyServiceEnabled": false,
+      "_id": "ea13f34b-d018-4338-ad4b-1ce6992fdc09"
+    },
+    {
+      "_id": "eb33b2e1-d568-4d56-a07a-5b73c6e5f017",
+      "iana": false,
+      "iapd": false,
+      "mode": "RG Routed",
+      "name": "service_orchestration_profileAR8S8P",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 300,
+      "category": "Data Service",
+      "6rdPrefix": "2001:1234::/32",
+      "ipVersion": "v4",
+      "6rdDynamic": false,
+      "iapdLength": "no",
+      "framingType": "IPoE",
+      "dscp2PbitMap": true,
+      "productFamily": "EXOS",
+      "6rdIpv4MaskLen": 8,
+      "6rdValidPltime": 2,
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdPrefixPltime": 2,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "dhcp6cForAddress": "none ",
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "defaultConnectionService": true
+    },
+    {
+      "name": "service_orchestration_profilep1O1l3",
+      "orgId": "2550",
+      "category": "Bandwidth",
+      "upstreamCIR": 10,
+      "downstreamCIR": 100,
+      "_id": "ecfc9a9f-5eb9-4ffc-86b1-b9e97b42fc76"
+    },
+    {
+      "mode": "RG L2 Bridged",
+      "name": "service_orchestration_profilecAwHZa",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 260,
+      "category": "Video Service",
+      "bwProfile": "2f85b1f0-41fa-4ee0-a085-2285396ba246",
+      "MaxStreams": 0,
+      "OUI_Enable": true,
+      "mvrProfile": "9fa48479-4815-4cd2-942d-64c9df8e5e94",
+      "VLAN_Enable": true,
+      "dscp2PbitMap": true,
+      "QueryInterval": 125,
+      "productFamily": "GigaCenter",
+      "OUI_FilterList": "2c:2d:2e:xx:xx:xx",
+      "BridgedInterface": [
+        "5GHz IPTV SSID",
+        "LAN Port 2"
+      ],
+      "mcastFilterProfile": "299c65f5-81ed-4814-baa9-93039777b0c6",
+      "APAS_EnableIPTV_SSID": false,
+      "AnyPortAnyServiceEnabled": false,
+      "_id": "ed128e38-9827-450c-9f48-73817584b8f0"
+    },
+    {
+      "name": "service_orchestration_profileyECid3",
+      "orgId": "2550",
+      "filters": [
+        {
+          "end": "225.1.1.1",
+          "start": "225.1.0.1"
+        }
+      ],
+      "category": "Video - Multicast Range Filters",
+      "_id": "ed8e0517-39b9-453d-9d2c-6ecbebec24e3"
+    },
+    {
+      "mode": "RG L2 Bridged",
+      "name": "service_orchestration_profile373Bo9",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": -1,
+      "category": "Video Service",
+      "MaxStreams": 0,
+      "OUI_Enable": true,
+      "VLAN_Enable": true,
+      "dscp2PbitMap": true,
+      "QueryInterval": 125,
+      "productFamily": "EXOS",
+      "OUI_FilterList": "2c:2d:2e:xx:xx:xx",
+      "BridgedInterface": [
+        "5GHz IPTV SSID",
+        "LAN Port 2"
+      ],
+      "APAS_EnableIPTV_SSID": false,
+      "AnyPortAnyServiceEnabled": false,
+      "_id": "ee17d3c9-1447-428a-9089-de348f73ff2e"
+    },
+    {
+      "mode": "RG L2 Bridged",
+      "name": "service-orchestration-profilep5cSzC",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 260,
+      "category": "Video Service",
+      "MaxStreams": 0,
+      "QueryInterval": 3566,
+      "productFamily": "EXOS",
+      "BridgedInterface": [
+        "5GHz IPTV SSID",
+        "LAN Port 2"
+      ],
+      "APAS_EnableIPTV_SSID": false,
+      "AnyPortAnyServiceEnabled": false,
+      "_id": "ef38393e-b8a8-487e-8d3c-b02497a6f6dc"
+    },
+    {
+      "mode": "RG L2 Bridged",
+      "name": "service_orchestration_profileRrtzEI",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": -1,
+      "category": "Video Service",
+      "MaxStreams": 0,
+      "OUI_Enable": true,
+      "VLAN_Enable": true,
+      "dscp2PbitMap": true,
+      "QueryInterval": 125,
+      "productFamily": "EXOS",
+      "OUI_FilterList": "2c:2d:2e:xx:xx:xx",
+      "BridgedInterface": [
+        "5GHz IPTV SSID",
+        "LAN Port 2"
+      ],
+      "APAS_EnableIPTV_SSID": false,
+      "AnyPortAnyServiceEnabled": false,
+      "_id": "f3a6cdb4-7fe3-463b-b201-23038fd6630a"
+    },
+    {
+      "iana": false,
+      "iapd": false,
+      "mode": "RG Routed",
+      "name": "service_orchestration_profile5VHzcX",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 300,
+      "category": "Data Service",
+      "6rdPrefix": "2001:1234::/32",
+      "ipVersion": "v4",
+      "6rdDynamic": false,
+      "iapdLength": "no",
+      "framingType": "IPoE",
+      "dscp2PbitMap": true,
+      "productFamily": "EXOS",
+      "6rdIpv4MaskLen": 8,
+      "6rdValidPltime": 2,
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdPrefixPltime": 2,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "dhcp6cForAddress": "none ",
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "defaultConnectionService": true,
+      "_id": "f67f2066-9fea-43f6-a102-42cf1672c676"
+    },
+    {
+      "iana": false,
+      "iapd": false,
+      "mode": "RG Routed",
+      "name": "service_orchestration_profileoAFYms",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 300,
+      "category": "Data Service",
+      "6rdPrefix": "2001:1234::/32",
+      "ipVersion": "v4",
+      "6rdDynamic": false,
+      "iapdLength": "no",
+      "framingType": "IPoE",
+      "dscp2PbitMap": true,
+      "productFamily": "EXOS",
+      "6rdIpv4MaskLen": 8,
+      "6rdValidPltime": 2,
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdPrefixPltime": 2,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "dhcp6cForAddress": "none ",
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "defaultConnectionService": true,
+      "_id": "f76d1f9c-0934-4032-971b-1a2f2e2a1693"
+    },
+    {
+      "name": "service_orchestration_profilefvJKJU",
+      "orgId": "2550",
+      "category": "Bandwidth",
+      "upstreamCIR": 10,
+      "downstreamCIR": 100,
+      "_id": "f816e536-169c-4051-a894-ceea847f6f6d"
+    },
+    {
+      "_id": "fe4a5391-d8c4-48d6-9e42-ffa5d0d23f82",
+      "iana": false,
+      "iapd": false,
+      "mode": "RG Routed",
+      "name": "service_orchestration_profileRs4wSs",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 300,
+      "category": "Data Service",
+      "6rdPrefix": "2001:1234::/32",
+      "ipVersion": "v4",
+      "6rdDynamic": false,
+      "iapdLength": "no",
+      "framingType": "IPoE",
+      "dscp2PbitMap": true,
+      "productFamily": "EXOS",
+      "6rdIpv4MaskLen": 8,
+      "6rdValidPltime": 2,
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdPrefixPltime": 2,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "dhcp6cForAddress": "none ",
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "defaultConnectionService": true
+    }
+  ]
+}

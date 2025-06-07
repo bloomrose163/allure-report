@@ -1,0 +1,15 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "mode": "RG Routed",
+    "name": "service_orchestration_profilejnZRuy",
+    "orgId": "2550",
+    "vlanId": 111,
+    "category": "Data Service",
+    "ipVersion": "v4",
+    "framingType": "PPPoE",
+    "productFamily": "EXOS",
+    "defaultConnectionService": false,
+    "_id": "b6013abb-b758-4c87-983f-a4bb2163e99e"
+  }
+}
