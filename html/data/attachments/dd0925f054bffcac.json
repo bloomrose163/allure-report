@@ -1,0 +1,28 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "mode": "RG L2 Bridged",
+    "name": "service_orchestration_profileyNLyyD",
+    "orgId": "2550",
+    "pBits": 4,
+    "vlanId": 260,
+    "category": "Video Service",
+    "bwProfile": "c6515ee7-e27e-4b40-b380-a3eaf23efe70",
+    "MaxStreams": 0,
+    "OUI_Enable": true,
+    "mvrProfile": "5ac66349-e9ea-43d6-84e5-d9b766f3eec2",
+    "VLAN_Enable": true,
+    "dscp2PbitMap": true,
+    "QueryInterval": 125,
+    "productFamily": "GigaCenter",
+    "OUI_FilterList": "2c:2d:2e:xx:xx:xx",
+    "BridgedInterface": [
+      "5GHz IPTV SSID",
+      "LAN Port 2"
+    ],
+    "mcastFilterProfile": "e6ac2ed4-1e6f-4ac4-8a8c-fa54d51c91e0",
+    "APAS_EnableIPTV_SSID": false,
+    "AnyPortAnyServiceEnabled": false,
+    "_id": "10f038b7-8c00-4481-917f-339a7c5e190f"
+  }
+}

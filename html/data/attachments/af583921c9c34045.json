@@ -1,0 +1,44 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "data": {
+      "id": "0dc359e0-7b35-4a6f-aa55-478489913be6",
+      "pppoe": {
+        "Password": "John123!",
+        "Username": "john.doe"
+      },
+      "Enable": true
+    },
+    "deviceId": "CXNK00AFB83B",
+    "modelName": "GS4227",
+    "opMode": "Managed ONT",
+    "orgId": "2550",
+    "video": {
+      "id": "5dc5bad3-ea1b-4f42-85df-7c54832a7a77",
+      "Enable": true
+    },
+    "voice": {
+      "id": "953efbe9-8e72-445d-97f4-bdb435bc39c1",
+      "Line": {
+        "1": {
+          "id": "2c07bddf-606c-4d21-b728-14d558c88624",
+          "Enable": "Enabled",
+          "VoiceProcessing": {
+            "ReceiveGain": -90,
+            "TransmitGain": -30
+          },
+          "X_000631_H248": {
+            "TerminationId": "12345"
+          }
+        },
+        "2": {
+          "id": "a5d5de3f-0f74-406c-a6e3-03abba1924c3",
+          "Enable": "Disabled"
+        }
+      },
+      "ServiceType": "H.248"
+    },
+    "currentDate": "2025-06-08T18:17:07.258Z",
+    "_id": "79df01d2-bae1-4a1a-bafa-3e810be7e876"
+  }
+}

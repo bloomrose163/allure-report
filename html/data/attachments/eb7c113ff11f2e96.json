@@ -1,0 +1,17 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.testx.xilac.net/cc/service-orchestration-profile?orgId=2550",
+  "Params": null,
+  "Body": {
+    "name": "service_orchestration_profileHGQ1D7",
+    "category": "Video - Multicast Range Filters",
+    "orgId": "2550",
+    "filters": [
+      {
+        "start": "225.1.0.1",
+        "end": "225.1.1.1"
+      }
+    ],
+    "bApply": true
+  }
+}

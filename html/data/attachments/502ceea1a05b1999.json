@@ -1,6 +1,0 @@
-{
-  "Status Code": 500,
-  "Body": {
-    "error": "could not execute statement [ERROR: cannot delete from table \"tbl_passpoint_config_communities\" because it does not have a replica identity and publishes deletes\n  Hint: To enable deleting from the table, set REPLICA IDENTITY using ALTER TABLE.\n  Where: SQL statement \"DELETE FROM ONLY \"core\".\"tbl_passpoint_config_communities\" WHERE $1::pg_catalog.text OPERATOR(pg_catalog.=) \"actions_item_id\"::pg_catalog.text\"] [delete from core.ref_device_workflow_actions where id=?]"
-  }
-}

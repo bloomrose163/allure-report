@@ -1,6 +1,0 @@
-{
-  "Status Code": 500,
-  "Body": {
-    "error": "Row was updated or deleted by another transaction (or unsaved-value mapping was incorrect) : [com.calix.acs.entity.profile.Profile#552aad3e-99fe-4c5b-99ab-6e4bf50bbcc8]"
-  }
-}

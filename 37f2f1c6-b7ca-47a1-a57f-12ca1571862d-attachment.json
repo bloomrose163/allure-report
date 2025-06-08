@@ -1,0 +1,57 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "configurations": [
+      {
+        "id": "40ecaedf-d722-4748-9614-0ede9d8719a4",
+        "category": "Video Service",
+        "parameterValues": {
+          "X_000631_VlanMux8021p": 4,
+          "productFamily": "GigaCenter",
+          "X_000631_Dscp2PbitMapEnabled": true,
+          "X_000631_VlanMuxID": 260,
+          "Mode": "RG L2 Bridged",
+          "X_000631_MvrProfile": "5ac66349-e9ea-43d6-84e5-d9b766f3eec2",
+          "X_CALIX_SXACC_BW_PROFILE": "c6515ee7-e27e-4b40-b380-a3eaf23efe70",
+          "QueryInterval": 125,
+          "X_000631_MaxStreams": 0,
+          "X_000631_IGMPProxy": true,
+          "X_000631_McastFilter": "e6ac2ed4-1e6f-4ac4-8a8c-fa54d51c91e0",
+          "ServiceConnectionType": "Bridged",
+          "BridgedInterface": [
+            "InternetGatewayDevice.Layer2Bridging.AvailableInterface.15",
+            "InternetGatewayDevice.Layer2Bridging.AvailableInterface.2"
+          ],
+          "AnyPortAnyServiceEnabled": false
+        }
+      }
+    ],
+    "serviceOrchestration": {
+      "name": "service_orchestration_profileyNLyyD",
+      "orgId": "2550",
+      "category": "Video Service",
+      "vlanId": 260,
+      "productFamily": "GigaCenter",
+      "bwProfile": "c6515ee7-e27e-4b40-b380-a3eaf23efe70",
+      "mvrProfile": "5ac66349-e9ea-43d6-84e5-d9b766f3eec2",
+      "mode": "RG L2 Bridged",
+      "dscp2PbitMap": true,
+      "AnyPortAnyServiceEnabled": false,
+      "APAS_EnableIPTV_SSID": false,
+      "VLAN_Enable": true,
+      "pBits": 4,
+      "BridgedInterface": [
+        "5GHz IPTV SSID",
+        "LAN Port 2"
+      ],
+      "OUI_Enable": true,
+      "OUI_FilterList": "2c:2d:2e:xx:xx:xx",
+      "QueryInterval": 125,
+      "MaxStreams": 0,
+      "mcastFilterProfile": "e6ac2ed4-1e6f-4ac4-8a8c-fa54d51c91e0"
+    },
+    "_id": "10f038b7-8c00-4481-917f-339a7c5e190f",
+    "name": "Service Orchestration ~ service_orchestration_profileyNLyyD",
+    "orgId": "2550"
+  }
+}

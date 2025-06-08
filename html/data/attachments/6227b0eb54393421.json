@@ -1,8 +1,0 @@
-{
-  "Method": "POST",
-  "URL": "http://acs-api.testx.xilac.net/cc/service-orchestration-profile",
-  "Params": null,
-  "Body": {
-    "name": "service_orchestration_profileN3lybP"
-  }
-}
