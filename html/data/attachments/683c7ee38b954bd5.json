@@ -1,0 +1,8 @@
+{
+  "Method": "DELETE",
+  "URL": "http://gcs-stg.calix.com:8081/cc/static-group-member?orgId=50&_id=fe956f1b-cd8a-4cbe-ae89-1e7fdded8efe",
+  "Params": {
+    "_id": "fe956f1b-cd8a-4cbe-ae89-1e7fdded8efe"
+  },
+  "Body": null
+}

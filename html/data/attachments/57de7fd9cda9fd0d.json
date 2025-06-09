@@ -1,8 +1,0 @@
-{
-  "Method": "POST",
-  "URL": "http://gcs-stg.calix.com:8081/cc/service-orchestration-profile",
-  "Params": null,
-  "Body": {
-    "name": "service_orchestration_profileuFo1gD"
-  }
-}

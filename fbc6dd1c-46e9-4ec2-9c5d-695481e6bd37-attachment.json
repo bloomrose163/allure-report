@@ -1,0 +1,40 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "_id": "fead9a43-3471-4e95-8c0a-818ca4ff2d75",
+      "orgId": "50",
+      "name": "StaticGroupForMigrate",
+      "description": "For Org Migration",
+      "type": "static",
+      "allowInheritance": true,
+      "workflowCount": 0,
+      "completedCount": 0,
+      "uncompletedCount": 0
+    },
+    {
+      "_id": "010762e9-469f-4244-adc3-adb570ab5e89",
+      "orgId": "50",
+      "name": "groupn8Lqqr",
+      "description": "system group description",
+      "type": "static",
+      "allowInheritance": true,
+      "workflowCount": 0,
+      "completedCount": 0,
+      "uncompletedCount": 0,
+      "cpeFilter": {}
+    },
+    {
+      "_id": "014b6c40-fae1-4e23-b7d4-179680f0f74d",
+      "orgId": "50",
+      "name": "groupPTkdbk",
+      "description": "system group description",
+      "type": "static",
+      "allowInheritance": true,
+      "workflowCount": 0,
+      "completedCount": 0,
+      "uncompletedCount": 0,
+      "cpeFilter": {}
+    }
+  ]
+}

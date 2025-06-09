@@ -1,0 +1,31 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "maintenanceWindow": false,
+    "_id": "6f3ab61a-31fd-4fa9-92f1-c58935a5c86d",
+    "description": "created by apple",
+    "groups": [
+      "73f9c301-5013-4ed4-bc5b-ca40c59da8e1"
+    ],
+    "fullGroupExecute": false,
+    "orgId": "2550",
+    "bPriorNewAndFailed": true,
+    "createTime": {
+      "$date": 1749494167672
+    },
+    "name": "workflowhNRVWY",
+    "state": "In Progress",
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "CPE Event",
+        "cpeEvent": "CC EVENT - On Boot"
+      }
+    },
+    "actions": [
+      {
+        "_id": "aba3f9f4-14de-4168-8fea-a4f641671be3",
+        "actionType": "Reboot"
+      }
+    ]
+  }
+}

@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://gcs-stg.calix.com:8081/cc/service-orchestration-profile?orgId=50&name=service_orchestration_profileJT6kyw",
-  "Params": {
-    "name": "service_orchestration_profileJT6kyw"
-  },
-  "Body": null
-}

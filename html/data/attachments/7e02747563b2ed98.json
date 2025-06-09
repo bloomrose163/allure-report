@@ -1,6 +1,0 @@
-{
-  "Status Code": 404,
-  "Body": {
-    "error": "No service-orchestration-profile found with the given query filter!"
-  }
-}

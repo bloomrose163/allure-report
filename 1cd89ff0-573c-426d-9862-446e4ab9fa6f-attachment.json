@@ -1,0 +1,15 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "5ee4957c-bc64-470a-8302-e21536d22c20",
+    "orgId": "50",
+    "name": "groupekUPc1",
+    "description": "system group description",
+    "type": "static",
+    "allowInheritance": true,
+    "workflowCount": 0,
+    "completedCount": 0,
+    "uncompletedCount": 0,
+    "cpeFilter": {}
+  }
+}

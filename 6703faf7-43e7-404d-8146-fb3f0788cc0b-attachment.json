@@ -1,0 +1,14 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "c8627ff7-8ec0-4b91-aeaf-a214cb6bde60",
+    "orgId": "50",
+    "name": "groupsXFZEz",
+    "description": "system group description",
+    "type": "dynamic",
+    "allowInheritance": true,
+    "workflowCount": 0,
+    "completedCount": 0,
+    "uncompletedCount": 0
+  }
+}

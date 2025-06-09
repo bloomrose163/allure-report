@@ -1,0 +1,62 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "configurations": [
+        {
+          "id": "1ceab833-f1f4-467f-82cc-5167595125aa",
+          "category": "Video - Multicast VLAN Registration (MVR)",
+          "parameterValues": {
+            "Vlan1": 79,
+            "Vlan1Range2Start": "239.0.0.1",
+            "Vlan1Range1Start": "225.0.0.1",
+            "Vlan1Range2End": "239.255.255.255",
+            "NumberOfVLANs": 1,
+            "Vlan1Range1End": "226.255.255.255",
+            "Vlan1NumberOfRanges": 2
+          }
+        }
+      ],
+      "_id": "b628a77a-a684-4dc8-845b-a604f610c3fd",
+      "name": "jkong-video-MVR-profile",
+      "description": "jessica.kong",
+      "orgId": "2550"
+    },
+    {
+      "configurations": [
+        {
+          "id": "79a4208b-b6f8-4ee5-a81d-cd38e779933b",
+          "category": "Video Service",
+          "parameterValues": {
+            "productFamily": "EXOS",
+            "DhcpMode": "None",
+            "MacFFEnable": false,
+            "X_000631_MvrProfile": "b628a77a-a684-4dc8-845b-a604f610c3fd",
+            "QueryInterval": 60,
+            "MacLimit": 0,
+            "X_000631_MaxStreams": 128,
+            "Hairpin": false,
+            "IgmpSnoopEnable": true,
+            "ServiceConnectionType": "AE_L2_Bridged",
+            "X_CALIX_SXACC_AE_L2_BRIDGE_MBR_PORTS": [
+              "2"
+            ],
+            "USMaxMcastBcastRate": false,
+            "Mode": "ONT Half Bridge",
+            "L2CPConfigured": false,
+            "IPv6Transparent": false,
+            "VLANID": 44,
+            "AdvancedSettings": true,
+            "X_000631_McastFilter": "a2f5d2d2-c1bc-4b48-b14a-18ecee36acda",
+            "TLANEnable": false,
+            "IPSourceVerifyEnable": false
+          }
+        }
+      ],
+      "_id": "329735ba-507a-40a0-8ad4-b6bbc799ba8d",
+      "name": "jkong-video-HB-vlan44",
+      "description": "jessica.kong",
+      "orgId": "2550"
+    }
+  ]
+}

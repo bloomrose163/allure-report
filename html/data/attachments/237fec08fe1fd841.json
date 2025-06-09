@@ -1,0 +1,17 @@
+{
+  "Method": "POST",
+  "URL": "http://gcs-stg.calix.com:8081/cc/service-orchestration-profile?orgId=50",
+  "Params": null,
+  "Body": {
+    "name": "service_orchestration_profile03nZsA",
+    "category": "Video - Multicast Range Filters",
+    "orgId": "50",
+    "filters": [
+      {
+        "start": "225.1.0.1",
+        "end": "225.1.1.1"
+      }
+    ],
+    "bApply": true
+  }
+}

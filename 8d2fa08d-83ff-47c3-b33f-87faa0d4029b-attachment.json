@@ -1,6 +1,0 @@
-{
-  "Method": "DELETE",
-  "URL": "http://gcs-stg.calix.com:8081/cc/service-orchestration-profile/c002ef24-a276-44ef-96bf-dca3e2b34cb5?orgId=50",
-  "Params": null,
-  "Body": null
-}
