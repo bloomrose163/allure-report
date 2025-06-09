@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://gcs-stg.calix.com:8081/cc/static-group-member?orgId=50&_id=27c54a45-738f-4196-8b46-0f3b373aa369",
+  "Params": {
+    "_id": "27c54a45-738f-4196-8b46-0f3b373aa369"
+  },
+  "Body": null
+}

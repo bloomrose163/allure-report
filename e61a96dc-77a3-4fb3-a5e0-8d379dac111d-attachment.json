@@ -1,0 +1,6 @@
+{
+  "Status Code": 404,
+  "Body": {
+    "error": "No configuration-profile found with the given query filter!"
+  }
+}

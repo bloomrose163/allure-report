@@ -1,0 +1,21 @@
+{
+  "Method": "POST",
+  "URL": "http://gcs-stg.calix.com:8081/cc/service-orchestration-profile?orgId=50",
+  "Params": null,
+  "Body": {
+    "name": "service_orchestration_profilepV2YIo",
+    "category": "Video - Multicast VLAN Registration (MVR)",
+    "orgId": "50",
+    "vlans": [
+      {
+        "vlanId": 32,
+        "ranges": [
+          {
+            "start": "224.0.0.0",
+            "end": "224.0.0.4"
+          }
+        ]
+      }
+    ]
+  }
+}

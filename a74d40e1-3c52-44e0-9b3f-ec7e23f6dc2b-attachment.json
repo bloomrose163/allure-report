@@ -1,0 +1,10 @@
+{
+  "Method": "POST",
+  "URL": "http://gcs-stg.calix.com:8081/cc/static-group-member?orgId=50",
+  "Params": null,
+  "Body": {
+    "groupId": "700f05b3-dfc5-48df-92ac-8e28b147cbf7",
+    "orgId": "50",
+    "memberInfo": "b576da97-7a9d-4f87-8f74-ce2e45c4e397"
+  }
+}

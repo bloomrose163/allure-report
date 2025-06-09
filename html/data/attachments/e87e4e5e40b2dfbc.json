@@ -1,0 +1,6 @@
+{
+  "Status Code": 409,
+  "Body": {
+    "error": "The \"name\" field contains value (Service Orchestration ~ service_orchestration_profileJT6kyw) that conflicts with another service orchestration profile"
+  }
+}

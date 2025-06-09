@@ -1,0 +1,63 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "configurations": [
+      {
+        "id": "3e98bcf5-0364-4796-a373-fca880a76ef6",
+        "category": "Data Service",
+        "parameterValues": {
+          "X_000631_VlanMux8021p": 4,
+          "productFamily": "GigaCenter",
+          "IPv6DNSWANConnectionPath": "%IPV6_DATA_WAN_CONNECTION%",
+          "defaultConnectionService": true,
+          "X_000631_Dscp2PbitMapEnabled": true,
+          "ConnectionType": "IP_Routed",
+          "X_000631_VlanMuxID": 300,
+          "FramingType": "IPoE",
+          "Mode": "RG Routed",
+          "NATEnabled": true,
+          "version": "dualStack",
+          "IAPD_Control": true,
+          "X_000631_IGMPProxy": false,
+          "X_000631_IPv6AddressingType": "DHCP",
+          "X_000631_IPv4Enabled": true,
+          "X_000631_IPv6Enabled": true,
+          "AddressingType": "DHCP",
+          "X_000631_Dhcp6cForPrefixDelegation": true,
+          "ServiceConnectionType": "DHCP",
+          "X_000631_Dhcp6cForAddress": true
+        }
+      }
+    ],
+    "serviceOrchestration": {
+      "category": "Data Service",
+      "framingType": "IPoE",
+      "vlanId": 300,
+      "productFamily": "GigaCenter",
+      "mode": "RG Routed",
+      "defaultConnectionService": true,
+      "ipVersion": "dualStack",
+      "orgId": "2550",
+      "name": "service_orchestration_profileN95dQl",
+      "pBits": 4,
+      "dscp2PbitMap": true,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdDynamic": true,
+      "6rdIpv4MaskLen": 8,
+      "6rdPrefix": "2001:1234::/32",
+      "6rdPrefixPltime": 2,
+      "6rdValidPltime": 2,
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "iana": true,
+      "iapd": true,
+      "dhcp6cForAddress": "none ",
+      "iapdLength": "no"
+    },
+    "_id": "9a2cc051-419f-4c56-994c-75de170ff72f",
+    "name": "Service Orchestration ~ service_orchestration_profileN95dQl",
+    "orgId": "2550"
+  }
+}

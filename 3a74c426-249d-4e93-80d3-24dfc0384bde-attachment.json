@@ -1,0 +1,31 @@
+{
+  "Method": "PUT",
+  "URL": "http://gcs-stg.calix.com:8081/cc/configuration-profile/155b30a3-ae64-4271-8e11-f69bf9c09293",
+  "Params": null,
+  "Body": {
+    "name": "configuration_profileQh4Yop",
+    "orgId": "50",
+    "configurations": [
+      {
+        "category": "Data Service",
+        "parameterValues": {
+          "productFamily": "EXOS",
+          "Mode": "RG Routed",
+          "defaultConnectionService": true,
+          "FramingType": "IPoE",
+          "version": "v4",
+          "VlanTagAction": true,
+          "X_000631_VlanMuxID": 888,
+          "X_000631_VlanMux8021p": 0,
+          "NATEnabled": true,
+          "X_000631_IGMPProxy": false,
+          "ServiceConnectionType": "DHCP",
+          "X_000631_IPv4Enabled": true,
+          "X_000631_IPv6Enabled": false,
+          "ConnectionType": "IP_Routed",
+          "AddressingType": "DHCP"
+        }
+      }
+    ]
+  }
+}

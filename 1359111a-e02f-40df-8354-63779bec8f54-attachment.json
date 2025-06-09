@@ -1,0 +1,41 @@
+{
+  "Method": "POST",
+  "URL": "http://gcs-stg.calix.com:8081/cc/provisioning-record?orgId=50",
+  "Params": null,
+  "Body": {
+    "subscriberId": "",
+    "deviceId": "CXNK00AFB83B",
+    "orgId": "50",
+    "wifi": {},
+    "opMode": "Managed ONT",
+    "modelName": "GS4227",
+    "data": {
+      "Enable": true,
+      "pppoe": {
+        "Username": "john.doe",
+        "Password": "John123!"
+      }
+    },
+    "video": {
+      "Enable": true
+    },
+    "voice": {
+      "ServiceType": "H.248",
+      "Line": {
+        "1": {
+          "Enable": "Enabled",
+          "VoiceProcessing": {
+            "ReceiveGain": -90,
+            "TransmitGain": -30
+          },
+          "X_000631_H248": {
+            "TerminationId": "12345"
+          }
+        },
+        "2": {
+          "Enable": "Disabled"
+        }
+      }
+    }
+  }
+}

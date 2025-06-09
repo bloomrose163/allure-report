@@ -1,0 +1,31 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "6994d88d-36b4-4f20-991e-97d320ec105c",
+    "name": "workflowaX5Nt1",
+    "orgId": "50",
+    "start": "2025-06-09T07:03:07.470Z",
+    "state": "In Progress",
+    "groups": [
+      "7906b8dd-305d-4492-9bd2-3ce04869d2cd"
+    ],
+    "actions": [
+      {
+        "actionType": "Reboot"
+      }
+    ],
+    "cpeMatcher": "{\"orgId\":\"50\",\"bDecommissioned\":{\"$exists\":false},\"$or\":[{\"manufacturer\":\"Calix\",\"modelName\":\"GS4227\",\"serialNumber\":{\"$regex\":\"^CXNK00AFB83B$\"}}]}",
+    "createTime": {
+      "$date": 1749452587470
+    },
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "CPE Event",
+        "cpeEvent": "CC EVENT - On Boot"
+      }
+    },
+    "description": "created by apple",
+    "fullGroupExecute": false,
+    "bPriorNewAndFailed": true
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "configurations": [
+      {
+        "id": "680040ef-f392-4b28-a0ec-39d3f718552f",
+        "category": "Bandwidth",
+        "parameterValues": {
+          "UpstreamCIR": "10k",
+          "DownstreamCIR": "100k"
+        }
+      }
+    ],
+    "serviceOrchestration": {
+      "name": "service_orchestration_profileKPduCD",
+      "orgId": "2550",
+      "category": "Bandwidth",
+      "downstreamCIR": 100,
+      "upstreamCIR": 10
+    },
+    "_id": "f3892704-873c-4a0e-9811-f2e02f8ebd2a",
+    "name": "Service Orchestration ~ service_orchestration_profileKPduCD",
+    "orgId": "2550"
+  }
+}

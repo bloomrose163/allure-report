@@ -1,0 +1,12 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "043db2ef-4e43-4f79-b150-8c3d756d5968",
+    "type": "FSAN",
+    "orgId": "50",
+    "groupId": "d9106bd8-a1dd-4aa7-aa1d-eb4361a4e24b",
+    "createTime": "2025-06-09T06:55:08.176Z",
+    "memberInfo": "CXNK01A8D0C7",
+    "deviceRecordId": "50-E46CD1-CXNK01A8D0C7"
+  }
+}

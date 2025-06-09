@@ -1,0 +1,57 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "data": {
+      "id": "9c818a83-8d08-4542-be3f-bda8cd2e0b2b",
+      "Enable": true
+    },
+    "deviceId": "CXNK00AFB83B",
+    "modelName": "GS4227",
+    "opMode": "Managed ONT",
+    "orgId": "2550",
+    "video": {
+      "id": "f8f391d5-af90-4818-97e4-4adf724d35ac",
+      "Enable": true
+    },
+    "voice": {
+      "id": "30097562-02dc-49d3-8e14-4dcd6ed1557d",
+      "FaxT38": {
+        "Enable": false
+      },
+      "Line": {
+        "1": {
+          "id": "fb11a018-24e4-4f0e-9a35-7d9d92817461",
+          "Enable": "Disabled",
+          "VoiceProcessing": {
+            "ReceiveGain": -4,
+            "TransmitGain": -2
+          },
+          "CallingFeatures": {
+            "CallerIDEnable": true,
+            "X_000631_DirectConnectEnable": true,
+            "X_000631_DirectConnectNumber": "7077663113",
+            "CallWaitingEnable": true,
+            "X_000631_ThreewayCallingEnable": true,
+            "X_000631_DirectConnectTimer": 0,
+            "MWIEnable": true
+          },
+          "SIP": {
+            "AuthUserName": "sip-user",
+            "AuthPassword": "sip-password",
+            "URI": "4001"
+          }
+        },
+        "2": {
+          "id": "a1388822-ffd9-4ff5-a95d-f15e59cd90ad",
+          "Enable": "Disabled"
+        }
+      },
+      "ServiceType": "SIP",
+      "X_CALIX_SXACC_RG_WAN": {
+        "ServiceConnectionType": "DHCP"
+      }
+    },
+    "currentDate": "2025-06-09T06:49:31.184Z",
+    "_id": "abcb2b63-170e-48ed-ac80-c89a1a44da56"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "Method": "POST",
+  "URL": "http://gcs-stg.calix.com:8081/cc/service-orchestration-profile?orgId=50",
+  "Params": null,
+  "Body": {
+    "name": "service_orchestration_profileod3BdI",
+    "orgId": "50",
+    "category": "Video Service",
+    "vlanId": 260,
+    "productFamily": "GigaCenter",
+    "bwProfile": "5e044525-423f-48ea-b70f-f4095b0fc4ff",
+    "mvrProfile": "44fb6459-220b-42e5-9d3f-f3e54223d708",
+    "mode": "RG L2 Bridged",
+    "dscp2PbitMap": true,
+    "AnyPortAnyServiceEnabled": false,
+    "APAS_EnableIPTV_SSID": false,
+    "VLAN_Enable": true,
+    "pBits": 4,
+    "BridgedInterface": [
+      "5GHz IPTV SSID",
+      "LAN Port 2"
+    ],
+    "OUI_Enable": true,
+    "OUI_FilterList": "2c:2d:2e:xx:xx:xx",
+    "QueryInterval": 125,
+    "MaxStreams": 0,
+    "mcastFilterProfile": "2d8c4d55-8a25-48a6-988e-a9b20e41a262"
+  }
+}

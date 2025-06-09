@@ -1,0 +1,11 @@
+{
+  "Method": "POST",
+  "URL": "http://gcs-stg.calix.com:8081/cc/service-orchestration-profile",
+  "Params": null,
+  "Body": {
+    "category": "Video Service",
+    "productFamily": "EXOS",
+    "mode": "RG L2 Bridged",
+    "name": "service_orchestration_profileTz7Puz"
+  }
+}

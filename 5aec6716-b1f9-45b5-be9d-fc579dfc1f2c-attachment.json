@@ -1,0 +1,1298 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "_id": "abf13238-0853-4c44-a2df-e8f023752b07",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "1ab25767-6039-4ece-9746-114e943e6eee",
+      "createTime": "2025-05-27T01:26:18.569Z",
+      "memberInfo": "CXNK00A5F0B4"
+    },
+    {
+      "_id": "6bd0512a-bfe9-43eb-a882-7755ff6dfc8b",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "1ff324d6-2204-4958-98c1-228e974346b9",
+      "createTime": "2025-05-29T13:28:02.480Z",
+      "memberInfo": "CXNK00AFB83B",
+      "deviceRecordId": "50-60DB98-CXNK00AFB83B"
+    },
+    {
+      "_id": "3b61ea8e-f56e-4171-acbf-793f23db9a38",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "820c0017-9e55-4caa-8b9c-2387c85117ed",
+      "createTime": "2025-05-29T13:35:37.146Z",
+      "memberInfo": "CXNK00AFB83B",
+      "deviceRecordId": "50-60DB98-CXNK00AFB83B"
+    },
+    {
+      "_id": "699d17f1-1054-425b-9a37-138e30db9c27",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "memberInfo": "7745678"
+    },
+    {
+      "_id": "4156bef5-b461-45e5-8f4a-c808d655b14d",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "9071c638-6056-4b97-8dde-8066c3b2d473",
+      "createTime": "2025-06-05T11:24:06.796Z",
+      "memberInfo": "CXNK00AFB83B",
+      "deviceRecordId": "50-60DB98-CXNK00AFB83B"
+    },
+    {
+      "_id": "c076ce0a-a328-449d-aba8-afa6ab35a1fb",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "c4dc7b6b-9812-4dab-9c8e-eaaf31130d9d",
+      "createTime": "2025-05-30T06:59:25.403Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "4dc1ffba-e92a-4bf6-b16a-b231996e3f1f",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "b191b7ed-87f8-4ceb-8c6e-4435d8909d78",
+      "createTime": "2025-05-30T06:59:53.580Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "20f02431-bbce-4138-8e1b-92d2cd739667",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "4205941b-8634-41b5-9e9f-df22d930ad72",
+      "createTime": "2025-05-30T07:05:35.468Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "8311361e-06ae-4b0e-9da7-0b34b58341c8",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "memberInfo": "CXNK00282DD2"
+    },
+    {
+      "_id": "f4397b44-02b3-478b-9c62-7f5d805a3f02",
+      "orgId": "50",
+      "groupId": "c458ba8b-db9a-4bee-b8c7-c4b51fe222da",
+      "createTime": "2025-05-30T06:59:31.108Z",
+      "memberInfo": "eaec5289-e4a3-476e-ad2b-561ea5b9881a"
+    },
+    {
+      "_id": "6bb11a4f-d9df-432b-a29d-d873b42af60f",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "ddfd8727-ebc9-49fd-b8fc-8200b56b4dfe",
+      "createTime": "2025-05-30T07:13:35.165Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "2a5172b3-c584-4fc2-9f7a-96f678d177a8",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "memberInfo": "CXNK564322445"
+    },
+    {
+      "_id": "3f6af0d6-2278-4f1d-8235-88dd54a3365f",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "memberInfo": "CXNK09809829"
+    },
+    {
+      "_id": "f9b8a88f-45e8-4ed4-a599-05c3a802e9ef",
+      "type": "MAC Address",
+      "orgId": "50",
+      "groupId": "4fc58770-da1c-4d7c-b9b0-788dde5ff4e6",
+      "createTime": "2025-05-30T01:20:26.886Z",
+      "memberInfo": "04:bc:9f:21:d0:6d",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "f54cc3dc-40f0-4f83-8aaf-8c8226bf259e",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "bfcf7e72-878e-43aa-a8b3-767cce338ad2",
+      "createTime": "2025-05-30T01:20:32.542Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "3e157724-08b2-487c-9120-298b20c621ad",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "07d1c915-b467-449f-b686-d29737180d75",
+      "createTime": "2025-05-30T06:59:34.015Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "3383ec99-f26b-4f45-8463-9f440deb1a95",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "79741339-d3a8-45bc-bc28-2b279192f028",
+      "createTime": "2025-05-30T07:03:34.208Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "92e2f267-30e3-4069-9d88-5519ec4cec56",
+      "type": "Registration ID",
+      "orgId": "50",
+      "groupId": "9ae89572-3735-4639-bebc-a2b00ceb424e",
+      "createTime": "2025-05-30T01:20:29.733Z",
+      "memberInfo": "ponreg123",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "4fe1acff-65b5-43c7-8b53-ebdb31b797ac",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "1f48ca69-e645-4b41-b609-cb3dd144b289",
+      "createTime": "2025-06-05T11:19:09.463Z",
+      "memberInfo": "CXNK00AFB83B",
+      "deviceRecordId": "50-60DB98-CXNK00AFB83B"
+    },
+    {
+      "_id": "ba109997-ceca-4d64-8fb4-135b0952cf4a",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "6a131ac1-54bf-47bb-8d33-c1163fc16352",
+      "createTime": "2025-05-30T07:12:51.527Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "6fcdf4c0-97b6-4660-83bc-eafadcc2732b",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "memberInfo": "thy"
+    },
+    {
+      "_id": "c20098ce-34d7-4985-8ce8-edeb9d22745c",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "memberInfo": "83838838383"
+    },
+    {
+      "_id": "94e89d0f-162f-4adb-8e70-efc0c24ad1cb",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "memberInfo": "hfhfhhfgfg"
+    },
+    {
+      "_id": "fad69e6c-122b-4f2b-a0bd-2ddf07f8544f",
+      "orgId": "50",
+      "groupId": "4b110110-45c8-4043-8888-472510ea0bc1",
+      "createTime": "2025-06-05T05:20:27.427Z",
+      "memberInfo": "reg123"
+    },
+    {
+      "_id": "468f31be-dfdb-4283-91dc-5218d77f5208",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "20399b62-fa8c-4ea3-9d65-18361c9b4fb6",
+      "createTime": "2025-05-27T10:28:02.711Z",
+      "memberInfo": "CXNK00A5F0B4"
+    },
+    {
+      "_id": "19b2832c-7acd-4bf8-9083-5b47f297390b",
+      "type": "MAC Address",
+      "orgId": "50",
+      "groupId": "ce284bf7-0dc5-44ad-8b62-1d798b1ce291",
+      "createTime": "2025-05-29T18:21:54.590Z",
+      "memberInfo": "04:bc:9f:21:d0:6d",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "361a67ef-538f-406f-b62a-f5228605f46f",
+      "orgId": "50",
+      "groupId": "6097bec7-42de-47aa-99ed-26ed0f012386",
+      "createTime": "2025-05-30T02:16:49.379Z",
+      "memberInfo": "eaec5289-e4a3-476e-ad2b-561ea5b9881a"
+    },
+    {
+      "_id": "a5297d88-0266-4c1f-82a4-98984a9a1bfe",
+      "orgId": "50",
+      "groupId": "f63024ee-ff28-4b00-a982-d1f9d720235a",
+      "createTime": "2025-05-30T02:18:50.918Z",
+      "memberInfo": "46dfb975-48d1-4061-bfb2-ceef7e3be50d"
+    },
+    {
+      "_id": "18fcd403-51d3-4d77-adb6-c7a922d4f2db",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "85f12bd9-d390-4cd0-b746-ba77c5018355",
+      "createTime": "2025-05-29T18:22:03.788Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "613a5ba3-a070-4633-897c-1c580ac5db8b",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "af6f1141-6db8-4592-81ab-96a4bdf2c85f",
+      "createTime": "2025-05-30T02:02:20.635Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "e813592e-75d8-4dd9-96c9-400f3783973c",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "dc015161-5fa2-4604-adfa-a0f8bd655527",
+      "createTime": "2025-05-30T02:02:23.807Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "9a3d84f7-1789-4efc-a04c-f8e2befa33e8",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "createTime": "2023-08-07T07:11:22.162Z",
+      "memberInfo": "CXNKRT04102021ADM"
+    },
+    {
+      "_id": "22a6433e-1cce-4ee4-9852-27edf6632199",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "12955ed8-5cf7-46dc-9368-8f6d0b118fe3",
+      "createTime": "2025-05-30T02:02:26.886Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "8297c1a2-0ad9-404f-8dab-1e7004dc0927",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "c10d9add-dfda-418f-8242-fd365e11f59d",
+      "createTime": "2025-05-30T02:16:42.427Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "64ed12c5-6140-4607-a4a3-d0df5e8804c8",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "b1283a06-32fe-441a-a3f7-df5656b2e33c",
+      "createTime": "2025-05-28T02:04:05.600Z",
+      "memberInfo": "CXNK00A5F0B4"
+    },
+    {
+      "_id": "afee7823-222f-471b-a1ef-beb02e3c39ed",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "752c46eb-f45a-4c90-954d-9a70d0fdfc7b",
+      "createTime": "2025-05-30T02:08:19.739Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "81325d5c-a0b8-4432-803c-91f553424d15",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "memberInfo": "regmon1"
+    },
+    {
+      "_id": "a1fcb899-3bbb-4107-bea7-88f30b106cd5",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "64069137-dfed-4516-ad8b-320af84d9b2c",
+      "createTime": "2025-05-29T01:41:33.231Z",
+      "memberInfo": "CXNK0151C334BBB",
+      "deviceRecordId": "2550-04bc9f-CXNK0151C334"
+    },
+    {
+      "_id": "60883b50-9e2a-4829-908e-db5b69152f53",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "24a21582-9686-41c9-a7a6-56b0cb4fff7c",
+      "createTime": "2025-05-28T05:07:47.057Z",
+      "memberInfo": "PONREG123",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "6beef253-9f03-453c-82a1-29cd94e119bc",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "memberInfo": "wesrdgy"
+    },
+    {
+      "_id": "28391252-d4c9-4b4b-8651-6d988b7add61",
+      "orgId": "50",
+      "groupId": "b808f6eb-360e-4560-a633-17b7d1be2e28",
+      "createTime": "2025-05-30T02:22:06.604Z",
+      "memberInfo": "eaec5289-e4a3-476e-ad2b-561ea5b9881a"
+    },
+    {
+      "_id": "5707c90a-ef23-49a3-a9de-3f76dee1b2a0",
+      "orgId": "50",
+      "groupId": "bba6badc-91a2-4837-981f-9aafc04fd3a0",
+      "createTime": "2025-05-30T02:14:04.247Z",
+      "memberInfo": "eaec5289-e4a3-476e-ad2b-561ea5b9881a"
+    },
+    {
+      "_id": "01b12f5e-29c6-478d-9c0b-93ceec36881f",
+      "orgId": "50",
+      "groupId": "828c6bcb-27f1-4daf-836a-c84fc8dcd1a7",
+      "createTime": "2025-05-30T02:16:31.002Z",
+      "memberInfo": "eaec5289-e4a3-476e-ad2b-561ea5b9881a"
+    },
+    {
+      "_id": "e437d74d-d03b-4845-9954-2330dba8947c",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "9fb3e551-4cbd-4c13-971f-1ff3531c90c9",
+      "createTime": "2025-06-03T06:21:45.668Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "011e5a35-11b5-4cad-b0b5-13f5dd504408",
+      "orgId": "50",
+      "groupId": "aed47522-722b-45e9-90d3-b70b03de22ed",
+      "createTime": "2025-05-30T02:18:56.994Z",
+      "memberInfo": "eaec5289-e4a3-476e-ad2b-561ea5b9881a"
+    },
+    {
+      "_id": "c45f4af5-aca7-409d-86d1-1a6d598db2db",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "4eb540d7-8e94-4dc1-834d-a9cabfb4785a",
+      "createTime": "2025-06-03T07:30:39.425Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "62c3521c-888c-4f02-a05a-1f522b339784",
+      "orgId": "50",
+      "groupId": "7e304aa3-21cb-46a8-9d7b-aa1b054602d1",
+      "createTime": "2025-05-30T02:28:38.676Z",
+      "memberInfo": "eaec5289-e4a3-476e-ad2b-561ea5b9881a"
+    },
+    {
+      "_id": "bb63c038-2369-4383-b427-67227f4c74d4",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "a41459a1-67c9-420f-ac7f-c5799ef3529e",
+      "createTime": "2025-06-05T13:23:48.300Z",
+      "memberInfo": "CXNK00AFB83B",
+      "deviceRecordId": "50-60DB98-CXNK00AFB83B"
+    },
+    {
+      "_id": "6d47f930-2b25-44ba-bc7a-9f5eb5af2869",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "010762e9-469f-4244-adc3-adb570ab5e89",
+      "createTime": "2025-06-03T07:05:04.736Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "0e1c07c9-61d8-408c-aa4e-33768689fc19",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "8eedd2bf-9f91-44c5-b924-d9221bdee1e7",
+      "createTime": "2025-06-03T07:32:53.489Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "3bfb3142-fb86-4526-8c46-20b85ba5ac15",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "46c81389-71a7-4ad9-be03-5c28b31f7465",
+      "createTime": "2025-06-03T07:33:25.875Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "3baa9d8a-72a8-4e36-b6bf-b293ae2f316a",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "03062776-2ee8-4263-9ec3-22469fe96b80",
+      "createTime": "2025-05-30T02:28:41.575Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "8a693456-2d4e-4241-9789-17384bd7838b",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "b05c5d87-ee7c-41be-a92a-81d16cc64f8e",
+      "createTime": "2025-06-03T07:28:24.831Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "92a0726a-aeef-496b-9af3-e847b26f0cc8",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "b6725f7d-06ee-4913-9bff-8e7f50080a28",
+      "createTime": "2025-05-27T18:22:03.683Z",
+      "memberInfo": "CXNK00A5F0B4"
+    },
+    {
+      "_id": "ce0ae987-4ebf-4daf-b9ef-e4665855de35",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "6fa2dbb3-1b47-4850-8740-57b36b2093ec",
+      "createTime": "2025-05-29T09:24:27.345Z",
+      "memberInfo": "04:BC:9F:21:D0:6D",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "38592620-be9a-4233-a62d-118d76987095",
+      "orgId": "50",
+      "groupId": "a08eab12-ba83-4cf9-9550-425b4306be93",
+      "createTime": "2025-06-09T06:55:43.356Z",
+      "memberInfo": "reg123"
+    },
+    {
+      "_id": "581420fe-34b4-4d11-acb4-4206295c4820",
+      "orgId": "50",
+      "groupId": "700f05b3-dfc5-48df-92ac-8e28b147cbf7",
+      "createTime": "2025-06-09T06:56:11.212Z",
+      "memberInfo": "b576da97-7a9d-4f87-8f74-ce2e45c4e397"
+    },
+    {
+      "_id": "fded65ac-59ac-42ae-9d39-94e8c3f236bc",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "67c9bbad-af7d-4b71-a62c-fad3e65de797",
+      "createTime": "2025-06-03T07:49:09.810Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "896743b7-dc0a-4ea3-98c9-0d03062b539b",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "cb216ac3-4a22-4f48-b55b-1c74cbdb4453",
+      "createTime": "2025-05-29T03:04:11.357Z",
+      "memberInfo": "CXNK0151C33B"
+    },
+    {
+      "_id": "57d55fc1-5f0a-4668-bf82-371ccee0316d",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "c6131123-c71c-42b7-a05b-51e08e8108b9",
+      "createTime": "2025-06-03T08:20:31.749Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "142dee80-d361-40b0-84a9-f6a84a7acf01",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "2921976d-06a7-4782-b380-7161c644607b",
+      "createTime": "2025-05-29T03:14:41.117Z",
+      "memberInfo": "PONREG123",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "a9afb6eb-4e74-4c2b-be49-b90a8c464ab3",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "6fa2dbb3-1b47-4850-8740-57b36b2093ec",
+      "createTime": "2025-05-29T09:22:17.544Z",
+      "memberInfo": "PONREG123",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "031fc891-92fd-446f-8ab0-d201df04be68",
+      "type": "Registration ID",
+      "orgId": "50",
+      "groupId": "134137f1-0cf9-49e1-8c0a-54f9aa261b89",
+      "createTime": "2025-05-29T18:21:59.256Z",
+      "memberInfo": "ponreg123",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "00dd9eaa-fb5a-4164-9dd0-38ca54e60880",
+      "type": "Registration ID",
+      "orgId": "50",
+      "groupId": "894690dd-4f2e-416e-ab87-91ae7586a0de",
+      "createTime": "2025-05-29T09:34:23.859Z",
+      "memberInfo": "ponreg123",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "55444c90-5ee0-4cce-ae87-217998b6df15",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "756d9f56-5e6c-4f72-8fd5-e9beca9dcc51",
+      "createTime": "2025-05-29T03:16:06.977Z",
+      "memberInfo": "AEREG123",
+      "deviceRecordId": "50-60DB98-CXNK00AFB83B"
+    },
+    {
+      "_id": "491247dc-72c7-4c6a-8dc3-3be721344a0a",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "af9f3174-66fc-49fd-9e65-887191ac6aab",
+      "createTime": "2025-05-26T08:56:30.883Z",
+      "memberInfo": "CXNK00A5F0B4"
+    },
+    {
+      "_id": "b41652ee-bd41-49b8-854d-eb2b0d0886bf",
+      "orgId": "50",
+      "groupId": "a444f777-3d65-4544-89c8-5d5833741161",
+      "createTime": "2025-06-06T09:17:12.694Z",
+      "memberInfo": "reg123"
+    },
+    {
+      "_id": "e12c9a93-aaee-4af5-9bff-fd94b0908243",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "c9a90a5f-f3e6-411a-8eef-ead743866267",
+      "createTime": "2025-06-06T17:22:14.836Z",
+      "memberInfo": "CXNK00AFB83B",
+      "deviceRecordId": "50-60DB98-CXNK00AFB83B"
+    },
+    {
+      "_id": "802183f4-b589-4f94-ac3b-1346e5dac0ef",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "d90d3cbe-be1f-4863-b69f-707f2d18f84b",
+      "createTime": "2025-05-26T08:52:51.080Z",
+      "memberInfo": "CXNK00A5F0B4"
+    },
+    {
+      "_id": "ee8d034c-805a-4660-9824-abdd6b4ad16d",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "759f2b06-ab75-46cd-bbf4-5274923fc757",
+      "createTime": "2025-05-26T09:10:14.038Z",
+      "memberInfo": "CXNK00A5F0B41"
+    },
+    {
+      "_id": "726b521f-a1d9-480a-a1f9-71309363cf9d",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "d53acebb-9d3a-4e08-abd3-4579458800a8",
+      "createTime": "2025-06-05T14:23:15.463Z",
+      "memberInfo": "CXNK00AFB83B",
+      "deviceRecordId": "50-60DB98-CXNK00AFB83B"
+    },
+    {
+      "_id": "52c9a52f-858e-4d35-b40d-412f41eeeccd",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "ccabd66f-81f4-496b-ac34-c2dd2ba529f8",
+      "createTime": "2025-05-29T03:17:58.790Z",
+      "memberInfo": "60:DB:98:6F:27:DD",
+      "deviceRecordId": "50-60DB98-CXNK00AFB83B"
+    },
+    {
+      "_id": "61c586c7-2cde-4429-ab97-96d6e909aa3b",
+      "type": "MAC Address",
+      "orgId": "50",
+      "groupId": "1f9f7291-e90b-4737-9abc-d811629910aa",
+      "createTime": "2025-05-30T06:59:45.682Z",
+      "memberInfo": "c65a5cdc-3787-4620-8729-1d6d3ec0396d",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "dc67fadd-98d7-4485-81d6-5a5f8097596c",
+      "type": "Registration ID",
+      "orgId": "50",
+      "groupId": "c0448a8a-18d5-4f28-939d-64310c6d5603",
+      "createTime": "2025-05-29T09:37:39.519Z",
+      "memberInfo": "ponreg123",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "c87adebd-2599-43af-bfa2-fac050493460",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "createTime": "2023-08-08T10:40:59.607Z",
+      "memberInfo": "EYTERYRTYU"
+    },
+    {
+      "_id": "62cee551-87e9-45b7-afda-41247a66166a",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "memberInfo": "CXNK87898765"
+    },
+    {
+      "_id": "7cad8ae1-45f5-4181-ba37-afb4aee697ad",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "d0155fa6-b2ca-4779-80f5-a129492839d6",
+      "createTime": "2025-06-06T17:38:43.321Z",
+      "memberInfo": "CXNK00AFB83B",
+      "deviceRecordId": "50-60DB98-CXNK00AFB83B"
+    },
+    {
+      "_id": "b0ba9e3d-10f3-4387-bdc7-c174bad8d16e",
+      "type": "MAC Address",
+      "orgId": "50",
+      "groupId": "358fd051-9a6a-401d-b7a9-694c40dc356d",
+      "createTime": "2025-05-29T09:34:20.931Z",
+      "memberInfo": "04:bc:9f:21:d0:6d",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "7b8012df-c8f9-449a-a3a8-b5c0848f25bc",
+      "type": "MAC Address",
+      "orgId": "50",
+      "groupId": "6aa339f8-fb58-490c-aeed-59680a12fc5d",
+      "createTime": "2025-05-29T09:44:38.428Z",
+      "memberInfo": "04:bc:9f:21:d0:6d",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "2f746b77-2bb9-4417-9c05-2680edea6d50",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "ed1d8e8b-080f-4d22-b7cc-47169adf5ed8",
+      "createTime": "2025-05-29T09:57:19.106Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "07f339c4-fbc0-4a06-a546-aa61ecdce11a",
+      "orgId": "50",
+      "groupId": "da5cb757-4489-4551-bcb4-d26291f5cd92",
+      "createTime": "2025-06-06T09:33:35.143Z",
+      "memberInfo": "reg123"
+    },
+    {
+      "_id": "b679b5a1-fa1c-4c09-b5e7-dacc3c872500",
+      "type": "Registration ID",
+      "orgId": "50",
+      "groupId": "2530ea96-7a8b-44b7-90f5-afa63c2d5eab",
+      "createTime": "2025-05-29T09:57:16.214Z",
+      "memberInfo": "ponreg123",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "8ff1e523-7aba-44f3-872e-5550d9a578ba",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "78fdd54a-af11-4f35-8cff-a065b1253562",
+      "createTime": "2025-05-29T09:34:26.661Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "0935e1e9-bab0-474d-b2f7-f0cb273996fc",
+      "type": "MAC Address",
+      "orgId": "50",
+      "groupId": "576ffb14-3f9b-469a-841a-c3d8fcc67de1",
+      "createTime": "2025-05-29T09:37:37.506Z",
+      "memberInfo": "04:bc:9f:21:d0:6d",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "8ca50468-b9f3-4a17-8e31-80af0ad3fc72",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "963f3638-8f15-400d-9614-e952bfd3267a",
+      "createTime": "2025-05-29T09:37:41.370Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "9be1cd86-4d4f-4a4e-a74b-15bbfe4b8f18",
+      "type": "Registration ID",
+      "orgId": "50",
+      "groupId": "be57e1ed-3bda-44cc-a0c9-53c873f415d5",
+      "createTime": "2025-05-29T09:44:41.173Z",
+      "memberInfo": "ponreg123",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "795e1c2e-0f88-468b-af4a-1956612f28e6",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "2856ab4f-f8c1-46b3-b537-3925edb4acf6",
+      "createTime": "2025-05-29T09:44:43.970Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "36318dd4-faa3-4d4c-a2b7-7eaf97b34f22",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "759f2b06-ab75-46cd-bbf4-5274923fc757",
+      "createTime": "2025-05-26T09:09:13.603Z",
+      "memberInfo": "CXNK00A5F0B4"
+    },
+    {
+      "_id": "024bbc07-86f6-4650-8622-e1f236eb04b9",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "aa99252e-232f-4215-9f17-15cda49a53eb",
+      "createTime": "2025-05-09T06:05:20.826Z",
+      "memberInfo": "CXNK00A5F0B4"
+    },
+    {
+      "_id": "57ed4172-cc85-4099-98c2-9bb77acceee1",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "f1830863-b91f-44ea-a177-963d2a813bc4",
+      "createTime": "2025-05-09T06:10:47.948Z",
+      "memberInfo": "CXNK00A5F0B4"
+    },
+    {
+      "_id": "44df9344-273b-4405-9c38-4ba484f3e990",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "aaa6207e-22a6-4375-b8c9-db7c34b17b7c",
+      "createTime": "2025-05-09T06:14:20.824Z",
+      "memberInfo": "CXNK00A5F0B4"
+    },
+    {
+      "_id": "65a53bd4-8cb9-4bac-ad89-0b4fb47d3471",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "81eb6bbb-9552-43c1-8e80-043c911dcae3",
+      "createTime": "2025-05-09T06:34:28.500Z",
+      "memberInfo": "CXNK00A5F0B4"
+    },
+    {
+      "_id": "eb5e404d-b7ba-4c43-a9da-a502efc43cbb",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "3eb4eeaa-259e-4782-b8f6-59bf2403bc4a",
+      "createTime": "2025-05-09T07:25:00.587Z",
+      "memberInfo": "CXNK00A5F0B4"
+    },
+    {
+      "_id": "d1965f65-ff82-4da6-9556-eecfecc972e7",
+      "type": "MAC Address",
+      "orgId": "50",
+      "groupId": "aa9fb2f8-6ee4-4855-a8f2-105deeac3d03",
+      "createTime": "2025-05-29T09:57:13.532Z",
+      "memberInfo": "04:bc:9f:21:d0:6d",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "30c0e689-d3df-4357-a4c8-0b70ac566cb3",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "4273ebe1-43e6-4ea3-8057-b0c09e5eca73",
+      "createTime": "2025-05-29T04:35:23.434Z",
+      "memberInfo": "60:DB:98:6F:27:DD",
+      "deviceRecordId": "50-60DB98-CXNK00AFB83B"
+    },
+    {
+      "_id": "2d2ffe13-b410-41b7-83cd-d21b04d596b3",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "f6e3abf4-02cf-4ec4-937d-56c7eeec8524",
+      "createTime": "2025-05-29T04:35:53.436Z",
+      "memberInfo": "60:DB:98:6F:27:DD",
+      "deviceRecordId": "50-60DB98-CXNK00AFB83B"
+    },
+    {
+      "_id": "4ff87616-2178-4b19-b21d-d589a4ebd34e",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "d53ea798-ca17-45e2-937e-bbc0e1b686c0",
+      "createTime": "2025-05-29T04:36:30.018Z",
+      "memberInfo": "60:DB:98:6F:27:DD",
+      "deviceRecordId": "50-60DB98-CXNK00AFB83B"
+    },
+    {
+      "_id": "8b8aad62-1b98-4cc0-8b99-b0f1ceb55ebb",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "4a1815f6-3d39-4231-a9cd-3156c22ba8e1",
+      "createTime": "2025-05-26T09:39:11.656Z",
+      "memberInfo": "CXNK00A5F0B4"
+    },
+    {
+      "_id": "890ecfe7-84ec-45ad-9662-364e6e8c1544",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "14719579-375d-4ed0-8176-8a95f512aded",
+      "createTime": "2025-06-04T05:19:41.574Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "2348422d-cc83-428f-b644-0115ca1962a9",
+      "orgId": "50",
+      "groupId": "bbd6cca0-bcd2-4be8-a6a8-8dc1d06763db",
+      "createTime": "2025-05-29T05:23:16.371Z",
+      "memberInfo": "CXNK0151C33B"
+    },
+    {
+      "_id": "2eb588bc-64bc-4cac-be03-d46add2dfcbc",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK0151C2CE"
+    },
+    {
+      "_id": "228c1383-8a5c-4e3e-a6f2-db6015a2d5e1",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK0151EA27"
+    },
+    {
+      "_id": "56e801cd-ca84-4789-bce0-7ae3e9d525a2",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00008080"
+    },
+    {
+      "_id": "5cc5c30a-3769-4738-b768-5548747a9b75",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK001870A5"
+    },
+    {
+      "_id": "1763c913-999d-4a12-8760-1f3d8e6228ee",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK001D1D46"
+    },
+    {
+      "_id": "ff85eaf6-5ea9-4b2b-be03-7b227788c7be",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK001D1E89"
+    },
+    {
+      "_id": "641fd501-116b-4853-bc53-65182786e898",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK005A85A8"
+    },
+    {
+      "_id": "0c1704f4-29c1-4661-9c4a-eef774ac04a8",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK005A9668"
+    },
+    {
+      "_id": "c488c88d-70a3-45c8-acf7-fb8af8632a2a",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK0064E77F"
+    },
+    {
+      "_id": "d2e00b88-96e4-44c6-bea4-71caf5b56096",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK007677F6"
+    },
+    {
+      "_id": "af9d9b64-8b5e-469b-a669-1dcf0e57ab1f",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "1d0555fd-a529-4589-9e02-0da1449dbeb5",
+      "createTime": "2025-06-04T06:04:06.064Z",
+      "memberInfo": "CXNK0151C33B"
+    },
+    {
+      "_id": "c66255dd-b038-4b16-9b8a-18d48c4e7571",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "createTime": "2023-08-17T13:56:29.686Z",
+      "memberInfo": "CXNK87654567"
+    },
+    {
+      "_id": "2f122dae-9037-4c08-b16d-fac3cf0fc241",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00778D07"
+    },
+    {
+      "_id": "7fb26998-b3af-40c2-8f1d-4521ca280304",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00778D59"
+    },
+    {
+      "_id": "ab554a66-2149-405f-a543-2050b601c139",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00791D69"
+    },
+    {
+      "_id": "c18478f1-58bb-4e26-bf26-f83de85de112",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00891A87"
+    },
+    {
+      "_id": "72c2adb2-3298-48e4-8ff5-e1150b570667",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00891AA0"
+    },
+    {
+      "_id": "a2123f43-8f84-42d6-b2ed-c8ab75005640",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00A5F0B5"
+    },
+    {
+      "_id": "2ab78980-ff9b-40f6-acf3-49cd7e448184",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00AFB833"
+    },
+    {
+      "_id": "cf3af2fb-99ba-4d1e-b0d7-44e996c08945",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00CC9399"
+    },
+    {
+      "_id": "a3a184de-6a23-450e-8195-b6cfabfef356",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00CC93A1"
+    },
+    {
+      "_id": "e6bcbc5c-bd5e-4c4a-98c1-549d4e2e14d9",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00CC93A6"
+    },
+    {
+      "_id": "c044502b-b138-4fc1-ad64-50d23f44a5f5",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00CE9548"
+    },
+    {
+      "_id": "d8e52fe3-92d2-4b3c-bd9c-e830e20c35cb",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00CE95C7"
+    },
+    {
+      "_id": "f27f23cd-288f-47e4-9dc4-81e725b55103",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00CE9708"
+    },
+    {
+      "_id": "433f6479-6503-4b31-9c3c-4eb7656d108c",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00CE970E"
+    },
+    {
+      "_id": "fa8eb374-263a-4cb8-8078-ed290410d2f1",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00DBB682"
+    },
+    {
+      "_id": "7ba9f99f-e4a4-485b-b6bf-b93af275aaf6",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00DBB6AE"
+    },
+    {
+      "_id": "5d791bdb-9c12-410d-83b9-7420823eb110",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00DBB785"
+    },
+    {
+      "_id": "b6814c58-217a-496e-b7b4-0066e4f530d4",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00DF9D95"
+    },
+    {
+      "_id": "7faebc00-a5d3-4262-baf5-dd60e4beb93e",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00E4F54B"
+    },
+    {
+      "_id": "69dce26d-801f-41ea-b49d-a12c4d2e3064",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00E5CCB9"
+    },
+    {
+      "_id": "954b9531-50bf-415a-a93b-4cd3220a6772",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00E5CCBC"
+    },
+    {
+      "_id": "6dc69776-5108-4be5-8e2b-a87bfdb84423",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00FEEEAA"
+    },
+    {
+      "_id": "206b465b-98f3-46f6-afb9-8f798a137dee",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00FF11E8"
+    },
+    {
+      "_id": "deca3a35-edb9-4f4a-8505-54abd48b6c07",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00FF9B43"
+    },
+    {
+      "_id": "27fc25dd-e8b8-4e15-91aa-da63aa7224d5",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00FF9B95"
+    },
+    {
+      "_id": "8c7a8448-1b93-419d-b696-f8ecc710cfdf",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK00FF9B99"
+    },
+    {
+      "_id": "9600f9b6-f507-439f-b279-a683a09030fa",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK01000D60"
+    },
+    {
+      "_id": "a5fa768a-003f-4744-abea-c924fc2cc339",
+      "orgId": "50",
+      "groupId": "86b93eb5-f480-4883-ae69-9c33112a5120",
+      "createTime": "2025-06-04T06:05:29.028Z",
+      "memberInfo": "CXNK0151C33B"
+    },
+    {
+      "_id": "d0c6f638-5b05-449a-9bac-b357c7980b07",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK01019BC7"
+    },
+    {
+      "_id": "8cd0ec45-1abb-4994-a926-380f0ca5eb6c",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK0127B057"
+    },
+    {
+      "_id": "91f82f62-1c04-4067-98fe-11266d5cb13e",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK015198DD"
+    },
+    {
+      "_id": "8e7b7a38-06cf-45dc-b462-c48074fde8fb",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK01519954"
+    },
+    {
+      "_id": "4342fcc9-860e-422a-91bc-80f1832333e9",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK0151D7C3"
+    },
+    {
+      "_id": "123fc392-d1be-483e-8188-bc4c634cd96e",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK016EFE43"
+    },
+    {
+      "_id": "f69cb886-cbd9-4d82-b1eb-6faf6f9cd49f",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK017FCE64"
+    },
+    {
+      "_id": "91d2fc33-c005-451c-b5ab-904c4615d029",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK017FD0B9"
+    },
+    {
+      "_id": "447a6b6d-9003-4cf7-b1d5-cf6f8e6497e7",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK017FD17A"
+    },
+    {
+      "_id": "bcb81607-ff5c-4a4a-84ae-96bba07beed2",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "CXNK017FD349"
+    },
+    {
+      "_id": "268cf701-d033-485e-8079-d6dee4a535a0",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "MSTC00000016"
+    },
+    {
+      "_id": "e93c49bf-3d4c-4afa-8b66-b24465fddf3b",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "MSTC00000113"
+    },
+    {
+      "_id": "a280e408-bda1-4e6b-b54c-b7f2ad05053a",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "MSTC00000240"
+    },
+    {
+      "_id": "bb75e485-4880-428c-baf3-61e8956837b4",
+      "orgId": "50",
+      "groupId": "8a53f2cd-8e63-40b0-8549-8bc8aae0337e",
+      "memberInfo": "MSTC00003344"
+    },
+    {
+      "_id": "efbc59db-5f5c-42b7-ba41-c555248cafa9",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "af345494-655c-4b42-a3d0-0bafcea8cb67",
+      "createTime": "2025-06-04T06:07:46.006Z",
+      "memberInfo": "CXNK00AFB83B",
+      "deviceRecordId": "50-60DB98-CXNK00AFB83B"
+    },
+    {
+      "_id": "ec348893-500b-4361-a9be-36629c76f5a4",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "b8f30030-9ee7-4805-acd8-5651bc8c8213",
+      "createTime": "2025-06-04T06:11:45.738Z",
+      "memberInfo": "CXNK00AFB83B",
+      "deviceRecordId": "50-60DB98-CXNK00AFB83B"
+    },
+    {
+      "_id": "e87f6aab-6d1d-4f8a-bf8f-72948afb41d2",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "31338209-6039-4b15-93ca-8383ae1a0e14",
+      "createTime": "2025-06-04T06:12:37.479Z",
+      "memberInfo": "CXNK00AFB83B",
+      "deviceRecordId": "50-60DB98-CXNK00AFB83B"
+    },
+    {
+      "_id": "d789620b-e4e7-4cce-9e72-87384800c3a3",
+      "type": "MAC Address",
+      "orgId": "50",
+      "groupId": "ba138a3c-df5f-41d4-9315-080e523b5a4f",
+      "createTime": "2025-06-04T06:34:18.245Z",
+      "memberInfo": "04:bc:9f:21:d0:6d",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "df5cc6e1-eded-4be2-a916-d9d487fc7bac",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "b55671c4-7342-4edb-b78d-4f3bf93912c7",
+      "createTime": "2025-06-04T06:34:22.213Z",
+      "memberInfo": "CXNK0151C334",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "4b897f07-7e48-4d2e-a5c6-2df296412ff3",
+      "orgId": "50",
+      "groupId": "12f7b02d-c39f-4c93-afb5-ee0a3f90bb3c",
+      "createTime": "2025-06-04T06:37:46.450Z",
+      "memberInfo": "reg123"
+    },
+    {
+      "_id": "23022bad-8fc1-47da-a65a-742598cca193",
+      "orgId": "50",
+      "groupId": "f8f89079-9ad4-495a-9e19-304039158a92",
+      "createTime": "2025-06-04T06:19:24.906Z",
+      "memberInfo": "CXNK01A8D0C71"
+    },
+    {
+      "_id": "50124260-cb64-4df9-b5fd-c968d145191a",
+      "orgId": "50",
+      "groupId": "ae341692-398b-48ce-9ac1-25de85cb2107",
+      "createTime": "2025-06-04T06:29:55.839Z",
+      "memberInfo": "CXNK01A8D0C71"
+    },
+    {
+      "_id": "dd7cfdcf-ccdd-481f-a89a-a25e4623287b",
+      "orgId": "50",
+      "groupId": "7a52a4be-a9f1-4355-9598-46ebd7c302e1",
+      "createTime": "2025-06-04T08:27:51.503Z",
+      "memberInfo": "create_provisioning_record"
+    },
+    {
+      "_id": "e6e241f7-e360-4576-9baf-a85bbcc7c3ee",
+      "orgId": "50",
+      "groupId": "54cae170-8fcf-4ba3-aebe-e772e84c710d",
+      "createTime": "2025-06-04T08:40:15.559Z",
+      "memberInfo": "reg123"
+    },
+    {
+      "_id": "804476ad-7a18-4c87-94e0-8811c75c33c8",
+      "type": "Registration ID",
+      "orgId": "50",
+      "groupId": "8df76061-6007-4469-9a79-7b39f976fc67",
+      "createTime": "2025-06-04T06:34:19.573Z",
+      "memberInfo": "ponreg123",
+      "deviceRecordId": "50-04BC9F-CXNK0151C334"
+    },
+    {
+      "_id": "934add67-a0a7-4e3f-8c0b-21d8c1b6d7aa",
+      "orgId": "50",
+      "groupId": "461f197c-2de1-4d4d-ba52-6c2ddd1b2c17",
+      "createTime": "2025-06-04T06:34:20.872Z",
+      "memberInfo": "eaec5289-e4a3-476e-ad2b-561ea5b9881a"
+    },
+    {
+      "_id": "c1f52305-4953-423e-bd08-51d9dfbd0581",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "memberInfo": "4567876"
+    },
+    {
+      "_id": "b7dd643e-9daa-4056-9e54-d63f4ac9edb7",
+      "orgId": "50",
+      "groupId": "9013b28a-3e19-4eac-9224-d135fba0baab",
+      "createTime": "2025-06-04T08:54:23.987Z",
+      "memberInfo": "reg123"
+    },
+    {
+      "_id": "5e2a70af-3a5c-47d3-8d38-13d300233882",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "memberInfo": "CXNK0043983A2"
+    },
+    {
+      "_id": "c5f6779f-cbb4-4119-9e8e-d925320829ea",
+      "orgId": "50",
+      "groupId": "619e12d1-d2f8-44fa-b973-49b02d03a0b0",
+      "memberInfo": "wqdxwqAXZ"
+    },
+    {
+      "_id": "a60baedd-86af-418c-a72a-4efbdfb08d59",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "1480e57b-d797-4e4d-aeed-facb05320a79",
+      "createTime": "2025-06-04T11:27:56.303Z",
+      "memberInfo": "CXNK00AFB83B",
+      "deviceRecordId": "50-60DB98-CXNK00AFB83B"
+    },
+    {
+      "_id": "0d80ab34-9790-45c5-ae03-53bf9fdd2d6c",
+      "type": "FSAN",
+      "orgId": "50",
+      "groupId": "8e938af1-1174-40d6-8c30-ed76803f78e9",
+      "createTime": "2025-06-04T13:16:33.470Z",
+      "memberInfo": "CXNK00AFB83B",
+      "deviceRecordId": "50-60DB98-CXNK00AFB83B"
+    }
+  ]
+}
