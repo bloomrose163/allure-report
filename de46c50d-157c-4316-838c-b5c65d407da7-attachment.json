@@ -1,6 +1,0 @@
-{
-  "Status Code": 400,
-  "Body": {
-    "error": "Missing Mandatory Field type; Missing Mandatory Field name"
-  }
-}

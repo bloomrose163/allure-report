@@ -1,0 +1,58 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "configurations": [
+      {
+        "id": "5816ddf4-6cfd-4855-a85c-2e09565b2e59",
+        "category": "Data Service",
+        "parameterValues": {
+          "X_000631_VlanMux8021p": 4,
+          "productFamily": "EXOS",
+          "defaultConnectionService": true,
+          "X_000631_Dscp2PbitMapEnabled": true,
+          "ConnectionType": "IP_Routed",
+          "X_000631_VlanMuxID": 300,
+          "FramingType": "IPoE",
+          "Mode": "RG Routed",
+          "NATEnabled": true,
+          "version": "v4",
+          "X_000631_IGMPProxy": false,
+          "X_000631_IPv4Enabled": true,
+          "X_000631_IPv6Enabled": false,
+          "AddressingType": "DHCP",
+          "ServiceConnectionType": "DHCP"
+        }
+      }
+    ],
+    "serviceOrchestration": {
+      "category": "Data Service",
+      "framingType": "IPoE",
+      "vlanId": 300,
+      "productFamily": "EXOS",
+      "mode": "RG Routed",
+      "defaultConnectionService": true,
+      "ipVersion": "v4",
+      "orgId": "2550",
+      "name": "service_orchestration_profileK8Mi8x",
+      "pBits": 4,
+      "dscp2PbitMap": true,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdDynamic": false,
+      "6rdIpv4MaskLen": 8,
+      "6rdPrefix": "2001:1234::/32",
+      "6rdPrefixPltime": 2,
+      "6rdValidPltime": 2,
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "iana": false,
+      "iapd": false,
+      "dhcp6cForAddress": "none ",
+      "iapdLength": "no"
+    },
+    "_id": "2fa05ee2-284a-4d84-b502-13a3e41c94f8",
+    "name": "Service Orchestration ~ service_orchestration_profileK8Mi8x",
+    "orgId": "2550"
+  }
+}

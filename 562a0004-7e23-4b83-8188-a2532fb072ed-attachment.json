@@ -1,0 +1,14 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "660ee892-5d3c-4de0-80a3-d0805fd8d7b2",
+    "allowInheritance": true,
+    "completedCount": 0,
+    "description": "system group description",
+    "name": "grouptYkTIU",
+    "orgId": "2550",
+    "type": "static",
+    "uncompletedCount": 0,
+    "workflowCount": 0
+  }
+}
