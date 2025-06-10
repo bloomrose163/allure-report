@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.dev1.xilac.net/cc/configuration-profile?orgId=2550&limit=2",
-  "Params": {
-    "limit": 2
-  },
-  "Body": null
-}

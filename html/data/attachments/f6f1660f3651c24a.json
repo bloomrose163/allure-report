@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://gcs-stg.calix.com:8081/cc/static-group-member/count?orgId=50&bUndiscovered=False",
-  "Params": {
-    "bUndiscovered": "False"
-  },
-  "Body": null
-}

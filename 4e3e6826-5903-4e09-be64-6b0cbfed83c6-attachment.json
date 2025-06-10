@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://gcs-stg.calix.com:8081/cc/device/count?orgId=50&modelName=GS4229E",
-  "Params": {
-    "modelName": "GS4229E"
-  },
-  "Body": null
-}

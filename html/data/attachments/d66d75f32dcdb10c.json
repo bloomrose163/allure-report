@@ -1,8 +1,0 @@
-{
-  "Method": "DELETE",
-  "URL": "http://gcs-stg.calix.com:8081/cc/workflow?orgId=50&name=workflowhBjghi",
-  "Params": {
-    "name": "workflowhBjghi"
-  },
-  "Body": null
-}

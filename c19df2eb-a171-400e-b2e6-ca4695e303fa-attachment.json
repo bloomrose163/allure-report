@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.testx.xilac.net/cc/device/count?orgId=2550&skip=10",
-  "Params": {
-    "skip": 10
-  },
-  "Body": null
-}

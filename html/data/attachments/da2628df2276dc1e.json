@@ -1,4 +1,0 @@
-{
-  "Status Code": 200,
-  "Body": "[{\n  \"error\" : \"Internal Server Error (ACS DB Timed Out)! Please contact Calix Support Team.\"\n}\n"
-}

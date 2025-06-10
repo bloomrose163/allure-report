@@ -1,6 +1,0 @@
-{
-  "Status Code": 404,
-  "Body": {
-    "error": "No device found with the given query filter!"
-  }
-}

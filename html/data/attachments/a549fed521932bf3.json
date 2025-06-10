@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.testx.xilac.net/cc/device/count?orgId=2550&additionalHardwareVersion=",
-  "Params": {
-    "additionalHardwareVersion": ""
-  },
-  "Body": null
-}

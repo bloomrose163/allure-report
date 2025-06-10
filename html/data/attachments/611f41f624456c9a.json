@@ -1,8 +1,0 @@
-{
-  "Method": "DELETE",
-  "URL": "http://gcs-stg.calix.com:8081/cc/configuration-profile?orgId=50&name=test_ds_hk2_tp4",
-  "Params": {
-    "name": "test_ds_hk2_tp4"
-  },
-  "Body": null
-}

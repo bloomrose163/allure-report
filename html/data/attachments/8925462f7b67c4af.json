@@ -1,6 +1,0 @@
-{
-  "Status Code": 403,
-  "Body": {
-    "error": "This group is currently used by active Worklow record(s) thus can't be deleted."
-  }
-}

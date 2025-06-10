@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.testx.xilac.net/cc/device?orgId=2550&modelName=GS4229E",
-  "Params": {
-    "modelName": "GS4229E"
-  },
-  "Body": null
-}
