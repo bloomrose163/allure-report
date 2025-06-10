@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://acs-api.testx.xilac.net/cc/device?orgId=2550&lastBootTime=2025-04-09T03%3A35%3A35.238Z",
+  "Params": {
+    "lastBootTime": "2025-04-09T03:35:35.238Z"
+  },
+  "Body": null
+}

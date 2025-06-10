@@ -1,0 +1,31 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.testx.xilac.net/cc/configuration-profile?orgId=2550",
+  "Params": null,
+  "Body": {
+    "name": "configuration_profilew35y6n",
+    "configurations": [
+      {
+        "category": "Data Service",
+        "parameterValues": {
+          "productFamily": "EXOS",
+          "Mode": "RG Routed",
+          "defaultConnectionService": true,
+          "FramingType": "IPoE",
+          "X_CALIX_SXACC_BW_PROFILE": "5f08a9fe-2d1f-41cf-8c46-6b98d89a92d5apple",
+          "version": "v4",
+          "VlanTagAction": true,
+          "X_000631_VlanMuxID": 888,
+          "X_000631_VlanMux8021p": 0,
+          "NATEnabled": true,
+          "X_000631_IGMPProxy": false,
+          "ServiceConnectionType": "DHCP",
+          "X_000631_IPv4Enabled": true,
+          "X_000631_IPv6Enabled": false,
+          "ConnectionType": "IP_Routed",
+          "AddressingType": "DHCP"
+        }
+      }
+    ]
+  }
+}

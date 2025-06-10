@@ -1,0 +1,6 @@
+{
+  "Status Code": 409,
+  "Body": {
+    "error": "Cannot Assign Multiple Provisioning Records to the Same Device"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Method": "GET",
+  "URL": "http://acs-api.testx.xilac.net/cc/configuration-profile?orgId=2550&limit=2&skip=0",
+  "Params": {
+    "limit": 2,
+    "skip": 0
+  },
+  "Body": null
+}

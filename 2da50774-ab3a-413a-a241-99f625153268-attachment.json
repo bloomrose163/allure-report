@@ -1,0 +1,10 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.testx.xilac.net/cc/service-orchestration-profile",
+  "Params": null,
+  "Body": {
+    "category": "Video Service",
+    "productFamily": "EXOS",
+    "name": "service_orchestration_profile4SdBD7"
+  }
+}

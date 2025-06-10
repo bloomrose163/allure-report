@@ -1,0 +1,8 @@
+{
+  "Method": "DELETE",
+  "URL": "http://acs-api.testx.xilac.net/cc/static-group-member?orgId=2550&deviceRecordId=2550-e46cd1-CXNK01A8D0C7",
+  "Params": {
+    "deviceRecordId": "2550-e46cd1-CXNK01A8D0C7"
+  },
+  "Body": null
+}
