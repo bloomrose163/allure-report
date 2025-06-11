@@ -1,0 +1,20 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "name": "service_orchestration_profileRiaGzK",
+    "orgId": "2550",
+    "vlans": [
+      {
+        "ranges": [
+          {
+            "end": "224.0.0.4",
+            "start": "224.0.0.0"
+          }
+        ],
+        "vlanId": 32
+      }
+    ],
+    "category": "Video - Multicast VLAN Registration (MVR)",
+    "_id": "a4d9981a-a673-451b-992f-ced6e462c714"
+  }
+}

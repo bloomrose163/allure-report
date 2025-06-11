@@ -1,8 +1,0 @@
-{
-  "Method": "DELETE",
-  "URL": "http://acs-api.testx.xilac.net/cc/static-group-member?orgId=2550&_id=cf0844bd-8263-4fca-92e3-f55b78f1ce66",
-  "Params": {
-    "_id": "cf0844bd-8263-4fca-92e3-f55b78f1ce66"
-  },
-  "Body": null
-}

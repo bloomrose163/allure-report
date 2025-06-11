@@ -1,6 +1,0 @@
-{
-  "Status Code": 500,
-  "Body": {
-    "error": "could not execute statement [ERROR: null value in column \"days_of_month\" of relation \"ref_device_workflows\" violates not-null constraint\n  Detail: Failing row contains (5777e989-c984-4a62-bce5-62504114365a, null, 2025-06-10 18:28:19.594, created by apple, null, null, null, null, OnBoot, CPE_Event, null, null, null, null, null, null, null, null, f, workflowwiTun0, null, 2550, t, null, null, In_Progress, 0, null, null, null, null).] [insert into core.ref_device_workflows (cpe_matcher,create_time,description,end_time,exec_count,exec_passive_start,passive_exec_id,cpe_event,trigger_type,retry_count,days_of_month,end_date_time,frequency,recurrence,start_date_time,timezone,weekdays,window_length,window_type,full_group_execute,name,next_run_time,org_id,prior_new_and_failed,source,start_time,state,tenant_id,type,update_time,id) values (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)]"
-  }
-}
