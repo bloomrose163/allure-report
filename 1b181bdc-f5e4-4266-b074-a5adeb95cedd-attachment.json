@@ -1,0 +1,42 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "configurations": [
+      {
+        "id": "dfd94aa5-f335-4c6d-8ced-e0ee6e589b10",
+        "category": "Video Service",
+        "parameterValues": {
+          "X_000631_VlanMux8021p": 4,
+          "productFamily": "EXOS",
+          "X_000631_IGMPProxy": true,
+          "X_000631_Dscp2PbitMapEnabled": true,
+          "X_000631_VlanMuxID": 260,
+          "Mode": "RG Routed",
+          "QueryInterval": 125,
+          "NATEnabled": true,
+          "ServiceConnectionType": "DHCP",
+          "X_000631_MaxStreams": 0
+        }
+      }
+    ],
+    "serviceOrchestration": {
+      "name": "service_orchestration_profileGxU7Bg",
+      "orgId": "2550",
+      "category": "Video Service",
+      "vlanId": 260,
+      "productFamily": "EXOS",
+      "mode": "RG Routed",
+      "dscp2PbitMap": true,
+      "VLAN_Enable": true,
+      "pBits": 4,
+      "BridgedInterface": [
+        "5GHz IPTV SSID"
+      ],
+      "QueryInterval": 125,
+      "MaxStreams": 0
+    },
+    "_id": "c2338afd-41ee-4b22-a2d8-c25b75567064",
+    "name": "Service Orchestration ~ service_orchestration_profileGxU7Bg",
+    "orgId": "2550"
+  }
+}

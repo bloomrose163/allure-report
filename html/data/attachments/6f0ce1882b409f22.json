@@ -1,0 +1,21 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "54b7805e-5952-4ea1-8f98-a73b80c90bc8",
+    "description": "test upgrade images",
+    "manufacturer": "Calix",
+    "models": [
+      "GM2037"
+    ],
+    "name": "imagesRhXOEr",
+    "orgId": "2550",
+    "password": "d28c26a",
+    "type": "SW/FW Image",
+    "username": "a46637f",
+    "version": "25.3.500.131",
+    "uploadUrl": "https://10.245.247.240:443/cc/images/54b7805e-5952-4ea1-8f98-a73b80c90bc8",
+    "isPublicImage": false,
+    "isOfficialImage": false,
+    "isOfficialImageEligible": false
+  }
+}

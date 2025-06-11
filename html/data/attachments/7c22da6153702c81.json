@@ -1,0 +1,11 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.testx.xilac.net/cc/group?orgId=2550",
+  "Params": null,
+  "Body": {
+    "name": "groupj5mfdF",
+    "description": "system group description",
+    "type": "dynamic",
+    "allowInheritance": true
+  }
+}

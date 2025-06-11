@@ -1,6 +1,0 @@
-{
-  "Status Code": 500,
-  "Body": {
-    "error": "could not execute statement [ERROR: null value in column \"in_condition\" of relation \"ref_system_group_filters\" violates not-null constraint\n  Detail: Failing row contains (3cd0c499-6c82-424b-ba4e-4ea113980a24, GS4227, null, null, null, null, d75e1b7f-8593-4ac5-a617-be2aef26dcb5, null, 1, null).] [insert into core.ref_system_group_filters (equal_condition,greate_equal_condition,in_condition,less_equal_condition,not_equal_condition,regex_condition,sequence,system_group_id,id) values (?,?,?,?,?,?,?,?,?)]"
-  }
-}

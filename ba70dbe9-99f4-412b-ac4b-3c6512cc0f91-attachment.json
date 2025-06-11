@@ -1,0 +1,20 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "mode": "RG Routed",
+    "name": "service_orchestration_profileHeIpiO",
+    "orgId": "2550",
+    "pBits": 6,
+    "vlanId": 265,
+    "category": "Video Service",
+    "MaxStreams": 0,
+    "VLAN_Enable": true,
+    "dscp2PbitMap": true,
+    "QueryInterval": 126,
+    "productFamily": "EXOS",
+    "BridgedInterface": [
+      "5GHz IPTV SSID"
+    ],
+    "_id": "c2338afd-41ee-4b22-a2d8-c25b75567064"
+  }
+}

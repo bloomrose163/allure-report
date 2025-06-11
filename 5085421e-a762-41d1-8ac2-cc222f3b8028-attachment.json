@@ -1,0 +1,33 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.testx.xilac.net/cc/service-orchestration-profile?orgId=2550",
+  "Params": null,
+  "Body": {
+    "category": "Data Service",
+    "framingType": "IPoE",
+    "vlanId": 300,
+    "productFamily": "EXOS",
+    "mode": "RG Routed",
+    "defaultConnectionService": true,
+    "ipVersion": "v4",
+    "orgId": "2550",
+    "name": "service_orchestration_profileGAXFAJ",
+    "pBits": 4,
+    "dscp2PbitMap": true,
+    "BridgedInterface": [
+      "5GHz IPTV SSID"
+    ],
+    "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+    "6rdDynamic": false,
+    "6rdIpv4MaskLen": 8,
+    "6rdPrefix": "2001:1234::/32",
+    "6rdPrefixPltime": 2,
+    "6rdValidPltime": 2,
+    "6rdBorderRelayAddress": "192.88.99.1",
+    "iana": false,
+    "iapd": false,
+    "dhcp6cForAddress": "none ",
+    "iapdLength": "no",
+    "bApply": true
+  }
+}

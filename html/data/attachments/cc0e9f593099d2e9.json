@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.testx.xilac.net/cc/static-group-member?orgId=2550&_id=d900bb2a-13f1-4f82-b278-4fd4a3942703",
-  "Params": {
-    "_id": "d900bb2a-13f1-4f82-b278-4fd4a3942703"
-  },
-  "Body": null
-}

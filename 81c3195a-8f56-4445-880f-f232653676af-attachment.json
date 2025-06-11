@@ -1,0 +1,51 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "configurations": [
+      {
+        "id": "0b1ec121-572c-4dfd-ab98-99975f709ed7",
+        "category": "Video Service",
+        "parameterValues": {
+          "X_000631_VlanMux8021p": 4,
+          "productFamily": "EXOS",
+          "X_000631_IGMPProxy": true,
+          "X_000631_Dscp2PbitMapEnabled": true,
+          "X_000631_VlanMuxID": -1,
+          "Mode": "RG L2 Bridged",
+          "QueryInterval": 125,
+          "ExosBridgedInterface": [
+            "InternetGatewayDevice.Layer2Bridging.AvailableInterface.6",
+            "InternetGatewayDevice.LANDevice.1.LANEthernetInterfaceConfig.2"
+          ],
+          "ServiceConnectionType": "Bridged",
+          "AnyPortAnyServiceEnabled": false,
+          "X_000631_MaxStreams": 0
+        }
+      }
+    ],
+    "serviceOrchestration": {
+      "name": "service_orchestration_profileg4JaFu",
+      "orgId": "2550",
+      "category": "Video Service",
+      "vlanId": -1,
+      "productFamily": "EXOS",
+      "mode": "RG L2 Bridged",
+      "dscp2PbitMap": true,
+      "AnyPortAnyServiceEnabled": false,
+      "APAS_EnableIPTV_SSID": false,
+      "VLAN_Enable": true,
+      "pBits": 4,
+      "BridgedInterface": [
+        "5GHz IPTV SSID",
+        "LAN Port 2"
+      ],
+      "OUI_Enable": true,
+      "OUI_FilterList": "2c:2d:2e:xx:xx:xx",
+      "QueryInterval": 125,
+      "MaxStreams": 0
+    },
+    "_id": "075896dc-2ce2-47f9-a874-cc8a89a5b7aa",
+    "name": "Service Orchestration ~ service_orchestration_profileg4JaFu",
+    "orgId": "2550"
+  }
+}
