@@ -1,0 +1,31 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "iana": false,
+    "iapd": false,
+    "mode": "RG Routed",
+    "name": "service_orchestration_profileKmUOId",
+    "orgId": "2550",
+    "pBits": 4,
+    "vlanId": 300,
+    "category": "Data Service",
+    "6rdPrefix": "2001:1234::/32",
+    "ipVersion": "v4",
+    "6rdDynamic": false,
+    "iapdLength": "no",
+    "framingType": "IPoE",
+    "dscp2PbitMap": true,
+    "productFamily": "EXOS",
+    "6rdIpv4MaskLen": 8,
+    "6rdValidPltime": 2,
+    "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+    "6rdPrefixPltime": 2,
+    "BridgedInterface": [
+      "5GHz IPTV SSID"
+    ],
+    "dhcp6cForAddress": "none ",
+    "6rdBorderRelayAddress": "192.88.99.1",
+    "defaultConnectionService": true,
+    "_id": "fd447749-902a-41f1-83d2-48336142ba22"
+  }
+}

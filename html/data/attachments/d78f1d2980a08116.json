@@ -1,0 +1,11 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "c6ca301c-467b-4e01-b4a6-be6aa67073ed",
+    "createTime": "2025-06-13T08:07:15.430Z",
+    "groupId": "a2787cef-9a33-4bff-bca3-4df162d2b6cb",
+    "memberInfo": "baa487e7-8f8b-44bd-b249-4281a2e8f5ca",
+    "orgId": "2550",
+    "allowInheritance": true
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Method": "GET",
+  "URL": "http://acs-api.testx.xilac.net/cc/device?orgId=2550&serialNumber=CXNK01A8D0C7",
+  "Params": {
+    "serialNumber": "CXNK01A8D0C7"
+  },
+  "Body": null
+}
