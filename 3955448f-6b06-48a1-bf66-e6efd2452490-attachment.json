@@ -1,0 +1,9 @@
+{
+  "Status Code": 400,
+  "Body": {
+    "timestamp": "2025-06-13T09:29:21.002+00:00",
+    "status": 400,
+    "error": "Bad Request",
+    "path": "/v1/grpmgr/cc/group/e841625c-ecbf-4847-bee7-c0c6c0e4d351"
+  }
+}

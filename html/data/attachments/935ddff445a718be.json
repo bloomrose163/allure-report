@@ -1,6 +1,0 @@
-{
-  "Status Code": 400,
-  "Body": {
-    "error": "Field type miss-match, description should be String but the type in the payload is wrong"
-  }
-}

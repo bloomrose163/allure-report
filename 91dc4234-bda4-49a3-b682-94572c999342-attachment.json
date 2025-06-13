@@ -1,0 +1,59 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "configurations": [
+      {
+        "id": "57b9e605-d598-4f1c-bc79-33ae37022fa3",
+        "category": "Data Service",
+        "parameterValues": {
+          "X_000631_VlanMux8021p": 4,
+          "productFamily": "EXOS",
+          "defaultConnectionService": true,
+          "X_000631_Dscp2PbitMapEnabled": true,
+          "ConnectionType": "IP_Routed",
+          "X_000631_VlanMuxID": 4093,
+          "FramingType": "IPoE",
+          "Mode": "RG Routed",
+          "NATEnabled": true,
+          "version": "v4",
+          "X_000631_IGMPProxy": false,
+          "X_000631_IPv4Enabled": true,
+          "X_000631_IPv6Enabled": false,
+          "AddressingType": "DHCP",
+          "ServiceConnectionType": "DHCP"
+        }
+      }
+    ],
+    "serviceOrchestration": {
+      "iana": false,
+      "iapd": false,
+      "mode": "RG Routed",
+      "name": "service_orchestration_profilePez4bC",
+      "orgId": "2550",
+      "pBits": 4,
+      "vlanId": 4093,
+      "category": "Data Service",
+      "6rdPrefix": "2001:1234::/32",
+      "ipVersion": "v4",
+      "6rdDynamic": true,
+      "iapdLength": "no",
+      "framingType": "IPoE",
+      "dscp2PbitMap": true,
+      "productFamily": "EXOS",
+      "6rdIpv4MaskLen": 9,
+      "6rdValidPltime": 3,
+      "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+      "6rdPrefixPltime": 4,
+      "BridgedInterface": [
+        "5GHz IPTV SSID",
+        "LAN Port 1"
+      ],
+      "dhcp6cForAddress": "try ",
+      "6rdBorderRelayAddress": "192.88.99.1",
+      "defaultConnectionService": true
+    },
+    "_id": "d6cbd684-d48e-4b96-9ae2-e0116b863164",
+    "name": "Service Orchestration ~ service_orchestration_profilePez4bC",
+    "orgId": "2550"
+  }
+}

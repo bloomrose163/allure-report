@@ -1,0 +1,28 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "8f8c2398-1d7f-4cdf-b4de-fb49b7d17cf8",
+    "allowInheritance": true,
+    "completedCount": 0,
+    "description": "create a dynamic group",
+    "cpeFilter": {
+      "modelName": {
+        "_id": "5d9a40ae-53d0-45c1-81e9-2ba05afdca97",
+        "$eq": "GS4227"
+      },
+      "serialNumber": {
+        "_id": "ac8d30bc-3dcb-49f1-87c3-97cf286615bd",
+        "$regex": "^CXNK00AFB83B$"
+      },
+      "manufacturer": {
+        "_id": "c57ecaf3-0cb5-4ea6-a14e-fad387cdb877",
+        "$eq": "Calix"
+      }
+    },
+    "name": "groupToQKsB",
+    "orgId": "2550",
+    "type": "dynamic",
+    "uncompletedCount": 0,
+    "workflowCount": 0
+  }
+}

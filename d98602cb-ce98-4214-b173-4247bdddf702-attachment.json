@@ -1,0 +1,19 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.testx.xilac.net/cc/group?orgId=2550",
+  "Params": null,
+  "Body": {
+    "name": "groupToQKsB",
+    "orgId": "2550",
+    "description": "create a dynamic group",
+    "type": "dynamic",
+    "allowInheritance": true,
+    "cpeFilter": {
+      "manufacturer": "Calix",
+      "modelName": "GS4227",
+      "serialNumber": {
+        "$regex": "^CXNK00AFB83B$"
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.testx.xilac.net/cc/static-group-member?orgId=2550",
+  "Params": null,
+  "Body": {
+    "groupId": "8526e1d5-bd96-42b6-a23a-c7859fcaffd1",
+    "orgId": "2550",
+    "memberInfo": "CXNK01A8D0C7"
+  }
+}

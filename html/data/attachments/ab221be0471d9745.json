@@ -1,0 +1,11 @@
+{
+  "Method": "POST",
+  "URL": "http://softwareupgradegroupmanager-service.test.xilac.net/v1/grpmgr/cc/group?orgId=2550",
+  "Params": null,
+  "Body": {
+    "name": "cc/groupan51t8",
+    "description": "system group description",
+    "type": "dynamic",
+    "allowInheritance": true
+  }
+}

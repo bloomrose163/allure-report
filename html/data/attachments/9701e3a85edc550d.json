@@ -1,0 +1,60 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "configurations": [
+        {
+          "id": "cd60766c-a797-43dd-89fe-239d119e7e6f",
+          "category": "Data Service",
+          "parameterValues": {
+            "productFamily": "EXOS",
+            "X_000631_VlanMux8021p": 0,
+            "defaultConnectionService": true,
+            "VlanTagAction": true,
+            "FramingType": "PPPoE",
+            "X_000631_VlanMuxID": 601,
+            "Mode": "RG Routed",
+            "versionForPPPoE": "dualStack",
+            "NATEnabled": true,
+            "X_000631_IGMPProxy": false,
+            "X_000631_IPv4Enabled": true,
+            "X_000631_IPv6Enabled": true,
+            "ServiceConnectionType": "PPPOE"
+          }
+        }
+      ],
+      "_id": "0e122c20-1fdf-4af9-836c-ce4608c10b54",
+      "name": "jkong-L3-Data-PPPoE-VLAN601",
+      "description": "jessica.kong",
+      "orgId": "2550"
+    },
+    {
+      "configurations": [
+        {
+          "id": "d3893302-86af-4bd4-8518-98ed3a2218ea",
+          "category": "Data Service",
+          "parameterValues": {
+            "productFamily": "EXOS",
+            "X_000631_VlanMux8021p": 0,
+            "defaultConnectionService": true,
+            "ConnectionType": "IP_Routed",
+            "VlanTagAction": true,
+            "FramingType": "IPoE",
+            "X_000631_VlanMuxID": 888,
+            "Mode": "RG Routed",
+            "NATEnabled": true,
+            "version": "v4",
+            "X_000631_IGMPProxy": false,
+            "X_000631_IPv4Enabled": true,
+            "AddressingType": "DHCP",
+            "X_000631_IPv6Enabled": false,
+            "ServiceConnectionType": "DHCP"
+          }
+        }
+      ],
+      "_id": "1edaf6a8-400e-407b-82f2-6b6079f44a71",
+      "name": "configuration_profileG6ay3d",
+      "orgId": "2550"
+    }
+  ]
+}

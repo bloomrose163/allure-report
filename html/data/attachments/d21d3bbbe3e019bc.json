@@ -1,0 +1,14 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "3c9b653a-a448-4ff3-aca3-4dd3d5c9c328",
+    "allowInheritance": true,
+    "completedCount": 0,
+    "description": "system group description",
+    "name": "grouprnzLNN",
+    "orgId": "2550",
+    "type": "dynamic",
+    "uncompletedCount": 0,
+    "workflowCount": 0
+  }
+}

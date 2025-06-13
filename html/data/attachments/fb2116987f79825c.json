@@ -1,0 +1,21 @@
+{
+  "Method": "PUT",
+  "URL": "http://acs-api.testx.xilac.net/cc/service-orchestration-profile/eba6fb98-1c24-49d7-8564-775f4b4ae2a8",
+  "Params": null,
+  "Body": {
+    "name": "service_orchestration_profile3TgUDB",
+    "orgId": "2550",
+    "category": "Video Service",
+    "vlanId": 265,
+    "productFamily": "EXOS",
+    "mode": "RG Routed",
+    "dscp2PbitMap": true,
+    "VLAN_Enable": true,
+    "pBits": 6,
+    "BridgedInterface": [
+      "5GHz IPTV SSID"
+    ],
+    "QueryInterval": 126,
+    "MaxStreams": 0
+  }
+}

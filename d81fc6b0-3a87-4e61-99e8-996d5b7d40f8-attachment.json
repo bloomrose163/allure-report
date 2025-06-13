@@ -1,0 +1,6 @@
+{
+  "Status Code": 403,
+  "Body": {
+    "error": "This group is currently in use by one or more static group member(s) thus cannot be deleted."
+  }
+}

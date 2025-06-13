@@ -1,0 +1,52 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "data": {
+        "id": "d0f4e667-0fa1-4a67-8989-e99a3f8cb00b",
+        "Enable": false
+      },
+      "deviceId": "CXNK00AFB83B",
+      "modelName": "GS4227",
+      "opMode": "Managed ONT",
+      "orgId": "2550",
+      "voice": {
+        "id": "d85eb34b-e335-4633-90e6-de13b2fbf113",
+        "FaxT38": {
+          "Enable": true
+        },
+        "Line": {
+          "1": {
+            "id": "ef5e00c4-d3cb-42c5-98d7-0057bf10178f",
+            "Enable": "Enabled",
+            "VoiceProcessing": {
+              "ReceiveGain": -4,
+              "TransmitGain": -2
+            },
+            "CallingFeatures": {
+              "CallerIDEnable": true,
+              "X_000631_DirectConnectEnable": true,
+              "X_000631_DirectConnectNumber": "7077663113",
+              "CallWaitingEnable": true,
+              "X_000631_ThreewayCallingEnable": true,
+              "X_000631_DirectConnectTimer": 0,
+              "MWIEnable": true
+            },
+            "SIP": {
+              "AuthUserName": "sip-user",
+              "AuthPassword": "sip-password",
+              "URI": "4001"
+            }
+          },
+          "2": {
+            "id": "7aa046e3-30e1-4290-b07d-215751a913cb",
+            "Enable": "Disabled"
+          }
+        },
+        "ServiceType": "SIP"
+      },
+      "currentDate": "2025-06-13T09:21:14.103Z",
+      "_id": "a51abbda-e79a-4da9-8cc2-f75e7620eccd"
+    }
+  ]
+}
