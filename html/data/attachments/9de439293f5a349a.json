@@ -1,6 +1,0 @@
-{
-  "Status Code": 500,
-  "Body": {
-    "error": "class org.hibernate.metamodel.mapping.internal.BasicAttributeMapping cannot be cast to class org.hibernate.sql.ast.tree.from.TableGroupJoinProducer (org.hibernate.metamodel.mapping.internal.BasicAttributeMapping and org.hibernate.sql.ast.tree.from.TableGroupJoinProducer are in unnamed module of loader org.springframework.boot.loader.launch.LaunchedClassLoader @4a574795)"
-  }
-}

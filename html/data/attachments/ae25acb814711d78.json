@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.testx.xilac.net/cc/provisioning-record?orgId=2550&opMode=AE",
-  "Params": {
-    "opMode": "AE"
-  },
-  "Body": null
-}

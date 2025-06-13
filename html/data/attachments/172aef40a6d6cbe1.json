@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.testx.xilac.net/cc/static-group-member/count?orgId=2550&bWithDeviceRecord=False",
-  "Params": {
-    "bWithDeviceRecord": "False"
-  },
-  "Body": null
-}

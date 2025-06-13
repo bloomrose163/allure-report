@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.testx.xilac.net/cc/device?orgId=2550&macAddress=notvalid",
-  "Params": {
-    "macAddress": "notvalid"
-  },
-  "Body": null
-}

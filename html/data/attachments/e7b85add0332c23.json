@@ -1,8 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.testx.xilac.net/cc/provisioning-record?orgId=2550&deviceId=10.245.222.132",
-  "Params": {
-    "deviceId": "10.245.222.132"
-  },
-  "Body": null
-}

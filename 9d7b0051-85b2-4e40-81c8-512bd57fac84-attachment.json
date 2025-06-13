@@ -1,9 +1,0 @@
-{
-  "Method": "GET",
-  "URL": "http://acs-api.testx.xilac.net/cc/provisioning-record?orgId=2550&opMode=Managed+ONT&limit=2",
-  "Params": {
-    "opMode": "Managed ONT",
-    "limit": 2
-  },
-  "Body": null
-}
