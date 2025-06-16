@@ -1,0 +1,21 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "_id": "015625c8-f701-4a2b-a5fb-547a0f6cbda4",
+      "createTime": "2025-06-16T01:52:42.011Z",
+      "groupId": "5297a554-2a48-4de9-9e75-b8e880016b15",
+      "memberInfo": "c3e4c738-b3b3-47fc-8724-5d1e9ecbe565",
+      "orgId": "2550",
+      "allowInheritance": true
+    },
+    {
+      "_id": "09dc363f-18ce-4b93-8c4b-fd3c3d50f5e6",
+      "createTime": "2025-06-04T06:12:39.255Z",
+      "groupId": "b5a625c0-ec93-45c3-be97-fc623584391d",
+      "memberInfo": "CXNK00AFB83B",
+      "orgId": "2550",
+      "allowInheritance": true
+    }
+  ]
+}

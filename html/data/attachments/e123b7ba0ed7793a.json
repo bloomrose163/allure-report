@@ -1,0 +1,25 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "configurations": [
+      {
+        "id": "efd751ea-8fc0-4f19-8c1d-e283ad67bcf4",
+        "category": "Bandwidth",
+        "parameterValues": {
+          "UpstreamCIR": "11k",
+          "DownstreamCIR": "101k"
+        }
+      }
+    ],
+    "serviceOrchestration": {
+      "name": "service_orchestration_profilelZuTGS",
+      "orgId": "2550",
+      "category": "Bandwidth",
+      "downstreamCIR": 101,
+      "upstreamCIR": 11
+    },
+    "_id": "8801b96c-ef82-46d7-9c67-25428025efc5",
+    "name": "Service Orchestration ~ service_orchestration_profilelZuTGS",
+    "orgId": "2550"
+  }
+}

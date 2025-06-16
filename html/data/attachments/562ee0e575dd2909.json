@@ -1,0 +1,25 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "configurations": [
+      {
+        "id": "cd148211-142d-41a6-b220-f81a6d7e3762",
+        "category": "Bandwidth",
+        "parameterValues": {
+          "UpstreamCIR": "10k",
+          "DownstreamCIR": "100k"
+        }
+      }
+    ],
+    "serviceOrchestration": {
+      "name": "service_orchestration_profileFPy24D",
+      "orgId": "2550",
+      "category": "Bandwidth",
+      "downstreamCIR": 100,
+      "upstreamCIR": 10
+    },
+    "_id": "8801b96c-ef82-46d7-9c67-25428025efc5",
+    "name": "Service Orchestration ~ service_orchestration_profileFPy24D",
+    "orgId": "2550"
+  }
+}

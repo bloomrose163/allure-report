@@ -1,0 +1,26 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "maintenanceWindow": false,
+    "_id": "cd5df01c-6ee7-4536-9fa7-b61ddd13ddf3",
+    "description": "created by apple",
+    "fullGroupExecute": false,
+    "orgId": "2550",
+    "bPriorNewAndFailed": true,
+    "createTime": "2025-06-16T18:38:13.407Z",
+    "name": "workflowaRgMyG",
+    "state": "In Progress",
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "CPE Event",
+        "cpeEvent": "CC EVENT - On Boot"
+      }
+    },
+    "actions": [
+      {
+        "_id": "6531a48a-aa49-47ba-a41a-858675d6aa15",
+        "actionType": "Reboot"
+      }
+    ]
+  }
+}

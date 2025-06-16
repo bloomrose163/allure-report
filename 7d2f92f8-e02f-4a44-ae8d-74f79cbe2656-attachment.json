@@ -1,0 +1,21 @@
+{
+  "Method": "PUT",
+  "URL": "http://acs-api.testx.xilac.net/cc/service-orchestration-profile/144d70b6-7385-4e8c-91be-cc27393b8adf",
+  "Params": null,
+  "Body": {
+    "name": "service_orchestration_profileSGSJGm",
+    "category": "Video - Multicast VLAN Registration (MVR)",
+    "orgId": "2550",
+    "vlans": [
+      {
+        "vlanId": 33,
+        "ranges": [
+          {
+            "start": "224.0.0.1",
+            "end": "224.0.0.9"
+          }
+        ]
+      }
+    ]
+  }
+}

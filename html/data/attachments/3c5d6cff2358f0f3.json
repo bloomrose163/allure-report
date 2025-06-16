@@ -1,8 +1,0 @@
-{
-  "Method": "POST",
-  "URL": "http://acs-api.testx.xilac.net/cc/static-group-member?orgId=2550",
-  "Params": null,
-  "Body": {
-    "name": "static_group_memberg73MQu"
-  }
-}

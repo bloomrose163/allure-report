@@ -1,0 +1,33 @@
+{
+  "Method": "PUT",
+  "URL": "http://acs-api.testx.xilac.net/cc/service-orchestration-profile/50215e3e-4af0-4fcc-b38c-d24e1b54b167",
+  "Params": null,
+  "Body": {
+    "iana": false,
+    "iapd": false,
+    "mode": "RG Routed",
+    "name": "service_orchestration_profileWGyksf",
+    "orgId": "2550",
+    "pBits": 4,
+    "vlanId": 4093,
+    "category": "Data Service",
+    "6rdPrefix": "2001:1234::/32",
+    "ipVersion": "v4",
+    "6rdDynamic": true,
+    "iapdLength": "no",
+    "framingType": "IPoE",
+    "dscp2PbitMap": true,
+    "productFamily": "EXOS",
+    "6rdIpv4MaskLen": 9,
+    "6rdValidPltime": 3,
+    "ipv6DnsServers": "1f56e35d-d4bf-41da-8425-91ef038e3248",
+    "6rdPrefixPltime": 4,
+    "BridgedInterface": [
+      "5GHz IPTV SSID",
+      "LAN Port 1"
+    ],
+    "dhcp6cForAddress": "try ",
+    "6rdBorderRelayAddress": "192.88.99.1",
+    "defaultConnectionService": true
+  }
+}

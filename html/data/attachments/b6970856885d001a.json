@@ -1,0 +1,93 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "maintenanceWindow": false,
+      "_id": "01b6cadd-9aa8-45d2-8747-357faafd41be",
+      "description": "created by apple",
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1749494214288
+      },
+      "name": "workflowZ4zZGs",
+      "state": "In Progress",
+      "execPolicy": {
+        "initialTrigger": {
+          "type": "CPE Event",
+          "cpeEvent": "CC EVENT - On Boot"
+        }
+      },
+      "actions": [
+        {
+          "_id": "36052c2d-3710-4750-b73a-12d2c01f15af",
+          "actionType": "Reboot"
+        }
+      ]
+    },
+    {
+      "nextRuntime": "2025-06-10T13:54:07.468Z",
+      "maintenanceWindow": true,
+      "_id": "0cec5855-c035-42e5-baa8-e9e8f1991f0f",
+      "description": "test",
+      "groups": [
+        "4eaedc07-108f-4efe-bdac-68b4a4eb35aa"
+      ],
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1749534787093
+      },
+      "name": "workflowCiEOUX",
+      "state": "Scheduled",
+      "execPolicy": {
+        "window": {
+          "recurrence": 1,
+          "windowLength": 3600,
+          "startDateTime": "2025-06-10T13:54:07.468Z",
+          "timezone": "Asia/Shanghai",
+          "type": "daily",
+          "frequency": 1
+        },
+        "initialTrigger": {
+          "type": "Maintenance Window"
+        }
+      },
+      "actions": [
+        {
+          "_id": "c50f9546-f17c-4572-bb65-da8d355918f2",
+          "actionType": "Add to Static Device Group",
+          "profileName": "bian-GS2028E",
+          "staticGroupId": "e7f81c6f-27c6-4652-b605-cc14493d6ed4"
+        }
+      ]
+    },
+    {
+      "maintenanceWindow": false,
+      "_id": "0eaf901d-8649-4065-93d9-db3723189474",
+      "description": "created by apple",
+      "fullGroupExecute": false,
+      "orgId": "2550",
+      "bPriorNewAndFailed": true,
+      "createTime": {
+        "$date": 1749806948036
+      },
+      "name": "workflowXd3ajn",
+      "state": "In Progress",
+      "execPolicy": {
+        "initialTrigger": {
+          "type": "CPE Event",
+          "cpeEvent": "CC EVENT - On Boot"
+        }
+      },
+      "actions": [
+        {
+          "_id": "16c1b554-b749-4b2c-aa0e-841b9439d06a",
+          "actionType": "Reboot"
+        }
+      ]
+    }
+  ]
+}

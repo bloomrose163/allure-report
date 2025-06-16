@@ -1,0 +1,12 @@
+{
+  "Method": "PUT",
+  "URL": "http://acs-api.testx.xilac.net/cc/service-orchestration-profile/8801b96c-ef82-46d7-9c67-25428025efc5",
+  "Params": null,
+  "Body": {
+    "name": "service_orchestration_profilelZuTGS",
+    "orgId": "2550",
+    "category": "Bandwidth",
+    "downstreamCIR": 101,
+    "upstreamCIR": 11
+  }
+}
