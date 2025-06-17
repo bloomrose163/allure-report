@@ -1,1 +1,0 @@
-HTTPConnectionPool(host='softwareupgradegroupmanager-service.test.xilac.net', port=80): Max retries exceeded with url: /v1/grpmgr/cc/group?orgId=2550 (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000263F7B083D0>: Failed to resolve 'softwareupgradegroupmanager-service.test.xilac.net' ([Errno 11001] getaddrinfo failed)"))

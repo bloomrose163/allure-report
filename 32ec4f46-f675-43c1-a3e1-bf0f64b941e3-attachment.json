@@ -1,6 +1,0 @@
-{
-  "Status Code": 500,
-  "Body": {
-    "error": "Unable to find com.calix.acs.entity.systemGroup.SystemGroup with id c6e31556-7b3c-48c7-b4c3-9dc48d5b7dca"
-  }
-}

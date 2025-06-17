@@ -1,0 +1,21 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.testx.xilac.net/cc/service-orchestration-profile?orgId=2550",
+  "Params": null,
+  "Body": {
+    "name": "service_orchestration_profilehASQc0",
+    "orgId": "2550",
+    "category": "Video Service",
+    "vlanId": 260,
+    "productFamily": "EXOS",
+    "mode": "RG Routed",
+    "dscp2PbitMap": true,
+    "VLAN_Enable": true,
+    "pBits": 4,
+    "BridgedInterface": [
+      "5GHz IPTV SSID"
+    ],
+    "QueryInterval": 125,
+    "MaxStreams": 0
+  }
+}

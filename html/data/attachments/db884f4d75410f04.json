@@ -1,0 +1,15 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.testx.xilac.net/cc/images?orgId=2550",
+  "Params": null,
+  "Body": {
+    "name": "imagesAVYZHM",
+    "description": "Image for RG Device Upgrade",
+    "type": "SW/FW Image",
+    "models": [
+      "GS4229E"
+    ],
+    "manufacturer": "Calix",
+    "version": "25.2.500.287"
+  }
+}
