@@ -1,0 +1,59 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "e2a0b561-2eac-4059-89a7-d2ff12e70f80",
+    "allowInheritance": true,
+    "completedCount": 0,
+    "description": "system group description",
+    "cpeFilter": {
+      "manufacturer": "Calix",
+      "modelName": {
+        "_id": "3863e270-20dc-4020-a609-d26ad9cf7002",
+        "$in": [
+          "GS4237",
+          "GS2128G",
+          "GM1028"
+        ]
+      },
+      "softwareVersion": {
+        "_id": "2094246e-0dba-4073-a406-8c1308d7bb7b",
+        "$ne": "24.2.500.259"
+      },
+      "hardwareVersion": {
+        "_id": "6a00c936-c593-4382-bc69-1696f2602069",
+        "$ne": "3000287810"
+      },
+      "serialNumber": {
+        "_id": "afc1aeb9-e788-41ca-84f0-acc70b29f0ad",
+        "$regex": "^CXNK0151C334$"
+      },
+      "registrationId": {
+        "_id": "018d2d30-788f-4c7a-a3c7-169ad6465956",
+        "$regex": "^.*?$"
+      },
+      "$or": [
+        {
+          "normalizedIpAddress": {
+            "id": "9f543592-ed8c-4cc0-b51a-a4cf078e2417",
+            "$gte": "192.168.003.000",
+            "$lte": "192.168.003.255"
+          }
+        },
+        {
+          "normalizedIpAddress": {
+            "id": "9c69642c-a27c-4314-9edd-c9fbbedb54cf",
+            "$gte": "192.168.004.000",
+            "$lte": "192.168.004.255"
+          }
+        }
+      ],
+      "opMode": "RG",
+      "wanAccessType": "GPON"
+    },
+    "name": "grouprLB89U",
+    "orgId": "2550",
+    "type": "dynamic",
+    "uncompletedCount": 0,
+    "workflowCount": 0
+  }
+}
