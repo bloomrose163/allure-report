@@ -1,0 +1,22 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "fdc2e21e-ec3a-48d2-b7af-3da5b79f5f1a",
+    "allowInheritance": true,
+    "completedCount": 0,
+    "description": "create a dynamic group",
+    "cpeFilter": {
+      "manufacturer": "Calix",
+      "modelName": "GS4227",
+      "serialNumber": {
+        "_id": "d96e1507-9499-45ed-9748-63ea87cc3b52",
+        "$regex": "^CXNK00AFB83B$"
+      }
+    },
+    "name": "groupRjJCe5",
+    "orgId": "2550",
+    "type": "dynamic",
+    "uncompletedCount": 0,
+    "workflowCount": 0
+  }
+}

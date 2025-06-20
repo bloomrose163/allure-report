@@ -1,0 +1,61 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "configurations": [
+        {
+          "id": "1d32e991-ce15-4555-bf29-7ac707f2cf1f",
+          "category": "Data Service",
+          "parameterValues": {
+            "productFamily": "EXOS",
+            "X_000631_VlanMux8021p": 0,
+            "defaultConnectionService": true,
+            "ConnectionType": "IP_Routed",
+            "VlanTagAction": true,
+            "FramingType": "IPoE",
+            "X_000631_VlanMuxID": 888,
+            "Mode": "RG Routed",
+            "NATEnabled": true,
+            "version": "v4",
+            "X_000631_IGMPProxy": false,
+            "X_000631_IPv4Enabled": true,
+            "AddressingType": "DHCP",
+            "X_000631_IPv6Enabled": false,
+            "ServiceConnectionType": "DHCP"
+          }
+        }
+      ],
+      "_id": "0305b502-7cc9-40f9-ac22-2d905802ae20",
+      "name": "configuration_profile1qgjkF",
+      "orgId": "2550"
+    },
+    {
+      "configurations": [
+        {
+          "id": "a64a0cd3-7953-41af-ab9b-b3ee9125bff7",
+          "category": "Data Service",
+          "parameterValues": {
+            "productFamily": "EXOS",
+            "X_000631_VlanMux8021p": 0,
+            "defaultConnectionService": true,
+            "ConnectionType": "IP_Routed",
+            "VlanTagAction": true,
+            "FramingType": "IPoE",
+            "X_000631_VlanMuxID": 888,
+            "Mode": "RG Routed",
+            "NATEnabled": true,
+            "version": "v4",
+            "X_000631_IGMPProxy": false,
+            "X_000631_IPv4Enabled": true,
+            "AddressingType": "DHCP",
+            "X_000631_IPv6Enabled": false,
+            "ServiceConnectionType": "DHCP"
+          }
+        }
+      ],
+      "_id": "09cd68a1-1777-4a71-846a-20b0b2a12120",
+      "name": "configuration_profile8L3E3b",
+      "orgId": "2550"
+    }
+  ]
+}

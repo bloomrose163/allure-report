@@ -1,0 +1,31 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "configurations": [
+      {
+        "id": "d084cad6-7619-4064-a51e-79a2aee2f2e5",
+        "category": "Data Service",
+        "parameterValues": {
+          "productFamily": "EXOS",
+          "X_000631_VlanMux8021p": 0,
+          "defaultConnectionService": true,
+          "ConnectionType": "IP_Routed",
+          "VlanTagAction": true,
+          "FramingType": "IPoE",
+          "X_000631_VlanMuxID": 888,
+          "Mode": "RG Routed",
+          "NATEnabled": true,
+          "version": "v4",
+          "X_000631_IGMPProxy": false,
+          "X_000631_IPv4Enabled": true,
+          "X_000631_IPv6Enabled": false,
+          "AddressingType": "DHCP",
+          "ServiceConnectionType": "DHCP"
+        }
+      }
+    ],
+    "_id": "2cc6d290-3250-4bd1-a342-f136c50bb26d",
+    "name": "configuration_profilevZk8vP",
+    "orgId": "2550"
+  }
+}

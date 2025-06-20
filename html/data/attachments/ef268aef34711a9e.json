@@ -1,0 +1,14 @@
+{
+  "Status Code": 200,
+  "Body": {
+    "_id": "11ec0227-5eb7-473f-98c8-8e1f8826578c",
+    "allowInheritance": true,
+    "completedCount": 0,
+    "description": "system group description",
+    "name": "groupYc6Geb",
+    "orgId": "2550",
+    "type": "dynamic",
+    "uncompletedCount": 0,
+    "workflowCount": 0
+  }
+}

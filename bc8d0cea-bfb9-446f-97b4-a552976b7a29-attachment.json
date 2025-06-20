@@ -1,0 +1,6 @@
+{
+  "Status Code": 500,
+  "Body": {
+    "error": "org.hibernate.query.sqm.UnknownPathException: Could not resolve attribute 'file' of 'com.calix.acs.entity.workflow.ActionsItem' [select distinct(workflow) from Workflow workflow left join fetch workflow.systemGroups systemGroups left join fetch workflow.actions actions left join fetch workflow.actions.staticGroup staticGroup left join fetch workflow.actions.replacedByProfile replacedByProfile left join fetch workflow.actions.profile profile left join fetch workflow.actions.file file left join fetch workflow.actions.downloadConfigurationFile downloadConfigurationFile left join fetch workflow.actions.passpointConfig.communities communities left join fetch workflow.execPolicy.window.weekdays weekdays left join fetch workflow.execPolicy.window.daysOfMonth daysOfMonth where 1=1  and ( upper(workflow.name) = 'TEST_WORKFLOW' and upper(workflow.orgId) = '2550' ) ]"
+  }
+}

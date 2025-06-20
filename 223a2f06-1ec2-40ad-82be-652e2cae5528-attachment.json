@@ -1,0 +1,73 @@
+{
+  "Status Code": 200,
+  "Body": [
+    {
+      "additionalHardwareVersion": "UnitSerialNumber=632410013588",
+      "connectionRequestPassword": "admin",
+      "connectionRequestUrl": "http://10.245.241.96:60002/MQCoYJ4d",
+      "connectionRequestUsername": "admin",
+      "createTime": "2025-06-03T01:53:12.096Z",
+      "dataModelName": "tr098",
+      "defaultGateway": "10.245.241.5",
+      "hardwareVersion": "3000307602",
+      "ipAddress": "10.245.241.96",
+      "ipV6SitePrefix": "240e:6a0:37:50d::/64",
+      "lastBootTime": "2025-06-19T05:09:35.736Z",
+      "lastDiscoverTime": "2025-06-19T05:09:35.736Z",
+      "macAddress": "e4:6c:d1:43:44:0e",
+      "manufacturer": "Calix",
+      "manufacturerOUI": "E46CD1",
+      "modelName": "GS4229E",
+      "normalizedIpAddress": "010.245.241.096",
+      "opMode": "RG",
+      "opRole": "Controller",
+      "orgId": "2550",
+      "periodicInformEnable": true,
+      "periodicInformInterval": 86400,
+      "productClass": "GigaSpire",
+      "secondIpAddress": "240e:6a0:37:400:1100:2200:7d3a:efb4/128",
+      "secondWanInterface": "InternetGatewayDevice.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1",
+      "serialNumber": "CXNK01A8D0C7",
+      "softwareVersion": "25.2.500.287",
+      "subnetMask": "255.255.255.255",
+      "timezoneOffset": "-05:00",
+      "wanAccessType": "CopperEthernet",
+      "wanIpConnectionPath": "InternetGatewayDevice.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1",
+      "wanSecDCSConnectionPath": "InternetGatewayDevice.WANDevice.1.WANConnectionDevice.1.WANPPPConnection.1",
+      "lastInformTime": "2025-06-20T09:33:10.874Z",
+      "lastInformEventCodes": ",M Upload,",
+      "changeCounter": 7,
+      "paramAttributes": {
+        "InternetGatewayDevice": {
+          "DeviceInfo": {
+            "X_000631_IGDChangeCounter": 1
+          }
+        }
+      },
+      "pppUsername": "cxnk_user",
+      "discoveryError": "Error portable subscriber response!",
+      "udpConnectionRequestAddr": "4.37.49.201:56737",
+      "stunEnabled": true,
+      "lastChangeTime": 1750411997346,
+      "fromId": "",
+      "mqttTopic": "",
+      "cwmpProtocol": "tr069",
+      "isHttps": false,
+      "duplicateInformCountInShortInterval": 0,
+      "lastEventCode": {
+        "eventCode1": "7 TRANSFER COMPLETE",
+        "eventCode2": "M Upload",
+        "eventCode3": "",
+        "empty": false
+      },
+      "_id": "2550-e46cd1-CXNK01A8D0C7",
+      "STUNServerAddress": "acs-stun.testx.xilac.net",
+      "bSmbMode": false,
+      "bMduMode": false,
+      "bUseBaseMacAddress": true,
+      "hardwareSerialNumber": "632410013588",
+      "bSupplementAcs": false,
+      "wanConnType": "PPPoE"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Method": "POST",
+  "URL": "http://acs-api.testx.xilac.net/cc/workflow?orgId=2550",
+  "Params": null,
+  "Body": {
+    "orgId": "2550",
+    "name": "workflowuLHSc1",
+    "description": "created by apple",
+    "actions": [
+      {
+        "actionType": "Reboot"
+      }
+    ],
+    "groups": [
+      "5210723a-be2d-42e1-ada6-823ec318e5ee"
+    ],
+    "execPolicy": {
+      "initialTrigger": {
+        "type": "CPE Event",
+        "cpeEvent": "CC EVENT - On Boot"
+      }
+    },
+    "bPriorNewAndFailed": true,
+    "fullGroupExecute": false
+  }
+}
